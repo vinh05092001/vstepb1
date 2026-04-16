@@ -1,0 +1,185 @@
+--- START AUDIT ---
+
+=== JSON / STRUCTURE ===
+Detected multiple arrays accidentally merged together! Found 30 nested arrays.
+Index 100 is a nested array (length 50) instead of an object.
+Index 101 is a nested array (length 50) instead of an object.
+Index 102 is a nested array (length 50) instead of an object.
+
+=== ID INTEGRITY ===
+Total ID errors: 100.
+Examples:
+Duplicate ID: 451 ('at the moment')
+Duplicate ID: 452 ('every day')
+Duplicate ID: 453 ('in the afternoon')
+Duplicate ID: 454 ('next week')
+Duplicate ID: 455 ('on time')
+Duplicate ID: 456 ('quarter past')
+Duplicate ID: 457 ('soon')
+Duplicate ID: 458 ('today')
+Duplicate ID: 459 ('tomorrow')
+Duplicate ID: 460 ('tonight')
+Duplicate ID: 461 ('weekend')
+Duplicate ID: 462 ('what time')
+Duplicate ID: 463 ('after that')
+Duplicate ID: 464 ('all day')
+Duplicate ID: 465 ('as soon as possible')
+
+=== TOPIC INTEGRITY ===
+- Daily Life: 150
+- Home & Household: 150
+- Personal Habits: 150
+- Time & Schedules: 200
+- Food & Cooking: 101
+- Shopping: 150
+- Transportation: 150
+- Health & Fitness: 150
+- Travel: 150
+- Weather: 149
+Errors:
+
+
+=== LEVEL INTEGRITY ===
+All levels valid.
+
+=== DUPLICATES / CLUSTERS ===
+Total duplicate/cluster issues: 229
+Exact duplicate phrase: 'sweep the floor' (IDs: 78, 154)
+Exact duplicate phrase: 'make the bed' (IDs: 5, 158)
+Exact duplicate phrase: 'wash the dishes' (IDs: 14, 161)
+Exact duplicate phrase: 'do the laundry' (IDs: 13, 164)
+Exact duplicate phrase: 'mop the floor' (IDs: 30, 170)
+Exact duplicate phrase: 'tidy up' (IDs: 18, 176)
+Exact duplicate phrase: 'hang out the washing' (IDs: 115, 180)
+Exact duplicate phrase: 'change the sheets' (IDs: 136, 187)
+Exact duplicate phrase: 'declutter' (IDs: 46, 189)
+Exact duplicate phrase: 'do a deep clean' (IDs: 94, 192)
+Exact duplicate phrase: 'lock the door' (IDs: 63, 212)
+Exact duplicate phrase: 'water the plants' (IDs: 71, 227)
+Exact duplicate phrase: 'set the table' (IDs: 84, 230)
+Exact duplicate phrase: 'clear the table' (IDs: 80, 231)
+Exact duplicate phrase: 'sort the recycling' (IDs: 81, 238)
+Exact duplicate phrase: 'do the ironing' (IDs: 29, 240)
+Exact duplicate phrase: 'mow the lawn' (IDs: 137, 277)
+Exact duplicate phrase: 'brush teeth' (IDs: 4, 301)
+Exact duplicate phrase: 'wake up' (IDs: 1, 302)
+Exact duplicate phrase: 'take a shower' (IDs: 2, 303)
+Exact duplicate phrase: 'have breakfast' (IDs: 6, 305)
+Exact duplicate phrase: 'drink water' (IDs: 54, 306)
+Exact duplicate phrase: 'go to bed' (IDs: 11, 307)
+Exact duplicate phrase: 'wash the dishes' (IDs: 14, 312)
+Exact duplicate phrase: 'stay up late' (IDs: 37, 314)
+Exact duplicate phrase: 'make the bed' (IDs: 5, 319)
+Exact duplicate phrase: 'read a book' (IDs: 58, 352)
+Exact duplicate phrase: 'go for a walk' (IDs: 24, 353)
+Exact duplicate phrase: 'play games' (IDs: 60, 355)
+Exact duplicate phrase: 'watch TV' (IDs: 10, 356)
+Exact duplicate phrase: 'sleep' (IDs: 12, 357)
+Exact duplicate phrase: 'take a nap' (IDs: 21, 363)
+Exact duplicate phrase: 'tidy up' (IDs: 18, 367)
+Exact duplicate phrase: 'wash your face' (IDs: 51, 401)
+Exact duplicate phrase: 'listen to music' (IDs: 59, 405)
+Exact duplicate phrase: 'sleep in' (IDs: 38, 439)
+Exact duplicate phrase: 'on time' (IDs: 323, 455)
+Exact duplicate phrase: 'put off' (IDs: 332, 487)
+Exact duplicate phrase: 'at the moment' (IDs: 451, 451)
+Exact duplicate phrase: 'every day' (IDs: 452, 452)
+Exact duplicate phrase: 'in the afternoon' (IDs: 453, 453)
+Exact duplicate phrase: 'next week' (IDs: 454, 454)
+Exact duplicate phrase: 'on time' (IDs: 323, 455)
+Exact duplicate phrase: 'quarter past' (IDs: 456, 456)
+Exact duplicate phrase: 'soon' (IDs: 457, 457)
+Exact duplicate phrase: 'today' (IDs: 458, 458)
+Exact duplicate phrase: 'tomorrow' (IDs: 459, 459)
+Exact duplicate phrase: 'tonight' (IDs: 460, 460)
+Exact duplicate phrase: 'weekend' (IDs: 461, 461)
+Exact duplicate phrase: 'what time' (IDs: 462, 462)
+
+=== TEMPLATES ===
+Template violations total: 3
+ID 43: Machine-generated template 'catch up on' -> 'catch up on sleep'
+ID 88: Machine-generated template 'plan' -> 'plan the week'
+ID 856: Machine-generated template 'manage' -> 'manager'
+
+=== IPA ===
+IPA errors total: 0
+IPA valid.
+
+=== VIETNAMESE ===
+Vietnamese errors total: 0
+Vietnamese valid.
+
+=== TOPIC BY TOPIC METRICS ===
+
+Topic: Daily Life
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (82)
+
+Topic: Home & Household
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (36)
+
+Topic: Personal Habits
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (69)
+
+Topic: Time & Schedules
+Verdict: FAIL
+Count: 200
+Levels: {"A1":48,"A2":56,"B1":56,"B2":40}
+Problems:
+- Expected 150 items, but got 200
+- High number of duplicate/dense clusters (80)
+
+Topic: Food & Cooking
+Verdict: FAIL
+Count: 101
+Levels: {"A1":24,"A2":28,"B1":28,"B2":21}
+Problems:
+- Expected 150 items, but got 101
+- High number of duplicate/dense clusters (27)
+
+Topic: Shopping
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (20)
+
+Topic: Transportation
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (48)
+
+Topic: Health & Fitness
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (38)
+
+Topic: Travel
+Verdict: PASS WITH WARNINGS
+Count: 150
+Levels: {"A1":36,"A2":42,"B1":42,"B2":30}
+Problems:
+- High number of duplicate/dense clusters (48)
+
+Topic: Weather
+Verdict: FAIL
+Count: 149
+Levels: {"A1":36,"A2":42,"B1":42,"B2":29}
+Problems:
+- Expected 150 items, but got 149
+- High number of duplicate/dense clusters (17)

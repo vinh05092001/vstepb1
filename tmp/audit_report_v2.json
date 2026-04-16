@@ -1,0 +1,7807 @@
+{
+  "summary": {
+    "jsonErrors": [],
+    "idProblems": {
+      "missing": [],
+      "duplicates": [
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        1451,
+        1452,
+        1453,
+        1454,
+        1455,
+        1456,
+        1457,
+        1458,
+        1459,
+        1460,
+        1461,
+        1462,
+        1463,
+        1464,
+        1465,
+        1466,
+        1467,
+        1468,
+        1469,
+        1470,
+        1471,
+        1472,
+        1473,
+        1474,
+        1475,
+        1476,
+        1477,
+        1478,
+        1479,
+        1480,
+        1481,
+        1482,
+        1483,
+        1484,
+        1485,
+        1486,
+        1487,
+        1488,
+        1489,
+        1490,
+        1491,
+        1492,
+        1493,
+        1494,
+        1495,
+        1496,
+        1497,
+        1498,
+        1499,
+        1500
+      ],
+      "wrongRange": []
+    },
+    "topicProblems": [],
+    "levelProblems": [],
+    "exactDuplicates": [
+      {
+        "phrase": "watch tv",
+        "instances": [
+          {
+            "id": 10,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2104,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "take out the trash",
+        "instances": [
+          {
+            "id": 15,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1624,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "chat with friends",
+        "instances": [
+          {
+            "id": 23,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2564,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "go for a walk",
+        "instances": [
+          {
+            "id": 24,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1772,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "relax",
+        "instances": [
+          {
+            "id": 25,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2176,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "commute",
+        "instances": [
+          {
+            "id": 28,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2837,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "pick up",
+        "instances": [
+          {
+            "id": 34,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2341,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "grab a bite",
+        "instances": [
+          {
+            "id": 36,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 669,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "hang out",
+        "instances": [
+          {
+            "id": 39,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1663,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2185,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "do chores",
+        "instances": [
+          {
+            "id": 40,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1623,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "unwind",
+        "instances": [
+          {
+            "id": 44,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2199,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "go out",
+        "instances": [
+          {
+            "id": 57,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1671,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2166,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "read a book",
+        "instances": [
+          {
+            "id": 58,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2110,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "listen to music",
+        "instances": [
+          {
+            "id": 59,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2120,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "take a break",
+        "instances": [
+          {
+            "id": 73,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 1590,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 2720,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "read the news",
+        "instances": [
+          {
+            "id": 76,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2567,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "call it a day",
+        "instances": [
+          {
+            "id": 88,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 95,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2743,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 3000,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "sit down",
+        "instances": [
+          {
+            "id": 108,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 2306,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "fold the laundry",
+        "instances": [
+          {
+            "id": 127,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 180,
+            "topic": "Home & Household"
+          }
+        ]
+      },
+      {
+        "phrase": "grab a coffee",
+        "instances": [
+          {
+            "id": 135,
+            "topic": "Daily Life"
+          },
+          {
+            "id": 659,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1666,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "load the washing machine",
+        "instances": [
+          {
+            "id": 164,
+            "topic": "Home & Household"
+          },
+          {
+            "id": 246,
+            "topic": "Home & Household"
+          }
+        ]
+      },
+      {
+        "phrase": "fan",
+        "instances": [
+          {
+            "id": 220,
+            "topic": "Home & Household"
+          },
+          {
+            "id": 2161,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "empty the trash",
+        "instances": [
+          {
+            "id": 232,
+            "topic": "Home & Household"
+          },
+          {
+            "id": 2530,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "turn on",
+        "instances": [
+          {
+            "id": 276,
+            "topic": "Home & Household"
+          },
+          {
+            "id": 2403,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "plug in",
+        "instances": [
+          {
+            "id": 280,
+            "topic": "Home & Household"
+          },
+          {
+            "id": 2429,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "skip breakfast",
+        "instances": [
+          {
+            "id": 307,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 315,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "phrase": "early",
+        "instances": [
+          {
+            "id": 309,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2975,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "late",
+        "instances": [
+          {
+            "id": 310,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2776,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2974,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "complain",
+        "instances": [
+          {
+            "id": 321,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 1868,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "on time",
+        "instances": [
+          {
+            "id": 323,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2820,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2973,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "procrastinate",
+        "instances": [
+          {
+            "id": 331,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2392,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "put off",
+        "instances": [
+          {
+            "id": 332,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 1786,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2942,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "pick your nose",
+        "instances": [
+          {
+            "id": 352,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 415,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "phrase": "bite your lip",
+        "instances": [
+          {
+            "id": 355,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 374,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "phrase": "busy",
+        "instances": [
+          {
+            "id": 358,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 1672,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2707,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2859,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "tired",
+        "instances": [
+          {
+            "id": 362,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 1807,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "junk food",
+        "instances": [
+          {
+            "id": 364,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 690,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "do homework",
+        "instances": [
+          {
+            "id": 370,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2365,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "set an alarm",
+        "instances": [
+          {
+            "id": 381,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2536,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "eat out",
+        "instances": [
+          {
+            "id": 419,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 670,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "binge-watch",
+        "instances": [
+          {
+            "id": 448,
+            "topic": "Personal Habits"
+          },
+          {
+            "id": 2142,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2591,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "at the moment",
+        "instances": [
+          {
+            "id": 451,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 451,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "every day",
+        "instances": [
+          {
+            "id": 452,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 452,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "in the afternoon",
+        "instances": [
+          {
+            "id": 453,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 453,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "next week",
+        "instances": [
+          {
+            "id": 454,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 454,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "beat the clock",
+        "instances": [
+          {
+            "id": 455,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 455,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 550,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "quarter past",
+        "instances": [
+          {
+            "id": 456,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 456,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "soon",
+        "instances": [
+          {
+            "id": 457,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 457,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "today",
+        "instances": [
+          {
+            "id": 458,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 458,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "tomorrow",
+        "instances": [
+          {
+            "id": 459,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 459,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "tonight",
+        "instances": [
+          {
+            "id": 460,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 460,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "weekend",
+        "instances": [
+          {
+            "id": 461,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 461,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1713,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "what time",
+        "instances": [
+          {
+            "id": 462,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 462,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "after that",
+        "instances": [
+          {
+            "id": 463,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 463,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "all day",
+        "instances": [
+          {
+            "id": 464,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 464,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "as soon as possible",
+        "instances": [
+          {
+            "id": 465,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 465,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "be late",
+        "instances": [
+          {
+            "id": 466,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 466,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "book an appointment",
+        "instances": [
+          {
+            "id": 467,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 467,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "check the calendar",
+        "instances": [
+          {
+            "id": 468,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 468,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "early morning",
+        "instances": [
+          {
+            "id": 469,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 469,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "for a long time",
+        "instances": [
+          {
+            "id": 470,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 470,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "half an hour",
+        "instances": [
+          {
+            "id": 471,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 471,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "have a break",
+        "instances": [
+          {
+            "id": 472,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 472,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "in the future",
+        "instances": [
+          {
+            "id": 473,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 473,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "last minute",
+        "instances": [
+          {
+            "id": 474,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 474,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "spare time",
+        "instances": [
+          {
+            "id": 475,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 475,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2180,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "twice a week",
+        "instances": [
+          {
+            "id": 476,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 476,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "ahead of schedule",
+        "instances": [
+          {
+            "id": 477,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 477,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "available",
+        "instances": [
+          {
+            "id": 478,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 478,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2867,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "be in a hurry",
+        "instances": [
+          {
+            "id": 479,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 479,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "cancel an appointment",
+        "instances": [
+          {
+            "id": 480,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 480,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "confirm the time",
+        "instances": [
+          {
+            "id": 481,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 481,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "deadline",
+        "instances": [
+          {
+            "id": 482,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 482,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2279,
+            "topic": "Education"
+          },
+          {
+            "id": 2732,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2878,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "fully booked",
+        "instances": [
+          {
+            "id": 483,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 483,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "make it",
+        "instances": [
+          {
+            "id": 484,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 484,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1780,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "on a regular basis",
+        "instances": [
+          {
+            "id": 485,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 485,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "postpone",
+        "instances": [
+          {
+            "id": 486,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 486,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1688,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2883,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "run out of time",
+        "instances": [
+          {
+            "id": 487,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 489,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 487,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 489,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "rearrange",
+        "instances": [
+          {
+            "id": 488,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 488,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "waste time",
+        "instances": [
+          {
+            "id": 490,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 490,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 525,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "at your earliest convenience",
+        "instances": [
+          {
+            "id": 491,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 491,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "behind schedule",
+        "instances": [
+          {
+            "id": 492,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 492,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "fit someone in",
+        "instances": [
+          {
+            "id": 493,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 493,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "for the time being",
+        "instances": [
+          {
+            "id": 494,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 494,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "in the long run",
+        "instances": [
+          {
+            "id": 495,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 495,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "kill time",
+        "instances": [
+          {
+            "id": 496,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 500,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 496,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 500,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "punctual",
+        "instances": [
+          {
+            "id": 497,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 497,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "squeeze something in",
+        "instances": [
+          {
+            "id": 498,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 498,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "take your time",
+        "instances": [
+          {
+            "id": 499,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 499,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "in the nick of time",
+        "instances": [
+          {
+            "id": 503,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 592,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "save time",
+        "instances": [
+          {
+            "id": 509,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 584,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "schedule",
+        "instances": [
+          {
+            "id": 516,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2363,
+            "topic": "Education"
+          },
+          {
+            "id": 2764,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2866,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "ready",
+        "instances": [
+          {
+            "id": 517,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1723,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "free",
+        "instances": [
+          {
+            "id": 524,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1661,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "pressed for time",
+        "instances": [
+          {
+            "id": 528,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 591,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "delay",
+        "instances": [
+          {
+            "id": 529,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2928,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "time flies",
+        "instances": [
+          {
+            "id": 534,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 589,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "shift",
+        "instances": [
+          {
+            "id": 535,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2740,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "day off",
+        "instances": [
+          {
+            "id": 536,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2734,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "spend time",
+        "instances": [
+          {
+            "id": 540,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1767,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "tentative",
+        "instances": [
+          {
+            "id": 542,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2896,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "wrap up",
+        "instances": [
+          {
+            "id": 544,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2041,
+            "topic": "Communication"
+          },
+          {
+            "id": 2900,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "meet a deadline",
+        "instances": [
+          {
+            "id": 558,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 590,
+            "topic": "Time & Schedules"
+          }
+        ]
+      },
+      {
+        "phrase": "clock in",
+        "instances": [
+          {
+            "id": 572,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2746,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "reschedule",
+        "instances": [
+          {
+            "id": 577,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 2880,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "catch up",
+        "instances": [
+          {
+            "id": 587,
+            "topic": "Time & Schedules"
+          },
+          {
+            "id": 1677,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2281,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "have a sweet tooth",
+        "instances": [
+          {
+            "id": 603,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 667,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "fresh vegetables",
+        "instances": [
+          {
+            "id": 613,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 695,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "follow a recipe",
+        "instances": [
+          {
+            "id": 619,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 663,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "bitter",
+        "instances": [
+          {
+            "id": 635,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1933,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "home-cooked meal",
+        "instances": [
+          {
+            "id": 649,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 688,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "leave a tip",
+        "instances": [
+          {
+            "id": 654,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 673,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "skip a meal",
+        "instances": [
+          {
+            "id": 668,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1185,
+            "topic": "Health & Fitness"
+          }
+        ]
+      },
+      {
+        "phrase": "go on a diet",
+        "instances": [
+          {
+            "id": 679,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 728,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "gain weight",
+        "instances": [
+          {
+            "id": 682,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1176,
+            "topic": "Health & Fitness"
+          }
+        ]
+      },
+      {
+        "phrase": "lose weight",
+        "instances": [
+          {
+            "id": 683,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1068,
+            "topic": "Health & Fitness"
+          }
+        ]
+      },
+      {
+        "phrase": "organic food",
+        "instances": [
+          {
+            "id": 686,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 738,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "phrase": "processed food",
+        "instances": [
+          {
+            "id": 687,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 1194,
+            "topic": "Health & Fitness"
+          }
+        ]
+      },
+      {
+        "phrase": "bill",
+        "instances": [
+          {
+            "id": 725,
+            "topic": "Food & Cooking"
+          },
+          {
+            "id": 2968,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "buy",
+        "instances": [
+          {
+            "id": 751,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2957,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "shop",
+        "instances": [
+          {
+            "id": 755,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2759,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "price",
+        "instances": [
+          {
+            "id": 756,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2955,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "pay",
+        "instances": [
+          {
+            "id": 757,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2710,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2956,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "customer",
+        "instances": [
+          {
+            "id": 761,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2767,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2966,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "receipt",
+        "instances": [
+          {
+            "id": 769,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2969,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "sell",
+        "instances": [
+          {
+            "id": 775,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2808,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2958,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "sold out",
+        "instances": [
+          {
+            "id": 780,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2135,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "money",
+        "instances": [
+          {
+            "id": 802,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2812,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "open",
+        "instances": [
+          {
+            "id": 803,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2960,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "toy",
+        "instances": [
+          {
+            "id": 810,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2153,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "gift",
+        "instances": [
+          {
+            "id": 811,
+            "topic": "Shopping"
+          },
+          {
+            "id": 1708,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "cost",
+        "instances": [
+          {
+            "id": 814,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2959,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "match",
+        "instances": [
+          {
+            "id": 832,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2174,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "help",
+        "instances": [
+          {
+            "id": 858,
+            "topic": "Shopping"
+          },
+          {
+            "id": 1711,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2008,
+            "topic": "Communication"
+          },
+          {
+            "id": 2758,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2905,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "customer service",
+        "instances": [
+          {
+            "id": 863,
+            "topic": "Shopping"
+          },
+          {
+            "id": 2818,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "driver",
+        "instances": [
+          {
+            "id": 910,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2809,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "book in advance",
+        "instances": [
+          {
+            "id": 933,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2189,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "stop",
+        "instances": [
+          {
+            "id": 955,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2508,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "fine",
+        "instances": [
+          {
+            "id": 983,
+            "topic": "Transportation"
+          },
+          {
+            "id": 1851,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2006,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "shortcut",
+        "instances": [
+          {
+            "id": 990,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2498,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "park",
+        "instances": [
+          {
+            "id": 1011,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2154,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "sign",
+        "instances": [
+          {
+            "id": 1013,
+            "topic": "Transportation"
+          },
+          {
+            "id": 2816,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2925,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "destination",
+        "instances": [
+          {
+            "id": 1029,
+            "topic": "Transportation"
+          },
+          {
+            "id": 1277,
+            "topic": "Travel"
+          }
+        ]
+      },
+      {
+        "phrase": "catch a flight",
+        "instances": [
+          {
+            "id": 1048,
+            "topic": "Transportation"
+          },
+          {
+            "id": 1341,
+            "topic": "Travel"
+          }
+        ]
+      },
+      {
+        "phrase": "pain",
+        "instances": [
+          {
+            "id": 1059,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 1910,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "gym",
+        "instances": [
+          {
+            "id": 1062,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2370,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "join a club",
+        "instances": [
+          {
+            "id": 1071,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2369,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "hospital",
+        "instances": [
+          {
+            "id": 1111,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2801,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "nurse",
+        "instances": [
+          {
+            "id": 1112,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2810,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "rest",
+        "instances": [
+          {
+            "id": 1117,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2762,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "hurt",
+        "instances": [
+          {
+            "id": 1158,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 1858,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "swim",
+        "instances": [
+          {
+            "id": 1159,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2208,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "take care of",
+        "instances": [
+          {
+            "id": 1170,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 1567,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "make an appointment",
+        "instances": [
+          {
+            "id": 1181,
+            "topic": "Health & Fitness"
+          },
+          {
+            "id": 2990,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "ticket",
+        "instances": [
+          {
+            "id": 1202,
+            "topic": "Travel"
+          },
+          {
+            "id": 2113,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "stay",
+        "instances": [
+          {
+            "id": 1210,
+            "topic": "Travel"
+          },
+          {
+            "id": 1662,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "travel abroad",
+        "instances": [
+          {
+            "id": 1224,
+            "topic": "Travel"
+          },
+          {
+            "id": 1346,
+            "topic": "Travel"
+          }
+        ]
+      },
+      {
+        "phrase": "train",
+        "instances": [
+          {
+            "id": 1253,
+            "topic": "Travel"
+          },
+          {
+            "id": 2769,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "photo",
+        "instances": [
+          {
+            "id": 1257,
+            "topic": "Travel"
+          },
+          {
+            "id": 1757,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2157,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2555,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "museum",
+        "instances": [
+          {
+            "id": 1274,
+            "topic": "Travel"
+          },
+          {
+            "id": 2167,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "camp",
+        "instances": [
+          {
+            "id": 1275,
+            "topic": "Travel"
+          },
+          {
+            "id": 2162,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "budget",
+        "instances": [
+          {
+            "id": 1285,
+            "topic": "Travel"
+          },
+          {
+            "id": 2985,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "guided tour",
+        "instances": [
+          {
+            "id": 1290,
+            "topic": "Travel"
+          },
+          {
+            "id": 1315,
+            "topic": "Travel"
+          }
+        ]
+      },
+      {
+        "phrase": "camera",
+        "instances": [
+          {
+            "id": 1304,
+            "topic": "Travel"
+          },
+          {
+            "id": 2456,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "visit",
+        "instances": [
+          {
+            "id": 1306,
+            "topic": "Travel"
+          },
+          {
+            "id": 1657,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "guest",
+        "instances": [
+          {
+            "id": 1318,
+            "topic": "Travel"
+          },
+          {
+            "id": 1715,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "scenic route",
+        "instances": [
+          {
+            "id": 1322,
+            "topic": "Travel"
+          },
+          {
+            "id": 1345,
+            "topic": "Travel"
+          }
+        ]
+      },
+      {
+        "phrase": "safe",
+        "instances": [
+          {
+            "id": 1323,
+            "topic": "Travel"
+          },
+          {
+            "id": 1912,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "board",
+        "instances": [
+          {
+            "id": 1327,
+            "topic": "Travel"
+          },
+          {
+            "id": 2301,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "warm",
+        "instances": [
+          {
+            "id": 1360,
+            "topic": "Weather"
+          },
+          {
+            "id": 1911,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "cool",
+        "instances": [
+          {
+            "id": 1366,
+            "topic": "Weather"
+          },
+          {
+            "id": 1756,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "clear up",
+        "instances": [
+          {
+            "id": 1380,
+            "topic": "Weather"
+          },
+          {
+            "id": 2049,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "sunny",
+        "instances": [
+          {
+            "id": 1451,
+            "topic": "Weather"
+          },
+          {
+            "id": 1451,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "clear",
+        "instances": [
+          {
+            "id": 1452,
+            "topic": "Weather"
+          },
+          {
+            "id": 1452,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "rainbow",
+        "instances": [
+          {
+            "id": 1453,
+            "topic": "Weather"
+          },
+          {
+            "id": 1453,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "bad weather",
+        "instances": [
+          {
+            "id": 1454,
+            "topic": "Weather"
+          },
+          {
+            "id": 1454,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "good weather",
+        "instances": [
+          {
+            "id": 1455,
+            "topic": "Weather"
+          },
+          {
+            "id": 1455,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "cold day",
+        "instances": [
+          {
+            "id": 1456,
+            "topic": "Weather"
+          },
+          {
+            "id": 1456,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "hot day",
+        "instances": [
+          {
+            "id": 1457,
+            "topic": "Weather"
+          },
+          {
+            "id": 1457,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "season",
+        "instances": [
+          {
+            "id": 1458,
+            "topic": "Weather"
+          },
+          {
+            "id": 1458,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "outside",
+        "instances": [
+          {
+            "id": 1459,
+            "topic": "Weather"
+          },
+          {
+            "id": 1459,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "inside",
+        "instances": [
+          {
+            "id": 1460,
+            "topic": "Weather"
+          },
+          {
+            "id": 1460,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "hat",
+        "instances": [
+          {
+            "id": 1461,
+            "topic": "Weather"
+          },
+          {
+            "id": 1461,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "coat",
+        "instances": [
+          {
+            "id": 1462,
+            "topic": "Weather"
+          },
+          {
+            "id": 1462,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "sunlight",
+        "instances": [
+          {
+            "id": 1463,
+            "topic": "Weather"
+          },
+          {
+            "id": 1463,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "raindrop",
+        "instances": [
+          {
+            "id": 1464,
+            "topic": "Weather"
+          },
+          {
+            "id": 1464,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "stormy",
+        "instances": [
+          {
+            "id": 1465,
+            "topic": "Weather"
+          },
+          {
+            "id": 1465,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "freezing cold",
+        "instances": [
+          {
+            "id": 1466,
+            "topic": "Weather"
+          },
+          {
+            "id": 1466,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "boiling hot",
+        "instances": [
+          {
+            "id": 1467,
+            "topic": "Weather"
+          },
+          {
+            "id": 1467,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "snowman",
+        "instances": [
+          {
+            "id": 1468,
+            "topic": "Weather"
+          },
+          {
+            "id": 1468,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "get cold",
+        "instances": [
+          {
+            "id": 1469,
+            "topic": "Weather"
+          },
+          {
+            "id": 1469,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "get dark",
+        "instances": [
+          {
+            "id": 1470,
+            "topic": "Weather"
+          },
+          {
+            "id": 1470,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "weather report",
+        "instances": [
+          {
+            "id": 1471,
+            "topic": "Weather"
+          },
+          {
+            "id": 1471,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "severe storm",
+        "instances": [
+          {
+            "id": 1472,
+            "topic": "Weather"
+          },
+          {
+            "id": 1472,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "heavy coat",
+        "instances": [
+          {
+            "id": 1473,
+            "topic": "Weather"
+          },
+          {
+            "id": 1473,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "warm clothes",
+        "instances": [
+          {
+            "id": 1474,
+            "topic": "Weather"
+          },
+          {
+            "id": 1474,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "blow away",
+        "instances": [
+          {
+            "id": 1475,
+            "topic": "Weather"
+          },
+          {
+            "id": 1475,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "climate change",
+        "instances": [
+          {
+            "id": 1476,
+            "topic": "Weather"
+          },
+          {
+            "id": 1476,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "breezy",
+        "instances": [
+          {
+            "id": 1477,
+            "topic": "Weather"
+          },
+          {
+            "id": 1477,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "hail",
+        "instances": [
+          {
+            "id": 1478,
+            "topic": "Weather"
+          },
+          {
+            "id": 1478,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "blizzard",
+        "instances": [
+          {
+            "id": 1479,
+            "topic": "Weather"
+          },
+          {
+            "id": 1479,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "drought",
+        "instances": [
+          {
+            "id": 1480,
+            "topic": "Weather"
+          },
+          {
+            "id": 1480,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "smog",
+        "instances": [
+          {
+            "id": 1481,
+            "topic": "Weather"
+          },
+          {
+            "id": 1481,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "frosty",
+        "instances": [
+          {
+            "id": 1482,
+            "topic": "Weather"
+          },
+          {
+            "id": 1482,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "rise in temperature",
+        "instances": [
+          {
+            "id": 1483,
+            "topic": "Weather"
+          },
+          {
+            "id": 1483,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "dress warmly",
+        "instances": [
+          {
+            "id": 1484,
+            "topic": "Weather"
+          },
+          {
+            "id": 1484,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "clear the snow",
+        "instances": [
+          {
+            "id": 1485,
+            "topic": "Weather"
+          },
+          {
+            "id": 1485,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "sudden rain",
+        "instances": [
+          {
+            "id": 1486,
+            "topic": "Weather"
+          },
+          {
+            "id": 1486,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "freeze over",
+        "instances": [
+          {
+            "id": 1487,
+            "topic": "Weather"
+          },
+          {
+            "id": 1487,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "extreme weather",
+        "instances": [
+          {
+            "id": 1488,
+            "topic": "Weather"
+          },
+          {
+            "id": 1488,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "natural disaster",
+        "instances": [
+          {
+            "id": 1489,
+            "topic": "Weather"
+          },
+          {
+            "id": 1489,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "cool breeze",
+        "instances": [
+          {
+            "id": 1490,
+            "topic": "Weather"
+          },
+          {
+            "id": 1490,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "gale",
+        "instances": [
+          {
+            "id": 1491,
+            "topic": "Weather"
+          },
+          {
+            "id": 1491,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "sleet",
+        "instances": [
+          {
+            "id": 1492,
+            "topic": "Weather"
+          },
+          {
+            "id": 1492,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "slush",
+        "instances": [
+          {
+            "id": 1493,
+            "topic": "Weather"
+          },
+          {
+            "id": 1493,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "stifling",
+        "instances": [
+          {
+            "id": 1494,
+            "topic": "Weather"
+          },
+          {
+            "id": 1494,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "bone-chilling",
+        "instances": [
+          {
+            "id": 1495,
+            "topic": "Weather"
+          },
+          {
+            "id": 1495,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "not a cloud in the sky",
+        "instances": [
+          {
+            "id": 1496,
+            "topic": "Weather"
+          },
+          {
+            "id": 1496,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "get soaked",
+        "instances": [
+          {
+            "id": 1497,
+            "topic": "Weather"
+          },
+          {
+            "id": 1497,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "heatwave",
+        "instances": [
+          {
+            "id": 1498,
+            "topic": "Weather"
+          },
+          {
+            "id": 1498,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "cold spell",
+        "instances": [
+          {
+            "id": 1499,
+            "topic": "Weather"
+          },
+          {
+            "id": 1499,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "brave the elements",
+        "instances": [
+          {
+            "id": 1500,
+            "topic": "Weather"
+          },
+          {
+            "id": 1500,
+            "topic": "Weather"
+          }
+        ]
+      },
+      {
+        "phrase": "grandfather",
+        "instances": [
+          {
+            "id": 1506,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1560,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "only child",
+        "instances": [
+          {
+            "id": 1508,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1572,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "love",
+        "instances": [
+          {
+            "id": 1510,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1854,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "grow up",
+        "instances": [
+          {
+            "id": 1517,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1568,
+            "topic": "Family & Relationships"
+          }
+        ]
+      },
+      {
+        "phrase": "drift apart",
+        "instances": [
+          {
+            "id": 1535,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1698,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "bring up",
+        "instances": [
+          {
+            "id": 1543,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1578,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1982,
+            "topic": "Communication"
+          },
+          {
+            "id": 2897,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "keep a secret",
+        "instances": [
+          {
+            "id": 1582,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1788,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2084,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "lose touch",
+        "instances": [
+          {
+            "id": 1583,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1691,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "strict",
+        "instances": [
+          {
+            "id": 1589,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 2334,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "hug",
+        "instances": [
+          {
+            "id": 1609,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1710,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "get together",
+        "instances": [
+          {
+            "id": 1613,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1665,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "proud of",
+        "instances": [
+          {
+            "id": 1622,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1819,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "rely on",
+        "instances": [
+          {
+            "id": 1639,
+            "topic": "Family & Relationships"
+          },
+          {
+            "id": 1740,
+            "topic": "Friends & Social Life"
+          }
+        ]
+      },
+      {
+        "phrase": "party",
+        "instances": [
+          {
+            "id": 1653,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2107,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "chat",
+        "instances": [
+          {
+            "id": 1655,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1970,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "fun",
+        "instances": [
+          {
+            "id": 1656,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1901,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2102,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "invite",
+        "instances": [
+          {
+            "id": 1658,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2914,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "talk",
+        "instances": [
+          {
+            "id": 1660,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2757,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2862,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "have a good time",
+        "instances": [
+          {
+            "id": 1669,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2233,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "message",
+        "instances": [
+          {
+            "id": 1673,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1975,
+            "topic": "Communication"
+          },
+          {
+            "id": 2504,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2553,
+            "topic": "Media & Internet"
+          },
+          {
+            "id": 2755,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "sound good",
+        "instances": [
+          {
+            "id": 1674,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2020,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "keep in touch",
+        "instances": [
+          {
+            "id": 1678,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1981,
+            "topic": "Communication"
+          },
+          {
+            "id": 2683,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "cancel",
+        "instances": [
+          {
+            "id": 1683,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2889,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "let me know",
+        "instances": [
+          {
+            "id": 1684,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1972,
+            "topic": "Communication"
+          },
+          {
+            "id": 2863,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "turn up",
+        "instances": [
+          {
+            "id": 1689,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2490,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "touch base",
+        "instances": [
+          {
+            "id": 1699,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2000,
+            "topic": "Communication"
+          },
+          {
+            "id": 2792,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2894,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "call",
+        "instances": [
+          {
+            "id": 1701,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2455,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2753,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "play",
+        "instances": [
+          {
+            "id": 1702,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2155,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2507,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "game",
+        "instances": [
+          {
+            "id": 1703,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2101,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2503,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "laugh",
+        "instances": [
+          {
+            "id": 1704,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1809,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2158,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "smile",
+        "instances": [
+          {
+            "id": 1705,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1804,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "hello",
+        "instances": [
+          {
+            "id": 1706,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2004,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "share",
+        "instances": [
+          {
+            "id": 1709,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2521,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2916,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "plan",
+        "instances": [
+          {
+            "id": 1717,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2756,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2908,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "reply",
+        "instances": [
+          {
+            "id": 1718,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2520,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2853,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "text",
+        "instances": [
+          {
+            "id": 1719,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2013,
+            "topic": "Communication"
+          },
+          {
+            "id": 2454,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "phrase": "welcome",
+        "instances": [
+          {
+            "id": 1722,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2052,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "company",
+        "instances": [
+          {
+            "id": 1730,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2708,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2902,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "look forward to",
+        "instances": [
+          {
+            "id": 1738,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1866,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2882,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "join",
+        "instances": [
+          {
+            "id": 1753,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2169,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2775,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2915,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "send",
+        "instances": [
+          {
+            "id": 1758,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2505,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2806,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2856,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "club",
+        "instances": [
+          {
+            "id": 1759,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2159,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "team",
+        "instances": [
+          {
+            "id": 1760,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2206,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2712,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2906,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "great",
+        "instances": [
+          {
+            "id": 1761,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1862,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "glad",
+        "instances": [
+          {
+            "id": 1762,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1815,
+            "topic": "Emotions & Feelings"
+          }
+        ]
+      },
+      {
+        "phrase": "classmate",
+        "instances": [
+          {
+            "id": 1763,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2316,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "colleague",
+        "instances": [
+          {
+            "id": 1764,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2713,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2921,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "get in touch",
+        "instances": [
+          {
+            "id": 1777,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 2989,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "chill out",
+        "instances": [
+          {
+            "id": 1778,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1919,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2198,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "on the same page",
+        "instances": [
+          {
+            "id": 1796,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "id": 1991,
+            "topic": "Communication"
+          },
+          {
+            "id": 2798,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2893,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "calm down",
+        "instances": [
+          {
+            "id": 1820,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2067,
+            "topic": "Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "bored",
+        "instances": [
+          {
+            "id": 1863,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2121,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "brilliant",
+        "instances": [
+          {
+            "id": 1923,
+            "topic": "Emotions & Feelings"
+          },
+          {
+            "id": 2184,
+            "topic": "Entertainment"
+          }
+        ]
+      },
+      {
+        "phrase": "ask",
+        "instances": [
+          {
+            "id": 1957,
+            "topic": "Communication"
+          },
+          {
+            "id": 2917,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "answer",
+        "instances": [
+          {
+            "id": 1958,
+            "topic": "Communication"
+          },
+          {
+            "id": 2311,
+            "topic": "Education"
+          },
+          {
+            "id": 2807,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "tell",
+        "instances": [
+          {
+            "id": 1959,
+            "topic": "Communication"
+          },
+          {
+            "id": 2918,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "agree",
+        "instances": [
+          {
+            "id": 1962,
+            "topic": "Communication"
+          },
+          {
+            "id": 2875,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "spell",
+        "instances": [
+          {
+            "id": 1974,
+            "topic": "Communication"
+          },
+          {
+            "id": 2259,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "call back",
+        "instances": [
+          {
+            "id": 1976,
+            "topic": "Communication"
+          },
+          {
+            "id": 2854,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "point out",
+        "instances": [
+          {
+            "id": 1983,
+            "topic": "Communication"
+          },
+          {
+            "id": 2939,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "clarify",
+        "instances": [
+          {
+            "id": 1985,
+            "topic": "Communication"
+          },
+          {
+            "id": 2895,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "get straight to the point",
+        "instances": [
+          {
+            "id": 1995,
+            "topic": "Communication"
+          },
+          {
+            "id": 2991,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "read",
+        "instances": [
+          {
+            "id": 2010,
+            "topic": "Communication"
+          },
+          {
+            "id": 2355,
+            "topic": "Education"
+          },
+          {
+            "id": 2910,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "write",
+        "instances": [
+          {
+            "id": 2011,
+            "topic": "Communication"
+          },
+          {
+            "id": 2356,
+            "topic": "Education"
+          },
+          {
+            "id": 2911,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "figure out",
+        "instances": [
+          {
+            "id": 2035,
+            "topic": "Communication"
+          },
+          {
+            "id": 2290,
+            "topic": "Education"
+          },
+          {
+            "id": 2938,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "get back to",
+        "instances": [
+          {
+            "id": 2040,
+            "topic": "Communication"
+          },
+          {
+            "id": 2891,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "email",
+        "instances": [
+          {
+            "id": 2056,
+            "topic": "Communication"
+          },
+          {
+            "id": 2459,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2556,
+            "topic": "Media & Internet"
+          },
+          {
+            "id": 2752,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2851,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "letter",
+        "instances": [
+          {
+            "id": 2057,
+            "topic": "Communication"
+          },
+          {
+            "id": 2805,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "hold on",
+        "instances": [
+          {
+            "id": 2063,
+            "topic": "Communication"
+          },
+          {
+            "id": 2976,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "be quiet",
+        "instances": [
+          {
+            "id": 2066,
+            "topic": "Communication"
+          },
+          {
+            "id": 2304,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "spread rumors",
+        "instances": [
+          {
+            "id": 2085,
+            "topic": "Communication"
+          },
+          {
+            "id": 2693,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "music",
+        "instances": [
+          {
+            "id": 2103,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2359,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "review",
+        "instances": [
+          {
+            "id": 2140,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2332,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "art",
+        "instances": [
+          {
+            "id": 2156,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2308,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "draw",
+        "instances": [
+          {
+            "id": 2160,
+            "topic": "Entertainment"
+          },
+          {
+            "id": 2361,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "phrase": "absent",
+        "instances": [
+          {
+            "id": 2271,
+            "topic": "Education"
+          },
+          {
+            "id": 2821,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2929,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "presentation",
+        "instances": [
+          {
+            "id": 2284,
+            "topic": "Education"
+          },
+          {
+            "id": 2782,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2980,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "desk",
+        "instances": [
+          {
+            "id": 2302,
+            "topic": "Education"
+          },
+          {
+            "id": 2705,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2912,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "question",
+        "instances": [
+          {
+            "id": 2310,
+            "topic": "Education"
+          },
+          {
+            "id": 2861,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "project",
+        "instances": [
+          {
+            "id": 2322,
+            "topic": "Education"
+          },
+          {
+            "id": 2774,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2963,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "summarize",
+        "instances": [
+          {
+            "id": 2335,
+            "topic": "Education"
+          },
+          {
+            "id": 2988,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "computer",
+        "instances": [
+          {
+            "id": 2360,
+            "topic": "Education"
+          },
+          {
+            "id": 2751,
+            "topic": "Work & Career"
+          }
+        ]
+      },
+      {
+        "phrase": "copy",
+        "instances": [
+          {
+            "id": 2366,
+            "topic": "Education"
+          },
+          {
+            "id": 2817,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2926,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "draft",
+        "instances": [
+          {
+            "id": 2387,
+            "topic": "Education"
+          },
+          {
+            "id": 2932,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "password",
+        "instances": [
+          {
+            "id": 2412,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2558,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "download an app",
+        "instances": [
+          {
+            "id": 2413,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2570,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "log in",
+        "instances": [
+          {
+            "id": 2415,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2575,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "update",
+        "instances": [
+          {
+            "id": 2431,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2927,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "video",
+        "instances": [
+          {
+            "id": 2457,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2554,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "scroll down",
+        "instances": [
+          {
+            "id": 2467,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2577,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "print",
+        "instances": [
+          {
+            "id": 2468,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2772,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2970,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "profile picture",
+        "instances": [
+          {
+            "id": 2469,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2574,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "search",
+        "instances": [
+          {
+            "id": 2470,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2557,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "online",
+        "instances": [
+          {
+            "id": 2474,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2551,
+            "topic": "Media & Internet"
+          },
+          {
+            "id": 2860,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "link",
+        "instances": [
+          {
+            "id": 2476,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2559,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "scroll up",
+        "instances": [
+          {
+            "id": 2477,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2672,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "group chat",
+        "instances": [
+          {
+            "id": 2480,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2614,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "post",
+        "instances": [
+          {
+            "id": 2502,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2561,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "log out",
+        "instances": [
+          {
+            "id": 2516,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2666,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "account",
+        "instances": [
+          {
+            "id": 2533,
+            "topic": "Technology (basic)"
+          },
+          {
+            "id": 2601,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "phrase": "job",
+        "instances": [
+          {
+            "id": 2701,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2903,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "office",
+        "instances": [
+          {
+            "id": 2702,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2858,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "work",
+        "instances": [
+          {
+            "id": 2703,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2904,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "boss",
+        "instances": [
+          {
+            "id": 2704,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2901,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "break",
+        "instances": [
+          {
+            "id": 2706,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2953,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "meeting",
+        "instances": [
+          {
+            "id": 2711,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2852,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "manager",
+        "instances": [
+          {
+            "id": 2717,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2857,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "report",
+        "instances": [
+          {
+            "id": 2722,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2876,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "client",
+        "instances": [
+          {
+            "id": 2723,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2923,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "take over",
+        "instances": [
+          {
+            "id": 2738,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2949,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "in charge of",
+        "instances": [
+          {
+            "id": 2739,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2887,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "staff",
+        "instances": [
+          {
+            "id": 2754,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2924,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "room",
+        "instances": [
+          {
+            "id": 2761,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2952,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "file",
+        "instances": [
+          {
+            "id": 2771,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2951,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "note",
+        "instances": [
+          {
+            "id": 2773,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2873,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "human resources",
+        "instances": [
+          {
+            "id": 2778,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2982,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "feedback",
+        "instances": [
+          {
+            "id": 2781,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2886,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "contract",
+        "instances": [
+          {
+            "id": 2783,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2978,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "organize",
+        "instances": [
+          {
+            "id": 2789,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2934,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "document",
+        "instances": [
+          {
+            "id": 2815,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2874,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "agenda",
+        "instances": [
+          {
+            "id": 2833,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2879,
+            "topic": "Business Communication"
+          }
+        ]
+      },
+      {
+        "phrase": "brainstorm",
+        "instances": [
+          {
+            "id": 2846,
+            "topic": "Work & Career"
+          },
+          {
+            "id": 2945,
+            "topic": "Business Communication"
+          }
+        ]
+      }
+    ],
+    "nearDuplicates": [
+      {
+        "normalized": "brush teeth",
+        "instances": [
+          {
+            "phrase": "brush teeth",
+            "id": 4,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "brush your teeth",
+            "id": 1169,
+            "topic": "Health & Fitness"
+          }
+        ]
+      },
+      {
+        "normalized": "set alarm",
+        "instances": [
+          {
+            "phrase": "set the alarm",
+            "id": 26,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "set an alarm",
+            "id": 381,
+            "topic": "Personal Habits"
+          },
+          {
+            "phrase": "set an alarm",
+            "id": 2536,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "normalized": "drop off",
+        "instances": [
+          {
+            "phrase": "drop off",
+            "id": 33,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "drop someone off",
+            "id": 950,
+            "topic": "Transportation"
+          }
+        ]
+      },
+      {
+        "normalized": "pick up",
+        "instances": [
+          {
+            "phrase": "pick up",
+            "id": 34,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "pick someone up",
+            "id": 935,
+            "topic": "Transportation"
+          },
+          {
+            "phrase": "pick up",
+            "id": 2341,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "normalized": "wash hands",
+        "instances": [
+          {
+            "phrase": "wash your hands",
+            "id": 52,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "wash hands",
+            "id": 304,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "normalized": "charge phone",
+        "instances": [
+          {
+            "phrase": "charge your phone",
+            "id": 83,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "charge my phone",
+            "id": 2414,
+            "topic": "Technology (basic)"
+          }
+        ]
+      },
+      {
+        "normalized": "catch bus",
+        "instances": [
+          {
+            "phrase": "catch the bus",
+            "id": 86,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "catch a bus",
+            "id": 929,
+            "topic": "Transportation"
+          }
+        ]
+      },
+      {
+        "normalized": "check emails",
+        "instances": [
+          {
+            "phrase": "check your emails",
+            "id": 119,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "check emails",
+            "id": 2566,
+            "topic": "Media & Internet"
+          }
+        ]
+      },
+      {
+        "normalized": "do homework",
+        "instances": [
+          {
+            "phrase": "do your homework",
+            "id": 123,
+            "topic": "Daily Life"
+          },
+          {
+            "phrase": "do homework",
+            "id": 370,
+            "topic": "Personal Habits"
+          },
+          {
+            "phrase": "do homework",
+            "id": 2365,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "normalized": "bite nails",
+        "instances": [
+          {
+            "phrase": "bite your nails",
+            "id": 301,
+            "topic": "Personal Habits"
+          },
+          {
+            "phrase": "bite nails",
+            "id": 313,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "normalized": "crack knuckles",
+        "instances": [
+          {
+            "phrase": "crack your knuckles",
+            "id": 302,
+            "topic": "Personal Habits"
+          },
+          {
+            "phrase": "crack knuckles",
+            "id": 436,
+            "topic": "Personal Habits"
+          }
+        ]
+      },
+      {
+        "normalized": "balanced diet",
+        "instances": [
+          {
+            "phrase": "balanced diet",
+            "id": 637,
+            "topic": "Food & Cooking"
+          },
+          {
+            "phrase": "a balanced diet",
+            "id": 681,
+            "topic": "Food & Cooking"
+          }
+        ]
+      },
+      {
+        "normalized": "stand up",
+        "instances": [
+          {
+            "phrase": "stand someone up",
+            "id": 1693,
+            "topic": "Friends & Social Life"
+          },
+          {
+            "phrase": "stand up",
+            "id": 2305,
+            "topic": "Education"
+          }
+        ]
+      },
+      {
+        "normalized": "mention",
+        "instances": [
+          {
+            "phrase": "mention",
+            "id": 1980,
+            "topic": "Communication"
+          },
+          {
+            "phrase": "mention someone",
+            "id": 2686,
+            "topic": "Media & Internet"
+          }
+        ]
+      }
+    ],
+    "crossTopicOverlap": [
+      {
+        "phrase": "fold the laundry",
+        "id": 180,
+        "currentTopic": "Home & Household",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "wash hands",
+        "id": 304,
+        "currentTopic": "Personal Habits",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "do homework",
+        "id": 370,
+        "currentTopic": "Personal Habits",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "set an alarm",
+        "id": 381,
+        "currentTopic": "Personal Habits",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "grab a coffee",
+        "id": 659,
+        "currentTopic": "Food & Cooking",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "grab a bite",
+        "id": 669,
+        "currentTopic": "Food & Cooking",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "eat out",
+        "id": 670,
+        "currentTopic": "Food & Cooking",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "junk food",
+        "id": 690,
+        "currentTopic": "Food & Cooking",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "catch a bus",
+        "id": 929,
+        "currentTopic": "Transportation",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "pick someone up",
+        "id": 935,
+        "currentTopic": "Transportation",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "drop someone off",
+        "id": 950,
+        "currentTopic": "Transportation",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "lose weight",
+        "id": 1068,
+        "currentTopic": "Health & Fitness",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "brush your teeth",
+        "id": 1169,
+        "currentTopic": "Health & Fitness",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "gain weight",
+        "id": 1176,
+        "currentTopic": "Health & Fitness",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "skip a meal",
+        "id": 1185,
+        "currentTopic": "Health & Fitness",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "processed food",
+        "id": 1194,
+        "currentTopic": "Health & Fitness",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "destination",
+        "id": 1277,
+        "currentTopic": "Travel",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "catch a flight",
+        "id": 1341,
+        "currentTopic": "Travel",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "take care of",
+        "id": 1567,
+        "currentTopic": "Family & Relationships",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "take a break",
+        "id": 1590,
+        "currentTopic": "Family & Relationships",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "do chores",
+        "id": 1623,
+        "currentTopic": "Family & Relationships",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "take out the trash",
+        "id": 1624,
+        "currentTopic": "Family & Relationships",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "visit",
+        "id": 1657,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "free",
+        "id": 1661,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "stay",
+        "id": 1662,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "hang out",
+        "id": 1663,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "get together",
+        "id": 1665,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "grab a coffee",
+        "id": 1666,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "grab a coffee",
+        "id": 1666,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "go out",
+        "id": 1671,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "busy",
+        "id": 1672,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "catch up",
+        "id": 1677,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "postpone",
+        "id": 1688,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "lose touch",
+        "id": 1691,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "drift apart",
+        "id": 1698,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "gift",
+        "id": 1708,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "hug",
+        "id": 1710,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "help",
+        "id": 1711,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "weekend",
+        "id": 1713,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "guest",
+        "id": 1715,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "ready",
+        "id": 1723,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "rely on",
+        "id": 1740,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "cool",
+        "id": 1756,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Weather"
+      },
+      {
+        "phrase": "photo",
+        "id": 1757,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "spend time",
+        "id": 1767,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "go for a walk",
+        "id": 1772,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "make it",
+        "id": 1780,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "put off",
+        "id": 1786,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "keep a secret",
+        "id": 1788,
+        "currentTopic": "Friends & Social Life",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "smile",
+        "id": 1804,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "tired",
+        "id": 1807,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "laugh",
+        "id": 1809,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "glad",
+        "id": 1815,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "proud of",
+        "id": 1819,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "fine",
+        "id": 1851,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "love",
+        "id": 1854,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "hurt",
+        "id": 1858,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "great",
+        "id": 1862,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "look forward to",
+        "id": 1866,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "complain",
+        "id": 1868,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "fun",
+        "id": 1901,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "pain",
+        "id": 1910,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "warm",
+        "id": 1911,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Weather"
+      },
+      {
+        "phrase": "safe",
+        "id": 1912,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "chill out",
+        "id": 1919,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "bitter",
+        "id": 1933,
+        "currentTopic": "Emotions & Feelings",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "chat",
+        "id": 1970,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "let me know",
+        "id": 1972,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "message",
+        "id": 1975,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "keep in touch",
+        "id": 1981,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "bring up",
+        "id": 1982,
+        "currentTopic": "Communication",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 1991,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2000,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "hello",
+        "id": 2004,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "fine",
+        "id": 2006,
+        "currentTopic": "Communication",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "fine",
+        "id": 2006,
+        "currentTopic": "Communication",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "help",
+        "id": 2008,
+        "currentTopic": "Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "help",
+        "id": 2008,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "text",
+        "id": 2013,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "sound good",
+        "id": 2020,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "wrap up",
+        "id": 2041,
+        "currentTopic": "Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "clear up",
+        "id": 2049,
+        "currentTopic": "Communication",
+        "otherTopic": "Weather"
+      },
+      {
+        "phrase": "welcome",
+        "id": 2052,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "calm down",
+        "id": 2067,
+        "currentTopic": "Communication",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "keep a secret",
+        "id": 2084,
+        "currentTopic": "Communication",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "keep a secret",
+        "id": 2084,
+        "currentTopic": "Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "game",
+        "id": 2101,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "fun",
+        "id": 2102,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "fun",
+        "id": 2102,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "watch TV",
+        "id": 2104,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "party",
+        "id": 2107,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "read a book",
+        "id": 2110,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "ticket",
+        "id": 2113,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "listen to music",
+        "id": 2120,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "bored",
+        "id": 2121,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "sold out",
+        "id": 2135,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "binge-watch",
+        "id": 2142,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "toy",
+        "id": 2153,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "park",
+        "id": 2154,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "play",
+        "id": 2155,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "photo",
+        "id": 2157,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "photo",
+        "id": 2157,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "laugh",
+        "id": 2158,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "laugh",
+        "id": 2158,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "club",
+        "id": 2159,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "fan",
+        "id": 2161,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Home & Household"
+      },
+      {
+        "phrase": "camp",
+        "id": 2162,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "go out",
+        "id": 2166,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "go out",
+        "id": 2166,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "museum",
+        "id": 2167,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "join",
+        "id": 2169,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "match",
+        "id": 2174,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "relax",
+        "id": 2176,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "spare time",
+        "id": 2180,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "brilliant",
+        "id": 2184,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "hang out",
+        "id": 2185,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "hang out",
+        "id": 2185,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "book in advance",
+        "id": 2189,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "chill out",
+        "id": 2198,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "chill out",
+        "id": 2198,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "unwind",
+        "id": 2199,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "team",
+        "id": 2206,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "swim",
+        "id": 2208,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "have a good time",
+        "id": 2233,
+        "currentTopic": "Entertainment",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "spell",
+        "id": 2259,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2279,
+        "currentTopic": "Education",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "catch up",
+        "id": 2281,
+        "currentTopic": "Education",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "catch up",
+        "id": 2281,
+        "currentTopic": "Education",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "figure out",
+        "id": 2290,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "board",
+        "id": 2301,
+        "currentTopic": "Education",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "be quiet",
+        "id": 2304,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "stand up",
+        "id": 2305,
+        "currentTopic": "Education",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "sit down",
+        "id": 2306,
+        "currentTopic": "Education",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "art",
+        "id": 2308,
+        "currentTopic": "Education",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "answer",
+        "id": 2311,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "classmate",
+        "id": 2316,
+        "currentTopic": "Education",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "review",
+        "id": 2332,
+        "currentTopic": "Education",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "strict",
+        "id": 2334,
+        "currentTopic": "Education",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "pick up",
+        "id": 2341,
+        "currentTopic": "Education",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "pick up",
+        "id": 2341,
+        "currentTopic": "Education",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "read",
+        "id": 2355,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "write",
+        "id": 2356,
+        "currentTopic": "Education",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "music",
+        "id": 2359,
+        "currentTopic": "Education",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "draw",
+        "id": 2361,
+        "currentTopic": "Education",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2363,
+        "currentTopic": "Education",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "do homework",
+        "id": 2365,
+        "currentTopic": "Education",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "do homework",
+        "id": 2365,
+        "currentTopic": "Education",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "join a club",
+        "id": 2369,
+        "currentTopic": "Education",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "gym",
+        "id": 2370,
+        "currentTopic": "Education",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "procrastinate",
+        "id": 2392,
+        "currentTopic": "Education",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "turn on",
+        "id": 2403,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Home & Household"
+      },
+      {
+        "phrase": "charge my phone",
+        "id": 2414,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "plug in",
+        "id": 2429,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Home & Household"
+      },
+      {
+        "phrase": "text",
+        "id": 2454,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "text",
+        "id": 2454,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "call",
+        "id": 2455,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "camera",
+        "id": 2456,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "email",
+        "id": 2459,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "turn up",
+        "id": 2490,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "shortcut",
+        "id": 2498,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "game",
+        "id": 2503,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "game",
+        "id": 2503,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "message",
+        "id": 2504,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "message",
+        "id": 2504,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "send",
+        "id": 2505,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "play",
+        "id": 2507,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "play",
+        "id": 2507,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "stop",
+        "id": 2508,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "reply",
+        "id": 2520,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "share",
+        "id": 2521,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "empty the trash",
+        "id": 2530,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Home & Household"
+      },
+      {
+        "phrase": "set an alarm",
+        "id": 2536,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "set an alarm",
+        "id": 2536,
+        "currentTopic": "Technology (basic)",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "online",
+        "id": 2551,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "message",
+        "id": 2553,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "message",
+        "id": 2553,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "message",
+        "id": 2553,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "video",
+        "id": 2554,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "photo",
+        "id": 2555,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "photo",
+        "id": 2555,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "photo",
+        "id": 2555,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "email",
+        "id": 2556,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "email",
+        "id": 2556,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "search",
+        "id": 2557,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "password",
+        "id": 2558,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "link",
+        "id": 2559,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "post",
+        "id": 2561,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "chat with friends",
+        "id": 2564,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "check emails",
+        "id": 2566,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "read the news",
+        "id": 2567,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "download an app",
+        "id": 2570,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "profile picture",
+        "id": 2574,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "log in",
+        "id": 2575,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "scroll down",
+        "id": 2577,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "binge-watch",
+        "id": 2591,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "binge-watch",
+        "id": 2591,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "account",
+        "id": 2601,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "group chat",
+        "id": 2614,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "log out",
+        "id": 2666,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "scroll up",
+        "id": 2672,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "keep in touch",
+        "id": 2683,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "keep in touch",
+        "id": 2683,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "mention someone",
+        "id": 2686,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "spread rumors",
+        "id": 2693,
+        "currentTopic": "Media & Internet",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "desk",
+        "id": 2705,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "busy",
+        "id": 2707,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "busy",
+        "id": 2707,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "company",
+        "id": 2708,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "pay",
+        "id": 2710,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "team",
+        "id": 2712,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "team",
+        "id": 2712,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "colleague",
+        "id": 2713,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "take a break",
+        "id": 2720,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "take a break",
+        "id": 2720,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2732,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2732,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "day off",
+        "id": 2734,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "shift",
+        "id": 2740,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "call it a day",
+        "id": 2743,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "clock in",
+        "id": 2746,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "computer",
+        "id": 2751,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "email",
+        "id": 2752,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "email",
+        "id": 2752,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "email",
+        "id": 2752,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Media & Internet"
+      },
+      {
+        "phrase": "call",
+        "id": 2753,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "call",
+        "id": 2753,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "message",
+        "id": 2755,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "message",
+        "id": 2755,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "message",
+        "id": 2755,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "message",
+        "id": 2755,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Media & Internet"
+      },
+      {
+        "phrase": "plan",
+        "id": 2756,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "talk",
+        "id": 2757,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "help",
+        "id": 2758,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "help",
+        "id": 2758,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "help",
+        "id": 2758,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "shop",
+        "id": 2759,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "rest",
+        "id": 2762,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2764,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2764,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "customer",
+        "id": 2767,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "train",
+        "id": 2769,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "print",
+        "id": 2772,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "project",
+        "id": 2774,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "join",
+        "id": 2775,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "join",
+        "id": 2775,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "late",
+        "id": 2776,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "presentation",
+        "id": 2782,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2792,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2792,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 2798,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 2798,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "hospital",
+        "id": 2801,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "letter",
+        "id": 2805,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "send",
+        "id": 2806,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "send",
+        "id": 2806,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "answer",
+        "id": 2807,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "answer",
+        "id": 2807,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "sell",
+        "id": 2808,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "driver",
+        "id": 2809,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "nurse",
+        "id": 2810,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "money",
+        "id": 2812,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "sign",
+        "id": 2816,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "copy",
+        "id": 2817,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "customer service",
+        "id": 2818,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "on time",
+        "id": 2820,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "absent",
+        "id": 2821,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "commute",
+        "id": 2837,
+        "currentTopic": "Work & Career",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "email",
+        "id": 2851,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "email",
+        "id": 2851,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "email",
+        "id": 2851,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Media & Internet"
+      },
+      {
+        "phrase": "email",
+        "id": 2851,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "meeting",
+        "id": 2852,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "reply",
+        "id": 2853,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "reply",
+        "id": 2853,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "call back",
+        "id": 2854,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "send",
+        "id": 2856,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "send",
+        "id": 2856,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "send",
+        "id": 2856,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "manager",
+        "id": 2857,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "office",
+        "id": 2858,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "busy",
+        "id": 2859,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "busy",
+        "id": 2859,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "busy",
+        "id": 2859,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "online",
+        "id": 2860,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "online",
+        "id": 2860,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Media & Internet"
+      },
+      {
+        "phrase": "question",
+        "id": 2861,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "talk",
+        "id": 2862,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "talk",
+        "id": 2862,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "let me know",
+        "id": 2863,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "let me know",
+        "id": 2863,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2866,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2866,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "schedule",
+        "id": 2866,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "available",
+        "id": 2867,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "note",
+        "id": 2873,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "document",
+        "id": 2874,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "agree",
+        "id": 2875,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "report",
+        "id": 2876,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2878,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2878,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "deadline",
+        "id": 2878,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "agenda",
+        "id": 2879,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "reschedule",
+        "id": 2880,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "look forward to",
+        "id": 2882,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "look forward to",
+        "id": 2882,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Emotions & Feelings"
+      },
+      {
+        "phrase": "postpone",
+        "id": 2883,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "postpone",
+        "id": 2883,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "feedback",
+        "id": 2886,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "in charge of",
+        "id": 2887,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "cancel",
+        "id": 2889,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "get back to",
+        "id": 2891,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 2893,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 2893,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "on the same page",
+        "id": 2893,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2894,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2894,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "touch base",
+        "id": 2894,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "clarify",
+        "id": 2895,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "tentative",
+        "id": 2896,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "bring up",
+        "id": 2897,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Family & Relationships"
+      },
+      {
+        "phrase": "bring up",
+        "id": 2897,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "wrap up",
+        "id": 2900,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "wrap up",
+        "id": 2900,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "boss",
+        "id": 2901,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "company",
+        "id": 2902,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "company",
+        "id": 2902,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "job",
+        "id": 2903,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "work",
+        "id": 2904,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "help",
+        "id": 2905,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "help",
+        "id": 2905,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "help",
+        "id": 2905,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "help",
+        "id": 2905,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "team",
+        "id": 2906,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "team",
+        "id": 2906,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "team",
+        "id": 2906,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "plan",
+        "id": 2908,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "plan",
+        "id": 2908,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "read",
+        "id": 2910,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "read",
+        "id": 2910,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "write",
+        "id": 2911,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "write",
+        "id": 2911,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "desk",
+        "id": 2912,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "desk",
+        "id": 2912,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "invite",
+        "id": 2914,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "join",
+        "id": 2915,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "join",
+        "id": 2915,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Entertainment"
+      },
+      {
+        "phrase": "join",
+        "id": 2915,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "share",
+        "id": 2916,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "share",
+        "id": 2916,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "ask",
+        "id": 2917,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "tell",
+        "id": 2918,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "colleague",
+        "id": 2921,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "colleague",
+        "id": 2921,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "client",
+        "id": 2923,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "staff",
+        "id": 2924,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "sign",
+        "id": 2925,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Transportation"
+      },
+      {
+        "phrase": "sign",
+        "id": 2925,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "copy",
+        "id": 2926,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "copy",
+        "id": 2926,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "update",
+        "id": 2927,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "delay",
+        "id": 2928,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Time & Schedules"
+      },
+      {
+        "phrase": "absent",
+        "id": 2929,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "absent",
+        "id": 2929,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "draft",
+        "id": 2932,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "organize",
+        "id": 2934,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "figure out",
+        "id": 2938,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "figure out",
+        "id": 2938,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "point out",
+        "id": 2939,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "put off",
+        "id": 2942,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "put off",
+        "id": 2942,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "brainstorm",
+        "id": 2945,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "take over",
+        "id": 2949,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "file",
+        "id": 2951,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "room",
+        "id": 2952,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "break",
+        "id": 2953,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "price",
+        "id": 2955,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "pay",
+        "id": 2956,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "pay",
+        "id": 2956,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "buy",
+        "id": 2957,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "sell",
+        "id": 2958,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "sell",
+        "id": 2958,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "cost",
+        "id": 2959,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "open",
+        "id": 2960,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "project",
+        "id": 2963,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "project",
+        "id": 2963,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "customer",
+        "id": 2966,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "customer",
+        "id": 2966,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "bill",
+        "id": 2968,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Food & Cooking"
+      },
+      {
+        "phrase": "receipt",
+        "id": 2969,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Shopping"
+      },
+      {
+        "phrase": "print",
+        "id": 2970,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Technology (basic)"
+      },
+      {
+        "phrase": "print",
+        "id": 2970,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "on time",
+        "id": 2973,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "on time",
+        "id": 2973,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "late",
+        "id": 2974,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "late",
+        "id": 2974,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "early",
+        "id": 2975,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Personal Habits"
+      },
+      {
+        "phrase": "hold on",
+        "id": 2976,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "contract",
+        "id": 2978,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "presentation",
+        "id": 2980,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "presentation",
+        "id": 2980,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "human resources",
+        "id": 2982,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      },
+      {
+        "phrase": "budget",
+        "id": 2985,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Travel"
+      },
+      {
+        "phrase": "summarize",
+        "id": 2988,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Education"
+      },
+      {
+        "phrase": "get in touch",
+        "id": 2989,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Friends & Social Life"
+      },
+      {
+        "phrase": "make an appointment",
+        "id": 2990,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Health & Fitness"
+      },
+      {
+        "phrase": "get straight to the point",
+        "id": 2991,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Communication"
+      },
+      {
+        "phrase": "call it a day",
+        "id": 3000,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Daily Life"
+      },
+      {
+        "phrase": "call it a day",
+        "id": 3000,
+        "currentTopic": "Business Communication",
+        "otherTopic": "Work & Career"
+      }
+    ],
+    "antiTemplates": [
+      {
+        "id": 1967,
+        "phrase": "talk about",
+        "pattern": "talk about",
+        "topic": "Communication"
+      },
+      {
+        "id": 2391,
+        "phrase": "keep up with",
+        "pattern": "keep up with",
+        "topic": "Education"
+      },
+      {
+        "id": 2777,
+        "phrase": "deal with",
+        "pattern": "deal with",
+        "topic": "Work & Career"
+      },
+      {
+        "pattern": "Matrix: call_day",
+        "instances": [
+          {
+            "id": 88,
+            "phrase": "call it a day"
+          },
+          {
+            "id": 95,
+            "phrase": "call it a day"
+          },
+          {
+            "id": 2743,
+            "phrase": "call it a day"
+          },
+          {
+            "id": 3000,
+            "phrase": "call it a day"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: run_time",
+        "instances": [
+          {
+            "id": 487,
+            "phrase": "run out of time"
+          },
+          {
+            "id": 489,
+            "phrase": "run out of time"
+          },
+          {
+            "id": 487,
+            "phrase": "run out of time"
+          },
+          {
+            "id": 489,
+            "phrase": "run out of time"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: kill_time",
+        "instances": [
+          {
+            "id": 496,
+            "phrase": "kill time"
+          },
+          {
+            "id": 500,
+            "phrase": "kill time"
+          },
+          {
+            "id": 496,
+            "phrase": "kill time"
+          },
+          {
+            "id": 500,
+            "phrase": "kill time"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: look_to",
+        "instances": [
+          {
+            "id": 1540,
+            "phrase": "look up to"
+          },
+          {
+            "id": 1738,
+            "phrase": "look forward to"
+          },
+          {
+            "id": 1866,
+            "phrase": "look forward to"
+          },
+          {
+            "id": 2882,
+            "phrase": "look forward to"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: bring_up",
+        "instances": [
+          {
+            "id": 1543,
+            "phrase": "bring up"
+          },
+          {
+            "id": 1578,
+            "phrase": "bring up"
+          },
+          {
+            "id": 1982,
+            "phrase": "bring up"
+          },
+          {
+            "id": 2897,
+            "phrase": "bring up"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: touch_base",
+        "instances": [
+          {
+            "id": 1699,
+            "phrase": "touch base"
+          },
+          {
+            "id": 2000,
+            "phrase": "touch base"
+          },
+          {
+            "id": 2792,
+            "phrase": "touch base"
+          },
+          {
+            "id": 2894,
+            "phrase": "touch base"
+          }
+        ]
+      },
+      {
+        "pattern": "Matrix: on_page",
+        "instances": [
+          {
+            "id": 1796,
+            "phrase": "on the same page"
+          },
+          {
+            "id": 1991,
+            "phrase": "on the same page"
+          },
+          {
+            "id": 2798,
+            "phrase": "on the same page"
+          },
+          {
+            "id": 2893,
+            "phrase": "on the same page"
+          }
+        ]
+      }
+    ],
+    "qualityIssues": {
+      "phrase": [],
+      "example": [],
+      "vietnamese": [],
+      "ipa": []
+    },
+    "topicCounts": {
+      "Daily Life": 150,
+      "Home & Household": 150,
+      "Personal Habits": 150,
+      "Time & Schedules": 200,
+      "Food & Cooking": 150,
+      "Shopping": 150,
+      "Transportation": 150,
+      "Health & Fitness": 150,
+      "Travel": 150,
+      "Weather": 200,
+      "Family & Relationships": 150,
+      "Friends & Social Life": 150,
+      "Emotions & Feelings": 150,
+      "Communication": 150,
+      "Entertainment": 150,
+      "Education": 150,
+      "Technology (basic)": 150,
+      "Media & Internet": 150,
+      "Work & Career": 150,
+      "Business Communication": 150
+    }
+  }
+}

@@ -1,0 +1,82 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Vocabulary {
+  id              Int                @id @default(autoincrement())
+  word            String             @unique
+  meaning         String
+  exampleSentence String?
+  pronunciation   String?
+  topic           String?
+  difficulty      String?            // "Beginner", "Intermediate", "Advanced"
+  lessons         LessonVocabulary[]
+  flashcards      Flashcard[]
+}
+
+model Grammar {
+  id          Int      @id @default(autoincrement())
+  title       String
+  explanation String
+  examples    String   // Store as JSON string or plain text
+  level       String?  // "Beginner", "Intermediate", "Advanced"
+  lessons     Lesson[]
+}
+
+model Lesson {
+  id         Int                @id @default(autoincrement())
+  topic      String
+  level      String             // "Beginner", "Intermediate", "Advanced"
+  grammarId  Int?
+  grammar    Grammar?           @relation(fields: [grammarId], references: [id])
+  vocabulary LessonVocabulary[]
+}
+
+model LessonVocabulary {
+  lessonId     Int
+  vocabularyId Int
+  lesson       Lesson     @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  vocabulary   Vocabulary @relation(fields: [vocabularyId], references: [id], onDelete: Cascade)
+
+  @@id([lessonId, vocabularyId])
+}
+
+model Flashcard {
+  id           Int        @id @default(autoincrement())
+  vocabularyId Int
+  vocabulary   Vocabulary @relation(fields: [vocabularyId], references: [id], onDelete: Cascade)
+  difficulty   Int        @default(0) // 0: New, 1: Easy, 2: Good, 3: Hard, 4: Again
+  nextReview   DateTime   @default(now())
+}
+
+model Progress {
+  id          Int      @id @default(autoincrement())
+  type        String   // "lesson", "review", "daily", "chat"
+  xpEarned    Int      @default(0)
+  completedAt DateTime @default(now())
+}
+
+model DailyPlan {
+  id        Int         @id @default(autoincrement())
+  date      String      @unique // e.g., "2026-03-09"
+  createdAt DateTime    @default(now())
+  tasks     DailyTask[]
+}
+
+model DailyTask {
+  id          Int       @id @default(autoincrement())
+  title       String
+  type        String    // "vocabulary", "speaking_part1", "speaking_part2", "writing", "review"
+  completed   Boolean   @default(false)
+  actionUrl   String
+  dailyPlanId Int
+  dailyPlan   DailyPlan @relation(fields: [dailyPlanId], references: [id], onDelete: Cascade)
+}

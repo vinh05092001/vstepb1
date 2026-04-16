@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-03-12T02:28:09.531Z",
+  "totalEntries": 3000,
+  "approvedTopicEntries": 3000,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 393,
+      "topic": "Personal Habits",
+      "phrase": "deal with sleep habits"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 394,
+      "topic": "Personal Habits",
+      "phrase": "deal with water intake"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 395,
+      "topic": "Personal Habits",
+      "phrase": "deal with screen time"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 396,
+      "topic": "Personal Habits",
+      "phrase": "deal with the bedtime routine"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 397,
+      "topic": "Personal Habits",
+      "phrase": "deal with a morning walk"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 398,
+      "topic": "Personal Habits",
+      "phrase": "deal with snack choices"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 399,
+      "topic": "Personal Habits",
+      "phrase": "deal with study habits"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 400,
+      "topic": "Personal Habits",
+      "phrase": "deal with spending habits"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 401,
+      "topic": "Personal Habits",
+      "phrase": "deal with an exercise plan"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 402,
+      "topic": "Personal Habits",
+      "phrase": "deal with stress levels"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 403,
+      "topic": "Personal Habits",
+      "phrase": "deal with hair care"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 404,
+      "topic": "Personal Habits",
+      "phrase": "deal with reading time"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 405,
+      "topic": "Personal Habits",
+      "phrase": "deal with coffee intake"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 406,
+      "topic": "Personal Habits",
+      "phrase": "deal with daily notes"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 407,
+      "topic": "Personal Habits",
+      "phrase": "deal with weekend sleep"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 408,
+      "topic": "Personal Habits",
+      "phrase": "deal with phone habits"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1364,
+      "topic": "Weather",
+      "phrase": "talk about heavy rain"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1365,
+      "topic": "Weather",
+      "phrase": "talk about hot weather"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1366,
+      "topic": "Weather",
+      "phrase": "talk about a cold morning"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1367,
+      "topic": "Weather",
+      "phrase": "talk about strong wind"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1368,
+      "topic": "Weather",
+      "phrase": "talk about a sunny afternoon"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1369,
+      "topic": "Weather",
+      "phrase": "talk about the weather report"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1370,
+      "topic": "Weather",
+      "phrase": "talk about a rainy week"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1371,
+      "topic": "Weather",
+      "phrase": "talk about the storm warning"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1372,
+      "topic": "Weather",
+      "phrase": "talk about humid air"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1373,
+      "topic": "Weather",
+      "phrase": "talk about cool evenings"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1374,
+      "topic": "Weather",
+      "phrase": "talk about the heat wave"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1375,
+      "topic": "Weather",
+      "phrase": "talk about a cloudy sky"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1376,
+      "topic": "Weather",
+      "phrase": "talk about weather changes"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1377,
+      "topic": "Weather",
+      "phrase": "talk about the weekend forecast"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1378,
+      "topic": "Weather",
+      "phrase": "talk about dry air"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1379,
+      "topic": "Weather",
+      "phrase": "talk about the winter wind"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1497,
+      "topic": "Weather",
+      "phrase": "talk about a foggy morning"
+    },
+    {
+      "severity": "warning",
+      "code": "generic_example_en",
+      "message": "example_en looks generic or templated.",
+      "entryId": 1498,
+      "topic": "Weather",
+      "phrase": "talk about spring sunshine"
+    }
+  ],
+  "topicCounts": {
+    "Daily Life": 150,
+    "Home & Household": 150,
+    "Personal Habits": 150,
+    "Time & Schedules": 150,
+    "Food & Cooking": 150,
+    "Shopping": 150,
+    "Transportation": 150,
+    "Health & Fitness": 150,
+    "Travel": 150,
+    "Weather": 150,
+    "Family & Relationships": 150,
+    "Friends & Social Life": 150,
+    "Emotions & Feelings": 150,
+    "Communication": 150,
+    "Entertainment": 150,
+    "Education": 150,
+    "Technology (basic)": 150,
+    "Media & Internet": 150,
+    "Work & Career": 150,
+    "Business Communication": 150
+  },
+  "batchRejections": []
+}

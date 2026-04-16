@@ -1,0 +1,694 @@
+﻿TOPIC: Daily Life
+MUST_DELETE:
+- ID 95 ΓÇö exact duplicate phrase of ID 88 ("call it a day")
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[95]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Home & Household
+MUST_DELETE:
+- ID 180 ΓÇö exact duplicate phrase of ID 127 ("fold the laundry")
+- ID 246 ΓÇö exact duplicate phrase of ID 164 ("load the washing machine")
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[180, 246]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Personal Habits
+MUST_DELETE:
+- ID 315 ΓÇö exact duplicate phrase of ID 307 ("skip breakfast")
+- ID 374 ΓÇö exact duplicate phrase of ID 355 ("bite your lip")
+- ID 415 ΓÇö exact duplicate phrase of ID 352 ("pick your nose")
+
+REVIEW_FIRST:
+- ID 304 ΓÇö near-duplicate of ID 52 ("wash hands")
+- ID 313 ΓÇö near-duplicate of ID 301 ("bite nails")
+- ID 436 ΓÇö near-duplicate of ID 302 ("crack knuckles")
+
+FINAL_MUST_DELETE_IDS:
+[315, 374, 415]
+
+FINAL_REVIEW_IDS:
+[304, 313, 436]
+
+TOPIC: Time & Schedules
+MUST_DELETE:
+- ID 489 ΓÇö exact duplicate phrase of ID 487 ("run out of time")
+- ID 500 ΓÇö exact duplicate phrase of ID 496 ("kill time")
+- ID 451 ΓÇö duplicate ID
+- ID 452 ΓÇö duplicate ID
+- ID 453 ΓÇö duplicate ID
+- ID 454 ΓÇö duplicate ID
+- ID 455 ΓÇö duplicate ID
+- ID 456 ΓÇö duplicate ID
+- ID 457 ΓÇö duplicate ID
+- ID 458 ΓÇö duplicate ID
+- ID 459 ΓÇö duplicate ID
+- ID 460 ΓÇö duplicate ID
+- ID 461 ΓÇö duplicate ID
+- ID 462 ΓÇö duplicate ID
+- ID 463 ΓÇö duplicate ID
+- ID 464 ΓÇö duplicate ID
+- ID 465 ΓÇö duplicate ID
+- ID 466 ΓÇö duplicate ID
+- ID 467 ΓÇö duplicate ID
+- ID 468 ΓÇö duplicate ID
+- ID 469 ΓÇö duplicate ID
+- ID 470 ΓÇö duplicate ID
+- ID 471 ΓÇö duplicate ID
+- ID 472 ΓÇö duplicate ID
+- ID 473 ΓÇö duplicate ID
+- ID 474 ΓÇö duplicate ID
+- ID 475 ΓÇö duplicate ID
+- ID 476 ΓÇö duplicate ID
+- ID 477 ΓÇö duplicate ID
+- ID 478 ΓÇö duplicate ID
+- ID 479 ΓÇö duplicate ID
+- ID 480 ΓÇö duplicate ID
+- ID 481 ΓÇö duplicate ID
+- ID 482 ΓÇö duplicate ID
+- ID 483 ΓÇö duplicate ID
+- ID 484 ΓÇö duplicate ID
+- ID 485 ΓÇö duplicate ID
+- ID 486 ΓÇö duplicate ID
+- ID 487 ΓÇö duplicate ID
+- ID 488 ΓÇö duplicate ID
+- ID 490 ΓÇö duplicate ID
+- ID 491 ΓÇö duplicate ID
+- ID 492 ΓÇö duplicate ID
+- ID 493 ΓÇö duplicate ID
+- ID 494 ΓÇö duplicate ID
+- ID 495 ΓÇö duplicate ID
+- ID 496 ΓÇö duplicate ID
+- ID 497 ΓÇö duplicate ID
+- ID 498 ΓÇö duplicate ID
+- ID 499 ΓÇö duplicate ID
+- ID 525 ΓÇö exact duplicate phrase of ID 490 ("waste time")
+- ID 550 ΓÇö exact duplicate phrase of ID 455 ("beat the clock")
+- ID 584 ΓÇö exact duplicate phrase of ID 509 ("save time")
+- ID 589 ΓÇö exact duplicate phrase of ID 534 ("time flies")
+- ID 590 ΓÇö exact duplicate phrase of ID 558 ("meet a deadline")
+- ID 591 ΓÇö exact duplicate phrase of ID 528 ("pressed for time")
+- ID 592 ΓÇö exact duplicate phrase of ID 503 ("in the nick of time")
+
+REVIEW_FIRST:
+- ID 507 ΓÇö weak example ("Wait a second!")
+
+FINAL_MUST_DELETE_IDS:
+[451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 525, 550, 584, 589, 590, 591, 592]
+
+FINAL_REVIEW_IDS:
+[507]
+
+TOPIC: Food & Cooking
+MUST_DELETE:
+- ID 659 ΓÇö exact duplicate phrase of ID 135 ("grab a coffee")
+- ID 663 ΓÇö exact duplicate phrase of ID 619 ("follow a recipe")
+- ID 667 ΓÇö exact duplicate phrase of ID 603 ("have a sweet tooth")
+- ID 669 ΓÇö exact duplicate phrase of ID 36 ("grab a bite")
+- ID 670 ΓÇö exact duplicate phrase of ID 419 ("eat out")
+- ID 673 ΓÇö exact duplicate phrase of ID 654 ("leave a tip")
+- ID 688 ΓÇö exact duplicate phrase of ID 649 ("home-cooked meal")
+- ID 690 ΓÇö exact duplicate phrase of ID 364 ("junk food")
+- ID 695 ΓÇö exact duplicate phrase of ID 613 ("fresh vegetables")
+- ID 728 ΓÇö exact duplicate phrase of ID 679 ("go on a diet")
+- ID 738 ΓÇö exact duplicate phrase of ID 686 ("organic food")
+
+REVIEW_FIRST:
+- ID 681 ΓÇö near-duplicate of ID 637 ("a balanced diet")
+
+FINAL_MUST_DELETE_IDS:
+[659, 663, 667, 669, 670, 673, 688, 690, 695, 728, 738]
+
+FINAL_REVIEW_IDS:
+[681]
+
+TOPIC: Shopping
+MUST_DELETE:
+(none)
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Transportation
+MUST_DELETE:
+(none)
+
+REVIEW_FIRST:
+- ID 929 ΓÇö near-duplicate of ID 86 ("catch a bus")
+- ID 935 ΓÇö near-duplicate of ID 34 ("pick someone up")
+- ID 950 ΓÇö near-duplicate of ID 33 ("drop someone off")
+
+FINAL_MUST_DELETE_IDS:
+[]
+
+FINAL_REVIEW_IDS:
+[929, 935, 950]
+
+TOPIC: Health & Fitness
+MUST_DELETE:
+- ID 1068 ΓÇö exact duplicate phrase of ID 683 ("lose weight")
+- ID 1176 ΓÇö exact duplicate phrase of ID 682 ("gain weight")
+- ID 1185 ΓÇö exact duplicate phrase of ID 668 ("skip a meal")
+- ID 1194 ΓÇö exact duplicate phrase of ID 687 ("processed food")
+
+REVIEW_FIRST:
+- ID 1169 ΓÇö near-duplicate of ID 4 ("brush your teeth")
+
+FINAL_MUST_DELETE_IDS:
+[1068, 1176, 1185, 1194]
+
+FINAL_REVIEW_IDS:
+[1169]
+
+TOPIC: Travel
+MUST_DELETE:
+- ID 1315 ΓÇö exact duplicate phrase of ID 1290 ("guided tour")
+- ID 1341 ΓÇö exact duplicate phrase of ID 1048 ("catch a flight")
+- ID 1345 ΓÇö exact duplicate phrase of ID 1322 ("scenic route")
+- ID 1346 ΓÇö exact duplicate phrase of ID 1224 ("travel abroad")
+
+REVIEW_FIRST:
+- ID 1277 ΓÇö single-word exact duplicate of ID 1029 ("destination")
+
+FINAL_MUST_DELETE_IDS:
+[1315, 1341, 1345, 1346]
+
+FINAL_REVIEW_IDS:
+[1277]
+
+TOPIC: Weather
+MUST_DELETE:
+- ID 1451 ΓÇö duplicate ID
+- ID 1452 ΓÇö duplicate ID
+- ID 1453 ΓÇö duplicate ID
+- ID 1454 ΓÇö duplicate ID
+- ID 1455 ΓÇö duplicate ID
+- ID 1456 ΓÇö duplicate ID
+- ID 1457 ΓÇö duplicate ID
+- ID 1458 ΓÇö duplicate ID
+- ID 1459 ΓÇö duplicate ID
+- ID 1460 ΓÇö duplicate ID
+- ID 1461 ΓÇö duplicate ID
+- ID 1462 ΓÇö duplicate ID
+- ID 1463 ΓÇö duplicate ID
+- ID 1464 ΓÇö duplicate ID
+- ID 1465 ΓÇö duplicate ID
+- ID 1466 ΓÇö duplicate ID
+- ID 1467 ΓÇö duplicate ID
+- ID 1468 ΓÇö duplicate ID
+- ID 1469 ΓÇö duplicate ID
+- ID 1470 ΓÇö duplicate ID
+- ID 1471 ΓÇö duplicate ID
+- ID 1472 ΓÇö duplicate ID
+- ID 1473 ΓÇö duplicate ID
+- ID 1474 ΓÇö duplicate ID
+- ID 1475 ΓÇö duplicate ID
+- ID 1476 ΓÇö duplicate ID
+- ID 1477 ΓÇö duplicate ID
+- ID 1478 ΓÇö duplicate ID
+- ID 1479 ΓÇö duplicate ID
+- ID 1480 ΓÇö duplicate ID
+- ID 1481 ΓÇö duplicate ID
+- ID 1482 ΓÇö duplicate ID
+- ID 1483 ΓÇö duplicate ID
+- ID 1484 ΓÇö duplicate ID
+- ID 1485 ΓÇö duplicate ID
+- ID 1486 ΓÇö duplicate ID
+- ID 1487 ΓÇö duplicate ID
+- ID 1488 ΓÇö duplicate ID
+- ID 1489 ΓÇö duplicate ID
+- ID 1490 ΓÇö duplicate ID
+- ID 1491 ΓÇö duplicate ID
+- ID 1492 ΓÇö duplicate ID
+- ID 1493 ΓÇö duplicate ID
+- ID 1494 ΓÇö duplicate ID
+- ID 1495 ΓÇö duplicate ID
+- ID 1496 ΓÇö duplicate ID
+- ID 1497 ΓÇö duplicate ID
+- ID 1498 ΓÇö duplicate ID
+- ID 1499 ΓÇö duplicate ID
+- ID 1500 ΓÇö duplicate ID
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[1451, 1452, 1453, 1454, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469, 1470, 1471, 1472, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Family & Relationships
+MUST_DELETE:
+- ID 1567 ΓÇö exact duplicate phrase of ID 1170 ("take care of")
+- ID 1568 ΓÇö exact duplicate phrase of ID 1517 ("grow up")
+- ID 1572 ΓÇö exact duplicate phrase of ID 1508 ("only child")
+- ID 1578 ΓÇö exact duplicate phrase of ID 1543 ("bring up")
+- ID 1590 ΓÇö exact duplicate phrase of ID 73 ("take a break")
+- ID 1623 ΓÇö exact duplicate phrase of ID 40 ("do chores")
+- ID 1624 ΓÇö exact duplicate phrase of ID 15 ("take out the trash")
+
+REVIEW_FIRST:
+- ID 1560 ΓÇö single-word exact duplicate of ID 1506 ("grandfather")
+
+FINAL_MUST_DELETE_IDS:
+[1567, 1568, 1572, 1578, 1590, 1623, 1624]
+
+FINAL_REVIEW_IDS:
+[1560]
+
+TOPIC: Friends & Social Life
+MUST_DELETE:
+- ID 1663 ΓÇö exact duplicate phrase of ID 39 ("hang out")
+- ID 1665 ΓÇö exact duplicate phrase of ID 1613 ("get together")
+- ID 1666 ΓÇö exact duplicate phrase of ID 135 ("grab a coffee")
+- ID 1671 ΓÇö exact duplicate phrase of ID 57 ("go out")
+- ID 1677 ΓÇö exact duplicate phrase of ID 587 ("catch up")
+- ID 1691 ΓÇö exact duplicate phrase of ID 1583 ("lose touch")
+- ID 1698 ΓÇö exact duplicate phrase of ID 1535 ("drift apart")
+- ID 1717 ΓÇö obvious machine-generated template ("plan")
+- ID 1740 ΓÇö exact duplicate phrase of ID 1639 ("rely on")
+- ID 1767 ΓÇö exact duplicate phrase of ID 540 ("spend time")
+- ID 1772 ΓÇö exact duplicate phrase of ID 24 ("go for a walk")
+- ID 1780 ΓÇö exact duplicate phrase of ID 484 ("make it")
+- ID 1786 ΓÇö exact duplicate phrase of ID 332 ("put off")
+- ID 1788 ΓÇö exact duplicate phrase of ID 1582 ("keep a secret")
+
+REVIEW_FIRST:
+- ID 1657 ΓÇö single-word exact duplicate of ID 1306 ("visit")
+- ID 1661 ΓÇö single-word exact duplicate of ID 524 ("free")
+- ID 1662 ΓÇö single-word exact duplicate of ID 1210 ("stay")
+- ID 1672 ΓÇö single-word exact duplicate of ID 358 ("busy")
+- ID 1688 ΓÇö single-word exact duplicate of ID 486 ("postpone")
+- ID 1708 ΓÇö single-word exact duplicate of ID 811 ("gift")
+- ID 1710 ΓÇö single-word exact duplicate of ID 1609 ("hug")
+- ID 1711 ΓÇö single-word exact duplicate of ID 858 ("help")
+- ID 1713 ΓÇö single-word exact duplicate of ID 461 ("weekend")
+- ID 1715 ΓÇö single-word exact duplicate of ID 1318 ("guest")
+- ID 1723 ΓÇö single-word exact duplicate of ID 517 ("ready")
+- ID 1756 ΓÇö single-word exact duplicate of ID 1366 ("cool")
+- ID 1757 ΓÇö single-word exact duplicate of ID 1257 ("photo")
+
+FINAL_MUST_DELETE_IDS:
+[1663, 1665, 1666, 1671, 1677, 1691, 1698, 1717, 1740, 1767, 1772, 1780, 1786, 1788]
+
+FINAL_REVIEW_IDS:
+[1657, 1661, 1662, 1672, 1688, 1708, 1710, 1711, 1713, 1715, 1723, 1756, 1757]
+
+TOPIC: Emotions & Feelings
+MUST_DELETE:
+- ID 1819 ΓÇö exact duplicate phrase of ID 1622 ("proud of")
+- ID 1866 ΓÇö exact duplicate phrase of ID 1738 ("look forward to")
+- ID 1919 ΓÇö exact duplicate phrase of ID 1778 ("chill out")
+
+REVIEW_FIRST:
+- ID 1804 ΓÇö single-word exact duplicate of ID 1705 ("smile")
+- ID 1807 ΓÇö single-word exact duplicate of ID 362 ("tired")
+- ID 1809 ΓÇö single-word exact duplicate of ID 1704 ("laugh")
+- ID 1815 ΓÇö single-word exact duplicate of ID 1762 ("glad")
+- ID 1851 ΓÇö single-word exact duplicate of ID 983 ("fine")
+- ID 1854 ΓÇö single-word exact duplicate of ID 1510 ("love")
+- ID 1858 ΓÇö single-word exact duplicate of ID 1158 ("hurt")
+- ID 1862 ΓÇö single-word exact duplicate of ID 1761 ("great")
+- ID 1868 ΓÇö single-word exact duplicate of ID 321 ("complain")
+- ID 1901 ΓÇö single-word exact duplicate of ID 1656 ("fun")
+- ID 1910 ΓÇö single-word exact duplicate of ID 1059 ("pain")
+- ID 1911 ΓÇö single-word exact duplicate of ID 1360 ("warm")
+- ID 1912 ΓÇö single-word exact duplicate of ID 1323 ("safe")
+- ID 1933 ΓÇö single-word exact duplicate of ID 635 ("bitter")
+
+FINAL_MUST_DELETE_IDS:
+[1819, 1866, 1919]
+
+FINAL_REVIEW_IDS:
+[1804, 1807, 1809, 1815, 1851, 1854, 1858, 1862, 1868, 1901, 1910, 1911, 1912, 1933]
+
+TOPIC: Communication
+MUST_DELETE:
+- ID 1967 ΓÇö obvious machine-generated template ("talk about")
+- ID 1972 ΓÇö exact duplicate phrase of ID 1684 ("let me know")
+- ID 1981 ΓÇö exact duplicate phrase of ID 1678 ("keep in touch")
+- ID 1982 ΓÇö exact duplicate phrase of ID 1543 ("bring up")
+- ID 1991 ΓÇö exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2000 ΓÇö exact duplicate phrase of ID 1699 ("touch base")
+- ID 2020 ΓÇö exact duplicate phrase of ID 1674 ("sound good")
+- ID 2041 ΓÇö exact duplicate phrase of ID 544 ("wrap up")
+- ID 2049 ΓÇö exact duplicate phrase of ID 1380 ("clear up")
+- ID 2067 ΓÇö exact duplicate phrase of ID 1820 ("calm down")
+- ID 2084 ΓÇö exact duplicate phrase of ID 1582 ("keep a secret")
+
+REVIEW_FIRST:
+- ID 1970 ΓÇö single-word exact duplicate of ID 1655 ("chat")
+- ID 1975 ΓÇö single-word exact duplicate of ID 1673 ("message")
+- ID 2004 ΓÇö single-word exact duplicate of ID 1706 ("hello")
+- ID 2006 ΓÇö single-word exact duplicate of ID 983 ("fine")
+- ID 2008 ΓÇö single-word exact duplicate of ID 858 ("help")
+- ID 2013 ΓÇö single-word exact duplicate of ID 1719 ("text")
+- ID 2052 ΓÇö single-word exact duplicate of ID 1722 ("welcome")
+
+FINAL_MUST_DELETE_IDS:
+[1967, 1972, 1981, 1982, 1991, 2000, 2020, 2041, 2049, 2067, 2084]
+
+FINAL_REVIEW_IDS:
+[1970, 1975, 2004, 2006, 2008, 2013, 2052]
+
+TOPIC: Entertainment
+MUST_DELETE:
+- ID 2104 ΓÇö exact duplicate phrase of ID 10 ("watch TV")
+- ID 2110 ΓÇö exact duplicate phrase of ID 58 ("read a book")
+- ID 2120 ΓÇö exact duplicate phrase of ID 59 ("listen to music")
+- ID 2135 ΓÇö exact duplicate phrase of ID 780 ("sold out")
+- ID 2166 ΓÇö exact duplicate phrase of ID 57 ("go out")
+- ID 2180 ΓÇö exact duplicate phrase of ID 475 ("spare time")
+- ID 2185 ΓÇö exact duplicate phrase of ID 39 ("hang out")
+- ID 2189 ΓÇö exact duplicate phrase of ID 933 ("book in advance")
+- ID 2198 ΓÇö exact duplicate phrase of ID 1778 ("chill out")
+- ID 2233 ΓÇö exact duplicate phrase of ID 1669 ("have a good time")
+
+REVIEW_FIRST:
+- ID 2101 ΓÇö single-word exact duplicate of ID 1703 ("game")
+- ID 2102 ΓÇö single-word exact duplicate of ID 1656 ("fun")
+- ID 2107 ΓÇö single-word exact duplicate of ID 1653 ("party")
+- ID 2113 ΓÇö single-word exact duplicate of ID 1202 ("ticket")
+- ID 2121 ΓÇö single-word exact duplicate of ID 1863 ("bored")
+- ID 2142 ΓÇö single-word exact duplicate of ID 448 ("binge-watch")
+- ID 2153 ΓÇö single-word exact duplicate of ID 810 ("toy")
+- ID 2154 ΓÇö single-word exact duplicate of ID 1011 ("park")
+- ID 2155 ΓÇö single-word exact duplicate of ID 1702 ("play")
+- ID 2157 ΓÇö single-word exact duplicate of ID 1257 ("photo")
+- ID 2158 ΓÇö single-word exact duplicate of ID 1704 ("laugh")
+- ID 2159 ΓÇö single-word exact duplicate of ID 1759 ("club")
+- ID 2161 ΓÇö single-word exact duplicate of ID 220 ("fan")
+- ID 2162 ΓÇö single-word exact duplicate of ID 1275 ("camp")
+- ID 2167 ΓÇö single-word exact duplicate of ID 1274 ("museum")
+- ID 2169 ΓÇö single-word exact duplicate of ID 1753 ("join")
+- ID 2174 ΓÇö single-word exact duplicate of ID 832 ("match")
+- ID 2176 ΓÇö single-word exact duplicate of ID 25 ("relax")
+- ID 2184 ΓÇö single-word exact duplicate of ID 1923 ("brilliant")
+- ID 2199 ΓÇö single-word exact duplicate of ID 44 ("unwind")
+- ID 2206 ΓÇö single-word exact duplicate of ID 1760 ("team")
+- ID 2208 ΓÇö single-word exact duplicate of ID 1159 ("swim")
+
+FINAL_MUST_DELETE_IDS:
+[2104, 2110, 2120, 2135, 2166, 2180, 2185, 2189, 2198, 2233]
+
+FINAL_REVIEW_IDS:
+[2101, 2102, 2107, 2113, 2121, 2142, 2153, 2154, 2155, 2157, 2158, 2159, 2161, 2162, 2167, 2169, 2174, 2176, 2184, 2199, 2206, 2208]
+
+TOPIC: Education
+MUST_DELETE:
+- ID 2281 ΓÇö exact duplicate phrase of ID 587 ("catch up")
+- ID 2290 ΓÇö exact duplicate phrase of ID 2035 ("figure out")
+- ID 2304 ΓÇö exact duplicate phrase of ID 2066 ("be quiet")
+- ID 2306 ΓÇö exact duplicate phrase of ID 108 ("sit down")
+- ID 2341 ΓÇö exact duplicate phrase of ID 34 ("pick up")
+- ID 2365 ΓÇö exact duplicate phrase of ID 370 ("do homework")
+- ID 2369 ΓÇö exact duplicate phrase of ID 1071 ("join a club")
+
+REVIEW_FIRST:
+- ID 2259 ΓÇö single-word exact duplicate of ID 1974 ("spell")
+- ID 2279 ΓÇö single-word exact duplicate of ID 482 ("deadline")
+- ID 2285 ΓÇö near-duplicate of ID 1540 ("look up")
+- ID 2301 ΓÇö single-word exact duplicate of ID 1327 ("board")
+- ID 2305 ΓÇö near-duplicate of ID 1693 ("stand up")
+- ID 2308 ΓÇö single-word exact duplicate of ID 2156 ("art")
+- ID 2311 ΓÇö single-word exact duplicate of ID 1958 ("answer")
+- ID 2316 ΓÇö single-word exact duplicate of ID 1763 ("classmate")
+- ID 2332 ΓÇö single-word exact duplicate of ID 2140 ("review")
+- ID 2334 ΓÇö single-word exact duplicate of ID 1589 ("strict")
+- ID 2355 ΓÇö single-word exact duplicate of ID 2010 ("read")
+- ID 2356 ΓÇö single-word exact duplicate of ID 2011 ("write")
+- ID 2359 ΓÇö single-word exact duplicate of ID 2103 ("music")
+- ID 2361 ΓÇö single-word exact duplicate of ID 2160 ("draw")
+- ID 2363 ΓÇö single-word exact duplicate of ID 516 ("schedule")
+- ID 2370 ΓÇö single-word exact duplicate of ID 1062 ("gym")
+- ID 2391 ΓÇö possible template issue ("keep up with")
+- ID 2392 ΓÇö single-word exact duplicate of ID 331 ("procrastinate")
+
+FINAL_MUST_DELETE_IDS:
+[2281, 2290, 2304, 2306, 2341, 2365, 2369]
+
+FINAL_REVIEW_IDS:
+[2259, 2279, 2285, 2301, 2305, 2308, 2311, 2316, 2332, 2334, 2355, 2356, 2359, 2361, 2363, 2370, 2391, 2392]
+
+TOPIC: Technology (basic)
+MUST_DELETE:
+- ID 2403 ΓÇö exact duplicate phrase of ID 276 ("turn on")
+- ID 2429 ΓÇö exact duplicate phrase of ID 280 ("plug in")
+- ID 2490 ΓÇö exact duplicate phrase of ID 1689 ("turn up")
+- ID 2530 ΓÇö exact duplicate phrase of ID 232 ("empty the trash")
+- ID 2536 ΓÇö exact duplicate phrase of ID 381 ("set an alarm")
+
+REVIEW_FIRST:
+- ID 2414 ΓÇö near-duplicate of ID 83 ("charge my phone")
+- ID 2454 ΓÇö single-word exact duplicate of ID 1719 ("text")
+- ID 2455 ΓÇö single-word exact duplicate of ID 1701 ("call")
+- ID 2456 ΓÇö single-word exact duplicate of ID 1304 ("camera")
+- ID 2459 ΓÇö single-word exact duplicate of ID 2056 ("email")
+- ID 2498 ΓÇö single-word exact duplicate of ID 990 ("shortcut")
+- ID 2503 ΓÇö single-word exact duplicate of ID 1703 ("game")
+- ID 2504 ΓÇö single-word exact duplicate of ID 1673 ("message")
+- ID 2505 ΓÇö single-word exact duplicate of ID 1758 ("send")
+- ID 2507 ΓÇö single-word exact duplicate of ID 1702 ("play")
+- ID 2508 ΓÇö single-word exact duplicate of ID 955 ("stop")
+- ID 2520 ΓÇö single-word exact duplicate of ID 1718 ("reply")
+- ID 2521 ΓÇö single-word exact duplicate of ID 1709 ("share")
+
+FINAL_MUST_DELETE_IDS:
+[2403, 2429, 2490, 2530, 2536]
+
+FINAL_REVIEW_IDS:
+[2414, 2454, 2455, 2456, 2459, 2498, 2503, 2504, 2505, 2507, 2508, 2520, 2521]
+
+TOPIC: Media & Internet
+MUST_DELETE:
+- ID 2564 ΓÇö exact duplicate phrase of ID 23 ("chat with friends")
+- ID 2567 ΓÇö exact duplicate phrase of ID 76 ("read the news")
+- ID 2570 ΓÇö exact duplicate phrase of ID 2413 ("download an app")
+- ID 2574 ΓÇö exact duplicate phrase of ID 2469 ("profile picture")
+- ID 2575 ΓÇö exact duplicate phrase of ID 2415 ("log in")
+- ID 2577 ΓÇö exact duplicate phrase of ID 2467 ("scroll down")
+- ID 2614 ΓÇö exact duplicate phrase of ID 2480 ("group chat")
+- ID 2666 ΓÇö exact duplicate phrase of ID 2516 ("log out")
+- ID 2672 ΓÇö exact duplicate phrase of ID 2477 ("scroll up")
+- ID 2683 ΓÇö exact duplicate phrase of ID 1678 ("keep in touch")
+- ID 2693 ΓÇö exact duplicate phrase of ID 2085 ("spread rumors")
+
+REVIEW_FIRST:
+- ID 2551 ΓÇö single-word exact duplicate of ID 2474 ("online")
+- ID 2553 ΓÇö single-word exact duplicate of ID 1673 ("message")
+- ID 2554 ΓÇö single-word exact duplicate of ID 2457 ("video")
+- ID 2555 ΓÇö single-word exact duplicate of ID 1257 ("photo")
+- ID 2556 ΓÇö single-word exact duplicate of ID 2056 ("email")
+- ID 2557 ΓÇö single-word exact duplicate of ID 2470 ("search")
+- ID 2558 ΓÇö single-word exact duplicate of ID 2412 ("password")
+- ID 2559 ΓÇö single-word exact duplicate of ID 2476 ("link")
+- ID 2561 ΓÇö single-word exact duplicate of ID 2502 ("post")
+- ID 2566 ΓÇö near-duplicate of ID 119 ("check emails")
+- ID 2591 ΓÇö single-word exact duplicate of ID 448 ("binge-watch")
+- ID 2601 ΓÇö single-word exact duplicate of ID 2533 ("account")
+- ID 2686 ΓÇö near-duplicate of ID 1980 ("mention someone")
+
+FINAL_MUST_DELETE_IDS:
+[2564, 2567, 2570, 2574, 2575, 2577, 2614, 2666, 2672, 2683, 2693]
+
+FINAL_REVIEW_IDS:
+[2551, 2553, 2554, 2555, 2556, 2557, 2558, 2559, 2561, 2566, 2591, 2601, 2686]
+
+TOPIC: Work & Career
+MUST_DELETE:
+- ID 2720 ΓÇö exact duplicate phrase of ID 73 ("take a break")
+- ID 2734 ΓÇö exact duplicate phrase of ID 536 ("day off")
+- ID 2743 ΓÇö exact duplicate phrase of ID 88 ("call it a day")
+- ID 2746 ΓÇö exact duplicate phrase of ID 572 ("clock in")
+- ID 2756 ΓÇö obvious machine-generated template ("plan")
+- ID 2792 ΓÇö exact duplicate phrase of ID 1699 ("touch base")
+- ID 2798 ΓÇö exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2818 ΓÇö exact duplicate phrase of ID 863 ("customer service")
+- ID 2820 ΓÇö exact duplicate phrase of ID 323 ("on time")
+
+REVIEW_FIRST:
+- ID 2705 ΓÇö single-word exact duplicate of ID 2302 ("desk")
+- ID 2707 ΓÇö single-word exact duplicate of ID 358 ("busy")
+- ID 2708 ΓÇö single-word exact duplicate of ID 1730 ("company")
+- ID 2710 ΓÇö single-word exact duplicate of ID 757 ("pay")
+- ID 2712 ΓÇö single-word exact duplicate of ID 1760 ("team")
+- ID 2713 ΓÇö single-word exact duplicate of ID 1764 ("colleague")
+- ID 2717 ΓÇö possible template issue ("manager")
+- ID 2732 ΓÇö single-word exact duplicate of ID 482 ("deadline")
+- ID 2740 ΓÇö single-word exact duplicate of ID 535 ("shift")
+- ID 2751 ΓÇö single-word exact duplicate of ID 2360 ("computer")
+- ID 2752 ΓÇö single-word exact duplicate of ID 2056 ("email")
+- ID 2753 ΓÇö single-word exact duplicate of ID 1701 ("call")
+- ID 2755 ΓÇö single-word exact duplicate of ID 1673 ("message")
+- ID 2757 ΓÇö single-word exact duplicate of ID 1660 ("talk")
+- ID 2758 ΓÇö single-word exact duplicate of ID 858 ("help")
+- ID 2759 ΓÇö single-word exact duplicate of ID 755 ("shop")
+- ID 2762 ΓÇö single-word exact duplicate of ID 1117 ("rest")
+- ID 2764 ΓÇö single-word exact duplicate of ID 516 ("schedule")
+- ID 2767 ΓÇö single-word exact duplicate of ID 761 ("customer")
+- ID 2769 ΓÇö single-word exact duplicate of ID 1253 ("train")
+- ID 2772 ΓÇö single-word exact duplicate of ID 2468 ("print")
+- ID 2774 ΓÇö single-word exact duplicate of ID 2322 ("project")
+- ID 2775 ΓÇö single-word exact duplicate of ID 1753 ("join")
+- ID 2776 ΓÇö single-word exact duplicate of ID 310 ("late")
+- ID 2777 ΓÇö possible template issue ("deal with")
+- ID 2782 ΓÇö single-word exact duplicate of ID 2284 ("presentation")
+- ID 2801 ΓÇö single-word exact duplicate of ID 1111 ("hospital")
+- ID 2805 ΓÇö single-word exact duplicate of ID 2057 ("letter")
+- ID 2806 ΓÇö single-word exact duplicate of ID 1758 ("send")
+- ID 2807 ΓÇö single-word exact duplicate of ID 1958 ("answer")
+- ID 2808 ΓÇö single-word exact duplicate of ID 775 ("sell")
+- ID 2809 ΓÇö single-word exact duplicate of ID 910 ("driver")
+- ID 2810 ΓÇö single-word exact duplicate of ID 1112 ("nurse")
+- ID 2812 ΓÇö single-word exact duplicate of ID 802 ("money")
+- ID 2816 ΓÇö single-word exact duplicate of ID 1013 ("sign")
+- ID 2817 ΓÇö single-word exact duplicate of ID 2366 ("copy")
+- ID 2821 ΓÇö single-word exact duplicate of ID 2271 ("absent")
+- ID 2837 ΓÇö single-word exact duplicate of ID 28 ("commute")
+
+FINAL_MUST_DELETE_IDS:
+[2720, 2734, 2743, 2746, 2756, 2792, 2798, 2818, 2820]
+
+FINAL_REVIEW_IDS:
+[2705, 2707, 2708, 2710, 2712, 2713, 2717, 2732, 2740, 2751, 2752, 2753, 2755, 2757, 2758, 2759, 2762, 2764, 2767, 2769, 2772, 2774, 2775, 2776, 2777, 2782, 2801, 2805, 2806, 2807, 2808, 2809, 2810, 2812, 2816, 2817, 2821, 2837]
+
+TOPIC: Business Communication
+MUST_DELETE:
+- ID 2854 ΓÇö exact duplicate phrase of ID 1976 ("call back")
+- ID 2863 ΓÇö exact duplicate phrase of ID 1684 ("let me know")
+- ID 2882 ΓÇö exact duplicate phrase of ID 1738 ("look forward to")
+- ID 2887 ΓÇö exact duplicate phrase of ID 2739 ("in charge of")
+- ID 2891 ΓÇö exact duplicate phrase of ID 2040 ("get back to")
+- ID 2893 ΓÇö exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2894 ΓÇö exact duplicate phrase of ID 1699 ("touch base")
+- ID 2897 ΓÇö exact duplicate phrase of ID 1543 ("bring up")
+- ID 2900 ΓÇö exact duplicate phrase of ID 544 ("wrap up")
+- ID 2908 ΓÇö obvious machine-generated template ("plan")
+- ID 2938 ΓÇö exact duplicate phrase of ID 2035 ("figure out")
+- ID 2939 ΓÇö exact duplicate phrase of ID 1983 ("point out")
+- ID 2942 ΓÇö exact duplicate phrase of ID 332 ("put off")
+- ID 2949 ΓÇö exact duplicate phrase of ID 2738 ("take over")
+- ID 2973 ΓÇö exact duplicate phrase of ID 323 ("on time")
+- ID 2976 ΓÇö exact duplicate phrase of ID 2063 ("hold on")
+- ID 2982 ΓÇö exact duplicate phrase of ID 2778 ("human resources")
+- ID 2989 ΓÇö exact duplicate phrase of ID 1777 ("get in touch")
+- ID 2990 ΓÇö exact duplicate phrase of ID 1181 ("make an appointment")
+- ID 2991 ΓÇö exact duplicate phrase of ID 1995 ("get straight to the point")
+- ID 3000 ΓÇö exact duplicate phrase of ID 88 ("call it a day")
+
+REVIEW_FIRST:
+- ID 2851 ΓÇö single-word exact duplicate of ID 2056 ("email")
+- ID 2852 ΓÇö single-word exact duplicate of ID 2711 ("meeting")
+- ID 2853 ΓÇö single-word exact duplicate of ID 1718 ("reply")
+- ID 2856 ΓÇö single-word exact duplicate of ID 1758 ("send")
+- ID 2857 ΓÇö single-word exact duplicate of ID 2717 ("manager")
+- ID 2858 ΓÇö single-word exact duplicate of ID 2702 ("office")
+- ID 2859 ΓÇö single-word exact duplicate of ID 358 ("busy")
+- ID 2860 ΓÇö single-word exact duplicate of ID 2474 ("online")
+- ID 2861 ΓÇö single-word exact duplicate of ID 2310 ("question")
+- ID 2862 ΓÇö single-word exact duplicate of ID 1660 ("talk")
+- ID 2866 ΓÇö single-word exact duplicate of ID 516 ("schedule")
+- ID 2867 ΓÇö single-word exact duplicate of ID 478 ("available")
+- ID 2873 ΓÇö single-word exact duplicate of ID 2773 ("note")
+- ID 2874 ΓÇö single-word exact duplicate of ID 2815 ("document")
+- ID 2875 ΓÇö single-word exact duplicate of ID 1962 ("agree")
+- ID 2876 ΓÇö single-word exact duplicate of ID 2722 ("report")
+- ID 2878 ΓÇö single-word exact duplicate of ID 482 ("deadline")
+- ID 2879 ΓÇö single-word exact duplicate of ID 2833 ("agenda")
+- ID 2880 ΓÇö single-word exact duplicate of ID 577 ("reschedule")
+- ID 2883 ΓÇö single-word exact duplicate of ID 486 ("postpone")
+- ID 2886 ΓÇö single-word exact duplicate of ID 2781 ("feedback")
+- ID 2889 ΓÇö single-word exact duplicate of ID 1683 ("cancel")
+- ID 2895 ΓÇö single-word exact duplicate of ID 1985 ("clarify")
+- ID 2896 ΓÇö single-word exact duplicate of ID 542 ("tentative")
+- ID 2901 ΓÇö single-word exact duplicate of ID 2704 ("boss")
+- ID 2902 ΓÇö single-word exact duplicate of ID 1730 ("company")
+- ID 2903 ΓÇö single-word exact duplicate of ID 2701 ("job")
+- ID 2904 ΓÇö single-word exact duplicate of ID 2703 ("work")
+- ID 2905 ΓÇö single-word exact duplicate of ID 858 ("help")
+- ID 2906 ΓÇö single-word exact duplicate of ID 1760 ("team")
+- ID 2910 ΓÇö single-word exact duplicate of ID 2010 ("read")
+- ID 2911 ΓÇö single-word exact duplicate of ID 2011 ("write")
+- ID 2912 ΓÇö single-word exact duplicate of ID 2302 ("desk")
+- ID 2914 ΓÇö single-word exact duplicate of ID 1658 ("invite")
+- ID 2915 ΓÇö single-word exact duplicate of ID 1753 ("join")
+- ID 2916 ΓÇö single-word exact duplicate of ID 1709 ("share")
+- ID 2917 ΓÇö single-word exact duplicate of ID 1957 ("ask")
+- ID 2918 ΓÇö single-word exact duplicate of ID 1959 ("tell")
+- ID 2921 ΓÇö single-word exact duplicate of ID 1764 ("colleague")
+- ID 2923 ΓÇö single-word exact duplicate of ID 2723 ("client")
+- ID 2924 ΓÇö single-word exact duplicate of ID 2754 ("staff")
+- ID 2925 ΓÇö single-word exact duplicate of ID 1013 ("sign")
+- ID 2926 ΓÇö single-word exact duplicate of ID 2366 ("copy")
+- ID 2927 ΓÇö single-word exact duplicate of ID 2431 ("update")
+- ID 2928 ΓÇö single-word exact duplicate of ID 529 ("delay")
+- ID 2929 ΓÇö single-word exact duplicate of ID 2271 ("absent")
+- ID 2932 ΓÇö single-word exact duplicate of ID 2387 ("draft")
+- ID 2934 ΓÇö single-word exact duplicate of ID 2789 ("organize")
+- ID 2945 ΓÇö single-word exact duplicate of ID 2846 ("brainstorm")
+- ID 2951 ΓÇö single-word exact duplicate of ID 2771 ("file")
+- ID 2952 ΓÇö single-word exact duplicate of ID 2761 ("room")
+- ID 2953 ΓÇö single-word exact duplicate of ID 2706 ("break")
+- ID 2955 ΓÇö single-word exact duplicate of ID 756 ("price")
+- ID 2956 ΓÇö single-word exact duplicate of ID 757 ("pay")
+- ID 2957 ΓÇö single-word exact duplicate of ID 751 ("buy")
+- ID 2958 ΓÇö single-word exact duplicate of ID 775 ("sell")
+- ID 2959 ΓÇö single-word exact duplicate of ID 814 ("cost")
+- ID 2960 ΓÇö single-word exact duplicate of ID 803 ("open")
+- ID 2963 ΓÇö single-word exact duplicate of ID 2322 ("project")
+- ID 2966 ΓÇö single-word exact duplicate of ID 761 ("customer")
+- ID 2968 ΓÇö single-word exact duplicate of ID 725 ("bill")
+- ID 2969 ΓÇö single-word exact duplicate of ID 769 ("receipt")
+- ID 2970 ΓÇö single-word exact duplicate of ID 2468 ("print")
+- ID 2974 ΓÇö single-word exact duplicate of ID 310 ("late")
+- ID 2975 ΓÇö single-word exact duplicate of ID 309 ("early")
+- ID 2978 ΓÇö single-word exact duplicate of ID 2783 ("contract")
+- ID 2980 ΓÇö single-word exact duplicate of ID 2284 ("presentation")
+- ID 2985 ΓÇö single-word exact duplicate of ID 1285 ("budget")
+- ID 2988 ΓÇö single-word exact duplicate of ID 2335 ("summarize")
+
+FINAL_MUST_DELETE_IDS:
+[2854, 2863, 2882, 2887, 2891, 2893, 2894, 2897, 2900, 2908, 2938, 2939, 2942, 2949, 2973, 2976, 2982, 2989, 2990, 2991, 3000]
+
+FINAL_REVIEW_IDS:
+[2851, 2852, 2853, 2856, 2857, 2858, 2859, 2860, 2861, 2862, 2866, 2867, 2873, 2874, 2875, 2876, 2878, 2879, 2880, 2883, 2886, 2889, 2895, 2896, 2901, 2902, 2903, 2904, 2905, 2906, 2910, 2911, 2912, 2914, 2915, 2916, 2917, 2918, 2921, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2932, 2934, 2945, 2951, 2952, 2953, 2955, 2956, 2957, 2958, 2959, 2960, 2963, 2966, 2968, 2969, 2970, 2974, 2975, 2978, 2980, 2985, 2988]
+
+GLOBAL_REGEN_PRIORITY:
+- Daily Life ΓÇö Has 1 MUST_DELETE items to replace.
+- Home & Household ΓÇö Has 2 MUST_DELETE items to replace.
+- Personal Habits ΓÇö Has 3 MUST_DELETE items to replace.
+- Time & Schedules ΓÇö Topic gen count is 200 instead of 150. Has 57 MUST_DELETE items to replace.
+- Food & Cooking ΓÇö Has 11 MUST_DELETE items to replace.
+- Health & Fitness ΓÇö Has 4 MUST_DELETE items to replace.
+- Travel ΓÇö Has 4 MUST_DELETE items to replace.
+- Weather ΓÇö Topic gen count is 200 instead of 150. Has 50 MUST_DELETE items to replace.
+- Family & Relationships ΓÇö Has 7 MUST_DELETE items to replace.
+- Friends & Social Life ΓÇö Has 14 MUST_DELETE items to replace.
+- Emotions & Feelings ΓÇö Has 3 MUST_DELETE items to replace.
+- Communication ΓÇö Has 11 MUST_DELETE items to replace.
+- Entertainment ΓÇö Has 10 MUST_DELETE items to replace.
+- Education ΓÇö Has 7 MUST_DELETE items to replace.
+- Technology (basic) ΓÇö Has 5 MUST_DELETE items to replace.
+- Media & Internet ΓÇö Has 11 MUST_DELETE items to replace.
+- Work & Career ΓÇö Has 9 MUST_DELETE items to replace.
+- Business Communication ΓÇö Has 21 MUST_DELETE items to replace.
+

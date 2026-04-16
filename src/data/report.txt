@@ -1,0 +1,76 @@
+--- START AUDIT ---
+
+=== JSON / STRUCTURE ===
+Index 100 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 101 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 102 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 103 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 104 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 105 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 106 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 107 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 108 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+Index 109 (ID undefined): Missing fields: id, phrase, base_word, ipa, pos, type, topic, subcategory, level, meaning_vi, example_en, example_vi, explanation_vi
+
+=== ID INTEGRITY ===
+Total ID errors: 1400. Examples: 
+Missing ID: 101
+Missing ID: 102
+Missing ID: 103
+Missing ID: 104
+Missing ID: 105
+Missing ID: 106
+Missing ID: 107
+Missing ID: 108
+Missing ID: 109
+Missing ID: 110
+Missing ID: 111
+Missing ID: 112
+Missing ID: 113
+Missing ID: 114
+Missing ID: 115
+Missing ID: 116
+Missing ID: 117
+Missing ID: 118
+Missing ID: 119
+Missing ID: 120
+
+=== TOPIC INTEGRITY ===
+- Daily Life: 100
+Errors:
+
+
+=== LEVEL INTEGRITY ===
+All levels valid.
+
+=== DUPLICATES / CLUSTERS ===
+
+
+=== TEMPLATES ===
+Template violations total: 2
+ID 43: Machine-generated template 'catch up on' -> 'catch up on sleep'
+ID 88: Machine-generated template 'plan' -> 'plan the week'
+
+=== IPA ===
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+ID undefined: Missing IPA
+
+=== TOPIC BY TOPIC METRICS ===
+Topic: Daily Life | Count: 100 | Levels: {"A1":24,"A2":28,"B1":28,"B2":20}
+Topic: Home & Household | Count: 0 | Levels: {}
+Topic: Personal Habits | Count: 0 | Levels: {}
+Topic: Time & Schedules | Count: 0 | Levels: {}
+Topic: Food & Cooking | Count: 0 | Levels: {}
+Topic: Shopping | Count: 0 | Levels: {}
+Topic: Transportation | Count: 0 | Levels: {}
+Topic: Health & Fitness | Count: 0 | Levels: {}
+Topic: Travel | Count: 0 | Levels: {}
+Topic: Weather | Count: 0 | Levels: {}

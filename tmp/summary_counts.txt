@@ -1,0 +1,34 @@
+JSON errors: 0
+Missing IDs: 0
+Duplicate IDs: 100
+IDs wrong range: 0
+Topic problems: 0
+Exact duplicate phrases: 344
+Near duplicate clusters: 14
+Cross-topic overlaps: 408
+Anti-templates/Matrix generation: 10
+Quality - IPA: 0
+Quality - Example: 0
+Quality - VN: 0
+
+Topic counts:
+Daily Life: 150
+Home & Household: 150
+Personal Habits: 150
+Time & Schedules: 200
+Food & Cooking: 150
+Shopping: 150
+Transportation: 150
+Health & Fitness: 150
+Travel: 150
+Weather: 200
+Family & Relationships: 150
+Friends & Social Life: 150
+Emotions & Feelings: 150
+Communication: 150
+Entertainment: 150
+Education: 150
+Technology (basic): 150
+Media & Internet: 150
+Work & Career: 150
+Business Communication: 150

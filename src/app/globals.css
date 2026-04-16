@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f0f7ff; /* Soft light blue background */
+  --foreground: #111827; /* Dark text */
+  
+  /* Minimal Accents */
+  --accent-primary: #2563eb; /* requested primary */
+  --accent-secondary: #7c3aed; /* requested accent */
+  --accent-success: #10b981;
+  --accent-danger: #ef4444;
+  --accent-warning: #f59e0b;
+
+  /* Surfaces (Cards) */
+  --surface-100: #ffffff; /* requested card */
+  --surface-200: #ffffff; /* requested card */
+  --surface-300: #f1f5f9; /* Off-white for slight contrast */
+  --surface-border: #e2e8f0; /* Light border */
+}
+
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+@theme default {
+  --color-green-500: var(--accent-success);
+  --color-blue-500: var(--accent-primary);
+  --color-purple-500: var(--accent-secondary);
+  --color-red-500: var(--accent-danger);
+  --color-yellow-500: var(--accent-warning);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Base Styles */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--foreground);
+}
+
+input, textarea, select {
+  background-color: var(--surface-200);
+  border: 1px solid var(--surface-border);
+  color: var(--foreground);
+}
+
+button {
+  transition: all 0.2s ease;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* Scrollbar Utilities */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Custom modern scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: var(--surface-border);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #cbd5e1;
+}
+
+.custom-scrollbar-x::-webkit-scrollbar {
+  height: 6px;
+}
+.custom-scrollbar-x::-webkit-scrollbar-track {
+  background: #f1f5f9; /* Slate 50 */
+  border-radius: 10px;
+  margin: 0 24px;
+}
+.custom-scrollbar-x::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1; /* Slate 300 */
+  border-radius: 10px;
+}
+.custom-scrollbar-x::-webkit-scrollbar-thumb:hover {
+  background-color: #94a3b8; /* Slate 400 */
+}
+.custom-scrollbar-x {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}

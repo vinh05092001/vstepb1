@@ -1,0 +1,372 @@
+const fs = require("fs");
+const path = require("path");
+
+const newVocab = [
+  // DESCRIBE A PERSON
+  {
+    id: "person-appearance-1",
+    word: "tall, short, old, young, medium-height, middle-aged",
+    phonetic: "",
+    meaning_en: "basic adjectives for age and height",
+    meaning_vi: "cao, thấp, già, trẻ, chiều cao trung bình, trung niên",
+    example_en: "My father is a middle-aged man of medium height.",
+    example_vi: "Bố tôi là một người đàn ông trung niên với chiều cao trung bình.",
+    usage_vi: "Những tính từ cơ bản nhất để miêu tả ngoại hình (Appearance).",
+    speaking_sentence: "He is a tall and good-looking young man.",
+    topic: "person",
+    category: "Appearance",
+    level: "Beginner"
+  },
+  {
+    id: "person-appearance-2",
+    word: "beautiful, pretty, handsome, good-looking",
+    phonetic: "",
+    meaning_en: "adjectives describing attractiveness",
+    meaning_vi: "đẹp, xinh xắn, đẹp trai, ưa nhìn",
+    example_en: "She is a very beautiful and pretty girl.",
+    example_vi: "Cô ấy là một cô gái rất xinh đẹp và dễ thương.",
+    usage_vi: "Dùng để miêu tả nhan sắc.",
+    speaking_sentence: "I must say that he is extremely handsome and good-looking.",
+    topic: "person",
+    category: "Appearance",
+    level: "Beginner"
+  },
+  {
+    id: "person-appearance-3",
+    word: "have short/long black hair",
+    phonetic: "",
+    meaning_en: "describe someone's hair length and color",
+    meaning_vi: "có mái tóc đen ngắn/dài",
+    example_en: "She has beautiful long black hair.",
+    example_vi: "Cô ấy có mái tóc đen dài tuyệt đẹp.",
+    usage_vi: "Cấu trúc: have + adj + color + hair.",
+    speaking_sentence: "My best friend has lovely long black hair.",
+    topic: "person",
+    category: "Appearance",
+    level: "Beginner"
+  },
+  {
+    id: "person-appearance-4",
+    word: "have a sunny smile",
+    phonetic: "",
+    meaning_en: "have a bright and warm smile",
+    meaning_vi: "có nụ cười tỏa nắng",
+    example_en: "Everybody loves her because she has a sunny smile.",
+    example_vi: "Mọi người đều yêu mến cô ấy vì cô ấy có một nụ cười tỏa nắng.",
+    usage_vi: "'A sunny smile' là một cụm từ (collocation) vô cùng đắt giá ăn điểm Speaking.",
+    speaking_sentence: "What I love most about her is that she has a sunny smile.",
+    topic: "person",
+    category: "Appearance",
+    level: "Intermediate"
+  },
+  {
+    id: "person-character-good-1",
+    word: "sincere (= honest)",
+    phonetic: "",
+    meaning_en: "genuine and truthful",
+    meaning_vi: "chân thành (= thật thà)",
+    example_en: "He is a sincere friend who never tells a lie.",
+    example_vi: "Anh ấy là một người bạn chân thành, không bao giờ nói dối.",
+    usage_vi: "'Sincere' (chân thành) là từ đồng nghĩa nâng cao của 'honest' (thật thà).",
+    speaking_sentence: "In terms of character, he is a very sincere and honest person.",
+    topic: "person",
+    category: "Characters",
+    level: "Intermediate"
+  },
+  {
+    id: "person-character-good-2",
+    word: "helpful, kind, nice, generous",
+    phonetic: "",
+    meaning_en: "caring and willing to give or assist",
+    meaning_vi: "hay giúp đỡ, tốt bụng, tử tế, hào phóng",
+    example_en: "My neighbor is so generous and helpful to everyone.",
+    example_vi: "Hàng xóm của tôi rất hào phóng và hay giúp đỡ mọi người.",
+    usage_vi: "'Generous' (hào phóng) - sẵn sàng cho đi.",
+    speaking_sentence: "She is known for being incredibly helpful and generous to the poor.",
+    topic: "person",
+    category: "Characters",
+    level: "Beginner"
+  },
+  {
+    id: "person-character-bad-1",
+    word: "talkative",
+    phonetic: "",
+    meaning_en: "talking a lot",
+    meaning_vi: "nói nhiều",
+    example_en: "Sometimes he can be a bit talkative.",
+    example_vi: "Đôi khi anh ta có thể hơi lắm lời.",
+    usage_vi: "Dùng để miêu tả khuyết điểm nhỏ của một người.",
+    speaking_sentence: "Although she is nice, she can be quite talkative at times.",
+    topic: "person",
+    category: "Characters",
+    level: "Intermediate"
+  },
+  {
+    id: "person-character-bad-2",
+    word: "awful, terrible, bad",
+    phonetic: "",
+    meaning_en: "very unpleasant or poor in quality",
+    meaning_vi: "tồi tệ, kinh khủng, xấu",
+    example_en: "He has a terrible temper and awful manners.",
+    example_vi: "Anh ta có tính khí tồi tệ và cách cư xử kinh khủng.",
+    usage_vi: "Các tính từ tiêu cực mạnh.",
+    speaking_sentence: "I don't like him because his attitude towards others is simply terrible.",
+    topic: "person",
+    category: "Characters",
+    level: "Beginner"
+  },
+  {
+    id: "person-character-bad-3",
+    word: "selfish",
+    phonetic: "",
+    meaning_en: "caring only about oneself",
+    meaning_vi: "ích kỷ",
+    example_en: "It is selfish to only think about your own needs.",
+    example_vi: "Thật ích kỷ khi chỉ nghĩ về nhu cầu của bản thân.",
+    usage_vi: "Tính từ này cũng rất hay dùng để mô tả tính cách không tốt.",
+    speaking_sentence: "Another problem is that he can be very selfish.",
+    topic: "person",
+    category: "Characters",
+    level: "Intermediate"
+  },
+  {
+    id: "person-relationship-1",
+    word: "we have known each other for 10 years",
+    phonetic: "",
+    meaning_en: "we have been acquainted for a decade",
+    meaning_vi: "chúng tôi đã biết nhau được 10 năm",
+    example_en: "We are best friends; we have known each other for 10 years.",
+    example_vi: "Chúng tôi là bạn thân; chúng tôi đã biết nhau mười năm rồi.",
+    usage_vi: "Thì Hiện Tại Hoàn Thành miêu tả một mối quan hệ kéo dài từ quá khứ đến nay.",
+    speaking_sentence: "We are childhood friends and we have known each other for over 10 years.",
+    topic: "person",
+    category: "Relationship",
+    level: "Intermediate"
+  },
+  {
+    id: "person-relationship-2",
+    word: "we first met at high school / at the company",
+    phonetic: "",
+    meaning_en: "our initial encounter was in school/work",
+    meaning_vi: "chúng tôi gặp nhau lần đầu ở trường cấp 3 / ở công ty",
+    example_en: "We first met at high school and became close friends quickly.",
+    example_vi: "Chúng tôi gặp nhau lần đầu ở trường trung học và nhanh chóng trở nên thân thiết.",
+    usage_vi: "Thì Quá Khứ Đơn dùng kể lại thời điểm bắt đầu mối quan hệ.",
+    speaking_sentence: "As far as I remember, we first met at high school during a math class.",
+    topic: "person",
+    category: "Relationship",
+    level: "Intermediate"
+  },
+  {
+    id: "person-common-activities-1",
+    word: "often meet at the coffee shop",
+    phonetic: "",
+    meaning_en: "hang out at cafes",
+    meaning_vi: "thường gặp nhau ở quán cà phê",
+    example_en: "On weekends, we often meet at the coffee shop to chat.",
+    example_vi: "Vào cuối tuần, chúng tôi thường hẹn nhau ở quán cà phê để trò chuyện.",
+    usage_vi: "Hoạt động quen thuộc của bạn bè.",
+    speaking_sentence: "In our free time, we often meet at the coffee shop.",
+    topic: "person",
+    category: "Activities",
+    level: "Beginner"
+  },
+  {
+    id: "person-common-activities-2",
+    word: "go shopping together",
+    phonetic: "",
+    meaning_en: "go to the mall with one another",
+    meaning_vi: "đi mua sắm cùng nhau",
+    example_en: "We love fashion, so we always go shopping together.",
+    example_vi: "Chúng tôi yêu thời trang nên luôn đi mua sắm cùng nhau.",
+    usage_vi: "together (cùng nhau).",
+    speaking_sentence: "Sometimes we go shopping together on the weekends.",
+    topic: "person",
+    category: "Activities",
+    level: "Beginner"
+  },
+  {
+    id: "person-common-activities-3",
+    word: "talk and share with each other about life, study, work, family...",
+    phonetic: "",
+    meaning_en: "discuss personal matters and support one another",
+    meaning_vi: "nói chuyện và chia sẻ với nhau về cuộc sống, học tập, công việc, gia đình...",
+    example_en: "We always talk and share with each other about life's challenges.",
+    example_vi: "Chúng tôi luôn tự sự và san sẻ với nhau những khó khăn nếp sống.",
+    usage_vi: "Share with somebody ABOUT something.",
+    speaking_sentence: "Whenever I feel sad, we talk and share with each other about life and work.",
+    topic: "person",
+    category: "Activities",
+    level: "Intermediate"
+  },
+
+  // HOLIDAY
+  {
+    id: "holiday-scenery-1",
+    word: "the scenery is magnificent",
+    phonetic: "",
+    meaning_en: "the landscape is stunningly beautiful",
+    meaning_vi: "phong cảnh thật tráng lệ / hùng vĩ",
+    example_en: "I love visiting Da Lat because the scenery is magnificent.",
+    example_vi: "Tôi thích đến thăm Đà Lạt vì phong cảnh ở đó vô cùng tráng lệ.",
+    usage_vi: "Tính từ 'magnificent' (tráng lệ, lộng lẫy) là từ vựng band B2 thay cho 'beautiful'.",
+    speaking_sentence: "The main reason I chose this place is that the scenery is truly magnificent.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Advanced"
+  },
+  {
+    id: "holiday-scenery-2",
+    word: "there are breathtaking views of the mountains and rivers",
+    phonetic: "",
+    meaning_en: "amazingly beautiful natural sights",
+    meaning_vi: "có những cảnh đẹp ngoạn mục của núi non và sông ngòi",
+    example_en: "From the hotel room, there are breathtaking views of the mountains and rivers.",
+    example_vi: "Từ phòng khách sạn, có thể ngắm khung cảnh ngoạn mục của núi và sông.",
+    usage_vi: "Cụm 'breathtaking views' (khung cảnh đẹp đến nghẹt thở) ăn điểm rất cao.",
+    speaking_sentence: "Moreover, tourists can enjoy breathtaking views of the mountains and rivers.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Advanced"
+  },
+  {
+    id: "holiday-scenery-3",
+    word: "enjoy fresh and pure air",
+    phonetic: "",
+    meaning_en: "breathe clean and unpolluted air",
+    meaning_vi: "tận hưởng không khí trong lành và thanh khiết",
+    example_en: "Going to the countryside allows you to enjoy fresh and pure air.",
+    example_vi: "Đi về nông thôn cho phép bạn tận hưởng bầu khí quyển trong veo thanh mát.",
+    usage_vi: "Tính từ đôi (fresh and pure) tăng tính tượng hình.",
+    speaking_sentence: "It is an ideal place to escape the city and enjoy fresh and pure air.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Intermediate"
+  },
+  {
+    id: "holiday-cuisine-1",
+    word: "the local cuisine is fresh and delicious but not expensive",
+    phonetic: "",
+    meaning_en: "regional food is tasty, newly made and affordable",
+    meaning_vi: "ẩm thực địa phương tươi ngon nhưng không đắt đỏ",
+    example_en: "I highly recommend trying it because the local cuisine is fresh and delicious but not expensive.",
+    example_vi: "Tôi chân thành khuyên bạn thử vì ẩm thực địa phương rất tuyệt và giá cả phải chăng.",
+    usage_vi: "Cụm 'local cuisine' (ẩm thực địa phương) thay cho 'local food'.",
+    speaking_sentence: "Another thing I love is that the local cuisine is fresh, delicious, but not expensive.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Intermediate"
+  },
+  {
+    id: "holiday-cuisine-2",
+    word: "have a variety of food -> crab, lobsters, seashells",
+    phonetic: "",
+    meaning_en: "a diverse selection of seafood",
+    meaning_vi: "có sự đa dạng về đồ ăn -> cua, tôm hùm, ốc/ngao",
+    example_en: "Seafood restaurants there have a variety of food like crab, lobsters, and seashells.",
+    example_vi: "Các nhà hàng hải sản ở đó có nhiều món ăn đa dạng như cua, tôm hùm và các loại ốc ngao.",
+    usage_vi: "'A variety of' + Noun (sự đa dạng của cái gì).",
+    speaking_sentence: "Seafood lovers will be amazed as they have a massive variety of food like crab and lobsters.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Intermediate"
+  },
+  {
+    id: "holiday-people-1",
+    word: "people are friendly, sociable, polite",
+    phonetic: "",
+    meaning_en: "locals are welcoming, outgoing, and respectful",
+    meaning_vi: "người dân thân thiện, hòa đồng, lịch sự",
+    example_en: "The trip was memorable largely because the people are friendly, sociable, and polite.",
+    example_vi: "Chuyến đi đáng nhớ phần lớn là nhờ cư dân tốt bụng, cởi mở và nho nhã.",
+    usage_vi: "Liệt kê 3 tính từ (adj, adj, and adj) để mô tả con người.",
+    speaking_sentence: "Also, you will immediately notice that the local people are friendly, sociable, and polite.",
+    topic: "holiday",
+    category: "Likes",
+    level: "Intermediate"
+  },
+  {
+    id: "holiday-activities-1",
+    word: "swim in the blue and clear seawater",
+    phonetic: "",
+    meaning_en: "bathe in pristine ocean waters",
+    meaning_vi: "bơi trong làn nước biển trong xanh",
+    example_en: "We spent the whole afternoon to swim in the blue and clear seawater.",
+    example_vi: "Chúng tôi dành cả buổi chiều vùng vẫy trong dòng nước biển xanh ngăn ngắt.",
+    usage_vi: "Blue and clear (xanh và trong). Cụm chi tiết miêu tả biển.",
+    speaking_sentence: "One of the best activities there is to freely swim in the blue and clear seawater.",
+    topic: "holiday",
+    category: "Activities",
+    level: "Intermediate"
+  },
+  {
+    id: "holiday-activities-2",
+    word: "do sunbathing on the soft sand beach under the yellow and warm sunshine",
+    phonetic: "",
+    meaning_en: "relax on the sandy shore soaking up sunlight",
+    meaning_vi: "tắm nắng trên bãi cát mềm dưới ánh nắng vàng ươm và ấm áp",
+    example_en: "Tourists love to do sunbathing on the soft sand beach under the yellow and warm sunshine.",
+    example_vi: "Du khách rất chuộng phơi mình trên viền cát xốp dưới ánh mặt trời rực rỡ nhiệt thành.",
+    usage_vi: "Collocation: do sunbathing (tắm nắng). Cụm miêu tả vô cùng sinh động (yellow and warm sunshine).",
+    speaking_sentence: "You can simply relax and do sunbathing on the soft sand beach under the yellow and warm sunshine.",
+    topic: "holiday",
+    category: "Activities",
+    level: "Advanced"
+  },
+  {
+    id: "holiday-activities-3",
+    word: "play football on the beach",
+    phonetic: "",
+    meaning_en: "engage in sports by the sea",
+    meaning_vi: "chơi bóng đá trên bãi biển",
+    example_en: "We often play football on the beach in the late afternoon.",
+    example_vi: "Chúng tôi thường chơi bóng rổ trên bãi biển vào buổi chiều muộn.",
+    usage_vi: "Hoạt động mạnh, thường đi kèm với 'on the beach'.",
+    speaking_sentence: "You can easily play football on the beach with other tourists.",
+    topic: "holiday",
+    category: "Activities",
+    level: "Beginner"
+  },
+  {
+    id: "holiday-activities-4",
+    word: "build sandcastles on the beach",
+    phonetic: "",
+    meaning_en: "make structures out of sand by the sea",
+    meaning_vi: "xây lâu đài cát trên bãi biển",
+    example_en: "Children often build sandcastles on the beach while adults play football.",
+    example_vi: "Bọn trẻ con thường nắn lâu đài cát cạnh mép nước đang khi người lớn đá banh.",
+    usage_vi: "Build sandcastles (xây lâu đài cát).",
+    speaking_sentence: "For families, kids can happily build sandcastles on the beach.",
+    topic: "holiday",
+    category: "Activities",
+    level: "Beginner"
+  },
+  {
+    id: "holiday-activities-5",
+    word: "watch the sunrise / sunset",
+    phonetic: "",
+    meaning_en: "observe the sun emerging or descending",
+    meaning_vi: "ngắm bình minh / hoàng hôn",
+    example_en: "We woke up early just to watch the sunrise over the ocean.",
+    example_vi: "Chúng tôi dậy từ tinh sương chỉ cốt được thưởng ngoạn cảnh vừng đông ló rạng trên trùng dương.",
+    usage_vi: "Sunrise (bình minh), sunset (hoàng hôn).",
+    speaking_sentence: "Finally, it is incredibly romantic to sit together and watch the sunset.",
+    topic: "holiday",
+    category: "Activities",
+    level: "Beginner"
+  }
+];
+
+const vocabFilePath = path.join(__dirname, "src/data/vocabulary.ts");
+let fileContent = fs.readFileSync(vocabFilePath, "utf8");
+
+let vocabString = newVocab.map(v => JSON.stringify(v, null, 4)).join(",\n  ") + "\n];\n";
+fileContent = fileContent.replace(/\n\];\n/, ",\n  " + vocabString);
+
+// Add "person", "holiday" to VSTEP_TOPICS if not in
+if (!fileContent.includes('"person"')) {
+    fileContent = fileContent.replace('["transport", "city", "countryside", "health", "environment", "hobbies", "job_study", "food", "technology", "house_flat", "languages"]', '["transport", "city", "countryside", "health", "environment", "hobbies", "job_study", "food", "technology", "house_flat", "languages", "person", "holiday"]');
+}
+
+fs.writeFileSync(vocabFilePath, fileContent);
+console.log("Successfully injected " + newVocab.length + " items for Person, Holiday into vocabulary.ts!");

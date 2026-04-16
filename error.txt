@@ -1,0 +1,3 @@
+.next/types/validator.ts(71,39): error TS2307: Cannot find module '../../src/app/flashcards/page.js' or its corresponding type declarations.
+.next/types/validator.ts(215,39): error TS2307: Cannot find module '../../src/app/api/flashcards/review/route.js' or its corresponding type declarations.
+.next/types/validator.ts(224,39): error TS2307: Cannot find module '../../src/app/api/flashcards/route.js' or its corresponding type declarations.

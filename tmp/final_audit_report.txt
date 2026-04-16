@@ -1,0 +1,369 @@
+A. FINAL VERDICT
+NOT READY
+
+B. HARD ERRORS
+None
+
+C. SOFT WARNINGS
+Notice: Cluster "take a...": 17 variants found
+Notice: Cluster "go to...": 5 variants found
+Notice: Cluster "do the...": 4 variants found
+Notice: Cluster "feed the...": 4 variants found
+Notice: Cluster "have a...": 16 variants found
+Notice: Cluster "make a...": 11 variants found
+Notice: Cluster "clean the...": 4 variants found
+Notice: Cluster "clear the...": 4 variants found
+Notice: Cluster "get a...": 8 variants found
+Notice: Cluster "hit the...": 7 variants found
+Notice: Cluster "run out...": 5 variants found
+Notice: Cluster "take the...": 4 variants found
+Notice: Cluster "in the...": 6 variants found
+Notice: Cluster "leave a...": 4 variants found
+Notice: Cluster "out of...": 9 variants found
+Notice: Cluster "catch a...": 4 variants found
+Notice: Cluster "on the...": 4 variants found
+Notice: Cluster "get the...": 4 variants found
+Notice: Cluster "social media...": 5 variants found
+Notice: Cluster "send a...": 4 variants found
+
+D. TOPIC COUNT CHECK
+- Daily Life: 150 (OK)
+- Home & Household: 150 (OK)
+- Personal Habits: 150 (OK)
+- Time & Schedules: 200 (ERROR)
+- Food & Cooking: 150 (OK)
+- Shopping: 150 (OK)
+- Transportation: 150 (OK)
+- Health & Fitness: 150 (OK)
+- Travel: 150 (OK)
+- Weather: 200 (ERROR)
+- Family & Relationships: 150 (OK)
+- Friends & Social Life: 150 (OK)
+- Emotions & Feelings: 150 (OK)
+- Communication: 150 (OK)
+- Entertainment: 150 (OK)
+- Education: 150 (OK)
+- Technology (basic): 150 (OK)
+- Media & Internet: 150 (OK)
+- Work & Career: 150 (OK)
+- Business Communication: 150 (OK)
+
+E. ID INTEGRITY CHECK
+- duplicate IDs: [451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 1451, 1452, 1453, 1454, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469, 1470, 1471, 1472, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500]
+- missing IDs: None
+- wrong-range IDs: None
+
+F. DUPLICATE CHECK
+- exact duplicates:
+  Phrase "chat with friends" appears in IDs: [23, 2564]
+  Phrase "relax" appears in IDs: [25, 2176]
+  Phrase "commute" appears in IDs: [28, 2837]
+  Phrase "unwind" appears in IDs: [44, 2199]
+  Phrase "read the news" appears in IDs: [76, 2567]
+  Phrase "fan" appears in IDs: [220, 2161]
+  Phrase "air out the room" appears in IDs: [246, 299]
+  Phrase "twirl your hair" appears in IDs: [303, 374]
+  Phrase "early" appears in IDs: [309, 2975]
+  Phrase "late" appears in IDs: [310, 2776, 2974]
+  Phrase "complain" appears in IDs: [321, 1868]
+  Phrase "procrastinate" appears in IDs: [331, 2392]
+  Phrase "put off" appears in IDs: [332, 1786]
+  Phrase "busy" appears in IDs: [358, 1672, 2707, 2859]
+  Phrase "tired" appears in IDs: [362, 1807]
+  Phrase "binge-watch" appears in IDs: [448, 2142, 2591]
+  Phrase "at the moment" appears in IDs: [451, 451]
+  Phrase "every day" appears in IDs: [452, 452]
+  Phrase "in the afternoon" appears in IDs: [453, 453]
+  Phrase "next week" appears in IDs: [454, 454]
+  Phrase "beat the clock" appears in IDs: [455, 455]
+  Phrase "quarter past" appears in IDs: [456, 456]
+  Phrase "soon" appears in IDs: [457, 457]
+  Phrase "today" appears in IDs: [458, 458]
+  Phrase "tomorrow" appears in IDs: [459, 459]
+  Phrase "tonight" appears in IDs: [460, 460]
+  Phrase "weekend" appears in IDs: [461, 461, 1713]
+  Phrase "what time" appears in IDs: [462, 462]
+  Phrase "after that" appears in IDs: [463, 463]
+  Phrase "all day" appears in IDs: [464, 464]
+  Phrase "as soon as possible" appears in IDs: [465, 465]
+  Phrase "be late" appears in IDs: [466, 466]
+  Phrase "book an appointment" appears in IDs: [467, 467]
+  Phrase "check the calendar" appears in IDs: [468, 468]
+  Phrase "early morning" appears in IDs: [469, 469]
+  Phrase "for a long time" appears in IDs: [470, 470]
+  Phrase "half an hour" appears in IDs: [471, 471]
+  Phrase "have a break" appears in IDs: [472, 472]
+  Phrase "in the future" appears in IDs: [473, 473]
+  Phrase "last minute" appears in IDs: [474, 474]
+  Phrase "spare time" appears in IDs: [475, 475]
+  Phrase "twice a week" appears in IDs: [476, 476]
+  Phrase "ahead of schedule" appears in IDs: [477, 477]
+  Phrase "available" appears in IDs: [478, 478, 2867]
+  Phrase "be in a hurry" appears in IDs: [479, 479]
+  Phrase "cancel an appointment" appears in IDs: [480, 480]
+  Phrase "confirm the time" appears in IDs: [481, 481]
+  Phrase "deadline" appears in IDs: [482, 482, 2279, 2732, 2878]
+  Phrase "fully booked" appears in IDs: [483, 483]
+  Phrase "make it" appears in IDs: [484, 484]
+  Phrase "on a regular basis" appears in IDs: [485, 485]
+  Phrase "postpone" appears in IDs: [486, 486, 1688, 2883]
+  Phrase "run out of time" appears in IDs: [487, 487]
+  Phrase "rearrange" appears in IDs: [488, 488]
+  Phrase "take a while" appears in IDs: [489, 489]
+  Phrase "waste time" appears in IDs: [490, 490]
+  Phrase "at your earliest convenience" appears in IDs: [491, 491]
+  Phrase "behind schedule" appears in IDs: [492, 492]
+  Phrase "fit someone in" appears in IDs: [493, 493]
+  Phrase "for the time being" appears in IDs: [494, 494]
+  Phrase "in the long run" appears in IDs: [495, 495]
+  Phrase "kill time" appears in IDs: [496, 496, 2233]
+  Phrase "punctual" appears in IDs: [497, 497]
+  Phrase "squeeze something in" appears in IDs: [498, 498]
+  Phrase "take your time" appears in IDs: [499, 499]
+  Phrase "at the last minute" appears in IDs: [500, 500]
+  Phrase "schedule" appears in IDs: [516, 2363, 2764, 2866]
+  Phrase "ready" appears in IDs: [517, 1723]
+  Phrase "free" appears in IDs: [524, 1661]
+  Phrase "delay" appears in IDs: [529, 2928]
+  Phrase "shift" appears in IDs: [535, 2740]
+  Phrase "in the meantime" appears in IDs: [541, 550]
+  Phrase "tentative" appears in IDs: [542, 2896]
+  Phrase "drag on" appears in IDs: [549, 590]
+  Phrase "meet a deadline" appears in IDs: [558, 2746]
+  Phrase "reschedule" appears in IDs: [577, 2880]
+  Phrase "bitter" appears in IDs: [635, 1933]
+  Phrase "picky eater" appears in IDs: [644, 673]
+  Phrase "comfort food" appears in IDs: [690, 740]
+  Phrase "bill" appears in IDs: [725, 2968]
+  Phrase "buy" appears in IDs: [751, 2957]
+  Phrase "shop" appears in IDs: [755, 2759]
+  Phrase "price" appears in IDs: [756, 2955]
+  Phrase "pay" appears in IDs: [757, 2710, 2956]
+  Phrase "customer" appears in IDs: [761, 2767, 2966]
+  Phrase "receipt" appears in IDs: [769, 2969]
+  Phrase "sell" appears in IDs: [775, 2808, 2958]
+  Phrase "money" appears in IDs: [802, 2812]
+  Phrase "open" appears in IDs: [803, 2960]
+  Phrase "toy" appears in IDs: [810, 2153]
+  Phrase "gift" appears in IDs: [811, 1708]
+  Phrase "cost" appears in IDs: [814, 2959]
+  Phrase "match" appears in IDs: [832, 2174]
+  Phrase "help" appears in IDs: [858, 1711, 2008, 2758, 2905]
+  Phrase "driver" appears in IDs: [910, 2809]
+  Phrase "stop" appears in IDs: [955, 2508]
+  Phrase "fine" appears in IDs: [983, 1851, 2006]
+  Phrase "shortcut" appears in IDs: [990, 2498]
+  Phrase "park" appears in IDs: [1011, 2154]
+  Phrase "sign" appears in IDs: [1013, 2816, 2925]
+  Phrase "destination" appears in IDs: [1029, 1277]
+  Phrase "pain" appears in IDs: [1059, 1910]
+  Phrase "gym" appears in IDs: [1062, 2370]
+  Phrase "stay in shape" appears in IDs: [1068, 1137]
+  Phrase "lift weights" appears in IDs: [1079, 1176]
+  Phrase "warm up" appears in IDs: [1092, 1185]
+  Phrase "hospital" appears in IDs: [1111, 2801]
+  Phrase "nurse" appears in IDs: [1112, 2810]
+  Phrase "rest" appears in IDs: [1117, 2762]
+  Phrase "pull a muscle" appears in IDs: [1141, 1194]
+  Phrase "hurt" appears in IDs: [1158, 1858]
+  Phrase "swim" appears in IDs: [1159, 2208]
+  Phrase "ticket" appears in IDs: [1202, 2113]
+  Phrase "stay" appears in IDs: [1210, 1662]
+  Phrase "ask for directions" appears in IDs: [1219, 1346]
+  Phrase "train" appears in IDs: [1253, 2769]
+  Phrase "photo" appears in IDs: [1257, 1757, 2157, 2555]
+  Phrase "museum" appears in IDs: [1274, 2167]
+  Phrase "camp" appears in IDs: [1275, 2162]
+  Phrase "budget" appears in IDs: [1285, 2985]
+  Phrase "camera" appears in IDs: [1304, 2456]
+  Phrase "visit" appears in IDs: [1306, 1657]
+  Phrase "guest" appears in IDs: [1318, 1715]
+  Phrase "safe" appears in IDs: [1323, 1912]
+  Phrase "board" appears in IDs: [1327, 2301]
+  Phrase "warm" appears in IDs: [1360, 1911]
+  Phrase "cool" appears in IDs: [1366, 1756]
+  Phrase "sunny" appears in IDs: [1451, 1451]
+  Phrase "clear" appears in IDs: [1452, 1452]
+  Phrase "rainbow" appears in IDs: [1453, 1453]
+  Phrase "bad weather" appears in IDs: [1454, 1454]
+  Phrase "good weather" appears in IDs: [1455, 1455]
+  Phrase "cold day" appears in IDs: [1456, 1456]
+  Phrase "hot day" appears in IDs: [1457, 1457]
+  Phrase "season" appears in IDs: [1458, 1458]
+  Phrase "outside" appears in IDs: [1459, 1459]
+  Phrase "inside" appears in IDs: [1460, 1460]
+  Phrase "hat" appears in IDs: [1461, 1461]
+  Phrase "coat" appears in IDs: [1462, 1462]
+  Phrase "sunlight" appears in IDs: [1463, 1463]
+  Phrase "raindrop" appears in IDs: [1464, 1464]
+  Phrase "stormy" appears in IDs: [1465, 1465]
+  Phrase "freezing cold" appears in IDs: [1466, 1466]
+  Phrase "boiling hot" appears in IDs: [1467, 1467]
+  Phrase "snowman" appears in IDs: [1468, 1468]
+  Phrase "get cold" appears in IDs: [1469, 1469]
+  Phrase "get dark" appears in IDs: [1470, 1470]
+  Phrase "weather report" appears in IDs: [1471, 1471]
+  Phrase "severe storm" appears in IDs: [1472, 1472]
+  Phrase "heavy coat" appears in IDs: [1473, 1473]
+  Phrase "warm clothes" appears in IDs: [1474, 1474]
+  Phrase "blow away" appears in IDs: [1475, 1475]
+  Phrase "climate change" appears in IDs: [1476, 1476]
+  Phrase "breezy" appears in IDs: [1477, 1477]
+  Phrase "hail" appears in IDs: [1478, 1478]
+  Phrase "blizzard" appears in IDs: [1479, 1479]
+  Phrase "drought" appears in IDs: [1480, 1480]
+  Phrase "smog" appears in IDs: [1481, 1481]
+  Phrase "frosty" appears in IDs: [1482, 1482]
+  Phrase "rise in temperature" appears in IDs: [1483, 1483]
+  Phrase "dress warmly" appears in IDs: [1484, 1484]
+  Phrase "clear the snow" appears in IDs: [1485, 1485]
+  Phrase "sudden rain" appears in IDs: [1486, 1486]
+  Phrase "freeze over" appears in IDs: [1487, 1487]
+  Phrase "extreme weather" appears in IDs: [1488, 1488]
+  Phrase "natural disaster" appears in IDs: [1489, 1489]
+  Phrase "cool breeze" appears in IDs: [1490, 1490]
+  Phrase "gale" appears in IDs: [1491, 1491]
+  Phrase "sleet" appears in IDs: [1492, 1492]
+  Phrase "slush" appears in IDs: [1493, 1493]
+  Phrase "stifling" appears in IDs: [1494, 1494]
+  Phrase "bone-chilling" appears in IDs: [1495, 1495]
+  Phrase "not a cloud in the sky" appears in IDs: [1496, 1496]
+  Phrase "get soaked" appears in IDs: [1497, 1497]
+  Phrase "heatwave" appears in IDs: [1498, 1498]
+  Phrase "cold spell" appears in IDs: [1499, 1499]
+  Phrase "brave the elements" appears in IDs: [1500, 1500]
+  Phrase "grandfather" appears in IDs: [1506, 1560]
+  Phrase "love" appears in IDs: [1510, 1854]
+  Phrase "look up to" appears in IDs: [1540, 1578]
+  Phrase "see eye to eye" appears in IDs: [1547, 2049]
+  Phrase "start a family" appears in IDs: [1572, 1627]
+  Phrase "keep a secret" appears in IDs: [1582, 1691, 1788]
+  Phrase "strict" appears in IDs: [1589, 2334]
+  Phrase "hug" appears in IDs: [1609, 1710]
+  Phrase "party" appears in IDs: [1653, 2107]
+  Phrase "chat" appears in IDs: [1655, 1970]
+  Phrase "fun" appears in IDs: [1656, 1901, 2102]
+  Phrase "invite" appears in IDs: [1658, 2914]
+  Phrase "talk" appears in IDs: [1660, 2757, 2862]
+  Phrase "message" appears in IDs: [1673, 1975, 2504, 2553, 2755]
+  Phrase "keep in touch" appears in IDs: [1678, 2683]
+  Phrase "cancel" appears in IDs: [1683, 2889]
+  Phrase "break the ice" appears in IDs: [1692, 1772]
+  Phrase "touch base" appears in IDs: [1699, 2854]
+  Phrase "call" appears in IDs: [1701, 2455, 2753]
+  Phrase "play" appears in IDs: [1702, 2155, 2507]
+  Phrase "game" appears in IDs: [1703, 2101, 2503]
+  Phrase "laugh" appears in IDs: [1704, 1809, 2158]
+  Phrase "smile" appears in IDs: [1705, 1804]
+  Phrase "hello" appears in IDs: [1706, 2004]
+  Phrase "share" appears in IDs: [1709, 2521, 2916]
+  Phrase "reply" appears in IDs: [1718, 2520, 2853]
+  Phrase "text" appears in IDs: [1719, 2013, 2454]
+  Phrase "welcome" appears in IDs: [1722, 2052]
+  Phrase "company" appears in IDs: [1730, 2708, 2902]
+  Phrase "join" appears in IDs: [1753, 2169, 2775, 2915]
+  Phrase "send" appears in IDs: [1758, 2505, 2806, 2856]
+  Phrase "club" appears in IDs: [1759, 2159]
+  Phrase "team" appears in IDs: [1760, 2206, 2712, 2906]
+  Phrase "great" appears in IDs: [1761, 1862]
+  Phrase "glad" appears in IDs: [1762, 1815]
+  Phrase "classmate" appears in IDs: [1763, 2316]
+  Phrase "colleague" appears in IDs: [1764, 2713, 2921]
+  Phrase "on the same page" appears in IDs: [1796, 2973]
+  Phrase "burst into tears" appears in IDs: [1819, 1881]
+  Phrase "bored" appears in IDs: [1863, 2121]
+  Phrase "brilliant" appears in IDs: [1923, 2184]
+  Phrase "ask" appears in IDs: [1957, 2917]
+  Phrase "answer" appears in IDs: [1958, 2311, 2807]
+  Phrase "tell" appears in IDs: [1959, 2918]
+  Phrase "agree" appears in IDs: [1962, 2875]
+  Phrase "beat around the bush" appears in IDs: [1972, 1996]
+  Phrase "spell" appears in IDs: [1974, 2259]
+  Phrase "miss the point" appears in IDs: [1981, 2042]
+  Phrase "clarify" appears in IDs: [1985, 2895]
+  Phrase "speak your mind" appears in IDs: [1991, 1993]
+  Phrase "read between the lines" appears in IDs: [1992, 2084]
+  Phrase "read" appears in IDs: [2010, 2355, 2910]
+  Phrase "write" appears in IDs: [2011, 2356, 2911]
+  Phrase "drop a hint" appears in IDs: [2020, 2044]
+  Phrase "change the subject" appears in IDs: [2031, 2041]
+  Phrase "email" appears in IDs: [2056, 2459, 2556, 2752, 2851]
+  Phrase "letter" appears in IDs: [2057, 2805]
+  Phrase "spread rumors" appears in IDs: [2085, 2693]
+  Phrase "music" appears in IDs: [2103, 2359]
+  Phrase "review" appears in IDs: [2140, 2332]
+  Phrase "take up a hobby" appears in IDs: [2150, 2185]
+  Phrase "art" appears in IDs: [2156, 2308]
+  Phrase "draw" appears in IDs: [2160, 2361]
+  Phrase "raise your hand" appears in IDs: [2261, 2281]
+  Phrase "absent" appears in IDs: [2271, 2821, 2929]
+  Phrase "presentation" appears in IDs: [2284, 2782, 2980]
+  Phrase "cram for an exam" appears in IDs: [2291, 2306]
+  Phrase "desk" appears in IDs: [2302, 2705, 2912]
+  Phrase "question" appears in IDs: [2310, 2861]
+  Phrase "project" appears in IDs: [2322, 2774, 2963]
+  Phrase "summarize" appears in IDs: [2335, 2988]
+  Phrase "computer" appears in IDs: [2360, 2751]
+  Phrase "copy" appears in IDs: [2366, 2817, 2926]
+  Phrase "draft" appears in IDs: [2387, 2932]
+  Phrase "password" appears in IDs: [2412, 2558]
+  Phrase "download an app" appears in IDs: [2413, 2570]
+  Phrase "log in" appears in IDs: [2415, 2575]
+  Phrase "update" appears in IDs: [2431, 2927]
+  Phrase "video" appears in IDs: [2457, 2554]
+  Phrase "scroll down" appears in IDs: [2467, 2577]
+  Phrase "print" appears in IDs: [2468, 2772, 2970]
+  Phrase "profile picture" appears in IDs: [2469, 2574]
+  Phrase "search" appears in IDs: [2470, 2557]
+  Phrase "online" appears in IDs: [2474, 2551, 2860]
+  Phrase "link" appears in IDs: [2476, 2559]
+  Phrase "scroll up" appears in IDs: [2477, 2672]
+  Phrase "group chat" appears in IDs: [2480, 2614]
+  Phrase "post" appears in IDs: [2502, 2561]
+  Phrase "log out" appears in IDs: [2516, 2666]
+  Phrase "account" appears in IDs: [2533, 2601]
+  Phrase "job" appears in IDs: [2701, 2903]
+  Phrase "office" appears in IDs: [2702, 2858]
+  Phrase "work" appears in IDs: [2703, 2904]
+  Phrase "boss" appears in IDs: [2704, 2901]
+  Phrase "break" appears in IDs: [2706, 2953]
+  Phrase "meeting" appears in IDs: [2711, 2852]
+  Phrase "manager" appears in IDs: [2717, 2857]
+  Phrase "report" appears in IDs: [2722, 2876]
+  Phrase "client" appears in IDs: [2723, 2923]
+  Phrase "staff" appears in IDs: [2754, 2924]
+  Phrase "room" appears in IDs: [2761, 2952]
+  Phrase "file" appears in IDs: [2771, 2951]
+  Phrase "note" appears in IDs: [2773, 2873]
+  Phrase "feedback" appears in IDs: [2781, 2886]
+  Phrase "contract" appears in IDs: [2783, 2978]
+  Phrase "organize" appears in IDs: [2789, 2934]
+  Phrase "document" appears in IDs: [2815, 2874]
+  Phrase "agenda" appears in IDs: [2833, 2879]
+  Phrase "brainstorm" appears in IDs: [2846, 2945]
+  Phrase "keep me in the loop" appears in IDs: [2882, 2892]
+  Phrase "circle back" appears in IDs: [2898, 2976]
+- worst near-duplicate clusters:
+  Cluster "take a...": 17 variants found
+  Cluster "go to...": 5 variants found
+  Cluster "do the...": 4 variants found
+  Cluster "feed the...": 4 variants found
+  Cluster "have a...": 16 variants found
+  Cluster "make a...": 11 variants found
+  Cluster "clean the...": 4 variants found
+  Cluster "clear the...": 4 variants found
+  Cluster "get a...": 8 variants found
+  Cluster "hit the...": 7 variants found
+  Cluster "run out...": 5 variants found
+  Cluster "take the...": 4 variants found
+  Cluster "in the...": 6 variants found
+  Cluster "leave a...": 4 variants found
+  Cluster "out of...": 9 variants found
+  Cluster "catch a...": 4 variants found
+  Cluster "on the...": 4 variants found
+  Cluster "get the...": 4 variants found
+  Cluster "social media...": 5 variants found
+  Cluster "send a...": 4 variants found
+
+G. FINAL RECOMMENDATION
+- re-audit needed & fix hard errors

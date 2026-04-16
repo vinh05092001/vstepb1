@@ -1,0 +1,43 @@
+{
+  "name": "english-learning-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "vocab:reset": "tsx scripts/vocab-pipeline.ts reset",
+    "vocab:init": "tsx scripts/vocab-pipeline.ts init",
+    "vocab:reconcile": "tsx scripts/vocab-pipeline.ts reconcile",
+    "vocab:validate": "tsx scripts/vocab-pipeline.ts validate",
+    "vocab:status": "tsx scripts/vocab-pipeline.ts status",
+    "vocab:generate-next": "tsx scripts/vocab-pipeline.ts generate-next",
+    "vocab:generate-all": "tsx scripts/vocab-pipeline.ts generate-all"
+  },
+  "dependencies": {
+    "@google/genai": "^1.44.0",
+    "@prisma/client": "^6.19.2",
+    "@supabase/supabase-js": "^2.98.0",
+    "@tailwindcss/vite": "^4.2.1",
+    "cmu-pronouncing-dictionary": "^3.0.0",
+    "framer-motion": "^12.35.0",
+    "lucide-react": "^0.577.0",
+    "next": "16.1.6",
+    "prisma": "^6.19.2",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "recharts": "^3.8.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

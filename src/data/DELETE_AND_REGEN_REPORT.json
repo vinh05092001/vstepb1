@@ -1,0 +1,1496 @@
+[
+  {
+    "id": 451,
+    "phrase": "at the moment",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 452,
+    "phrase": "every day",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 453,
+    "phrase": "in the afternoon",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 454,
+    "phrase": "next week",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 455,
+    "phrase": "on time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 456,
+    "phrase": "quarter past",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 457,
+    "phrase": "soon",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 458,
+    "phrase": "today",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 459,
+    "phrase": "tomorrow",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 460,
+    "phrase": "tonight",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 461,
+    "phrase": "weekend",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 462,
+    "phrase": "what time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 463,
+    "phrase": "after that",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 464,
+    "phrase": "all day",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 465,
+    "phrase": "as soon as possible",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 466,
+    "phrase": "be late",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 467,
+    "phrase": "book an appointment",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 468,
+    "phrase": "check the calendar",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 469,
+    "phrase": "early morning",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 470,
+    "phrase": "for a long time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 471,
+    "phrase": "half an hour",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 472,
+    "phrase": "have a break",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 473,
+    "phrase": "in the future",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 474,
+    "phrase": "last minute",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 475,
+    "phrase": "spare time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 476,
+    "phrase": "twice a week",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 477,
+    "phrase": "ahead of schedule",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 478,
+    "phrase": "available",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 479,
+    "phrase": "be in a hurry",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 480,
+    "phrase": "cancel an appointment",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 481,
+    "phrase": "confirm the time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 482,
+    "phrase": "deadline",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 483,
+    "phrase": "fully booked",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 484,
+    "phrase": "make it",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 485,
+    "phrase": "on a regular basis",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 486,
+    "phrase": "postpone",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 487,
+    "phrase": "put off",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 488,
+    "phrase": "rearrange",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 489,
+    "phrase": "run out of time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 490,
+    "phrase": "waste time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 491,
+    "phrase": "at your earliest convenience",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 492,
+    "phrase": "behind schedule",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 493,
+    "phrase": "fit someone in",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 494,
+    "phrase": "for the time being",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 495,
+    "phrase": "in the long run",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 496,
+    "phrase": "kill time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 497,
+    "phrase": "punctual",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 498,
+    "phrase": "squeeze something in",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 499,
+    "phrase": "take your time",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 500,
+    "phrase": "time-consuming",
+    "topic": "Time & Schedules",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1451,
+    "phrase": "sunny",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1452,
+    "phrase": "clear",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1453,
+    "phrase": "rainbow",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1454,
+    "phrase": "bad weather",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1455,
+    "phrase": "good weather",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1456,
+    "phrase": "cold day",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1457,
+    "phrase": "hot day",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1458,
+    "phrase": "season",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1459,
+    "phrase": "outside",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1460,
+    "phrase": "inside",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1461,
+    "phrase": "hat",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1462,
+    "phrase": "coat",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1463,
+    "phrase": "sunlight",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1464,
+    "phrase": "raindrop",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1465,
+    "phrase": "stormy",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1466,
+    "phrase": "freezing cold",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1467,
+    "phrase": "temperature",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1468,
+    "phrase": "snowman",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1469,
+    "phrase": "get cold",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1470,
+    "phrase": "get dark",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1471,
+    "phrase": "weather report",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1472,
+    "phrase": "catch a cold",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1473,
+    "phrase": "heavy coat",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1474,
+    "phrase": "warm clothes",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1475,
+    "phrase": "blow away",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1476,
+    "phrase": "sunglasses",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1477,
+    "phrase": "breezy",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1478,
+    "phrase": "hail",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1479,
+    "phrase": "blizzard",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1480,
+    "phrase": "drought",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1481,
+    "phrase": "smog",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1482,
+    "phrase": "frosty",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1483,
+    "phrase": "rise in temperature",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1484,
+    "phrase": "dress warmly",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1485,
+    "phrase": "clear the snow",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1486,
+    "phrase": "sudden rain",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1487,
+    "phrase": "freeze over",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1488,
+    "phrase": "extreme weather",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1489,
+    "phrase": "natural disaster",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1490,
+    "phrase": "cool breeze",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1491,
+    "phrase": "gale",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1492,
+    "phrase": "sleet",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1493,
+    "phrase": "slush",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1494,
+    "phrase": "stifling",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1495,
+    "phrase": "bone-chilling",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1496,
+    "phrase": "not a cloud in the sky",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1497,
+    "phrase": "under the weather",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1498,
+    "phrase": "heatwave",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1499,
+    "phrase": "cold spell",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 1500,
+    "phrase": "brave the elements",
+    "topic": "Weather",
+    "reason": "duplicate_id"
+  },
+  {
+    "id": 302,
+    "phrase": "wake up",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 303,
+    "phrase": "take a shower",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 301,
+    "phrase": "brush teeth",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 158,
+    "phrase": "make the bed",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 319,
+    "phrase": "make the bed",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 305,
+    "phrase": "have breakfast",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 356,
+    "phrase": "watch TV",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 307,
+    "phrase": "go to bed",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 357,
+    "phrase": "sleep",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1058,
+    "phrase": "sleep",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 164,
+    "phrase": "do the laundry",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 161,
+    "phrase": "wash the dishes",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 312,
+    "phrase": "wash the dishes",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 625,
+    "phrase": "wash the dishes",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 176,
+    "phrase": "tidy up",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 367,
+    "phrase": "tidy up",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 363,
+    "phrase": "take a nap",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 353,
+    "phrase": "go for a walk",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1119,
+    "phrase": "go for a walk",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 930,
+    "phrase": "commute",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 240,
+    "phrase": "do the ironing",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 170,
+    "phrase": "mop the floor",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1230,
+    "phrase": "drop off",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 886,
+    "phrase": "pick up",
+    "topic": "Shopping",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1231,
+    "phrase": "pick up",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1031,
+    "phrase": "get stuck in traffic",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 639,
+    "phrase": "grab a bite",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 314,
+    "phrase": "stay up late",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 439,
+    "phrase": "sleep in",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1341,
+    "phrase": "unwind",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 189,
+    "phrase": "declutter",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 949,
+    "phrase": "run behind schedule",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 401,
+    "phrase": "wash your face",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 306,
+    "phrase": "drink water",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 603,
+    "phrase": "drink water",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 352,
+    "phrase": "read a book",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 405,
+    "phrase": "listen to music",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 355,
+    "phrase": "play games",
+    "topic": "Personal Habits",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 212,
+    "phrase": "lock the door",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 227,
+    "phrase": "water the plants",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 565,
+    "phrase": "take a break",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1171,
+    "phrase": "take a break",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 720,
+    "phrase": "wipe the table",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 154,
+    "phrase": "sweep the floor",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 231,
+    "phrase": "clear the table",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 238,
+    "phrase": "sort the recycling",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 230,
+    "phrase": "set the table",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 628,
+    "phrase": "set the table",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 192,
+    "phrase": "do a deep clean",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 180,
+    "phrase": "hang out the washing",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 721,
+    "phrase": "order a pizza",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 187,
+    "phrase": "change the sheets",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 277,
+    "phrase": "mow the lawn",
+    "topic": "Home & Household",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1255,
+    "phrase": "key",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 705,
+    "phrase": "cup",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 706,
+    "phrase": "spoon",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 712,
+    "phrase": "pan",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1221,
+    "phrase": "gate",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1256,
+    "phrase": "bed",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 503,
+    "phrase": "clock",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1324,
+    "phrase": "balcony",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1106,
+    "phrase": "wash hands",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 508,
+    "phrase": "early",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 509,
+    "phrase": "late",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1009,
+    "phrase": "late",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 837,
+    "phrase": "complain",
+    "topic": "Shopping",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 455,
+    "phrase": "on time",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1085,
+    "phrase": "give up",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 731,
+    "phrase": "cut down on",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1079,
+    "phrase": "cut down on",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1076,
+    "phrase": "daily routine",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 487,
+    "phrase": "put off",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 525,
+    "phrase": "busy",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1055,
+    "phrase": "run",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 612,
+    "phrase": "cook dinner",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 729,
+    "phrase": "junk food",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1121,
+    "phrase": "junk food",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1130,
+    "phrase": "stretch",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 583,
+    "phrase": "time management",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1184,
+    "phrase": "stay hydrated",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1145,
+    "phrase": "chronic",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 558,
+    "phrase": "always",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 560,
+    "phrase": "never",
+    "topic": "Time & Schedules",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1067,
+    "phrase": "do yoga",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 608,
+    "phrase": "eat out",
+    "topic": "Food & Cooking",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1073,
+    "phrase": "stay active",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1229,
+    "phrase": "fully booked",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 857,
+    "phrase": "free",
+    "topic": "Shopping",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 881,
+    "phrase": "wrap up",
+    "topic": "Shopping",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1160,
+    "phrase": "milk",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1311,
+    "phrase": "breakfast",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1136,
+    "phrase": "balanced diet",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1179,
+    "phrase": "allergic to",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 854,
+    "phrase": "bill",
+    "topic": "Shopping",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1421,
+    "phrase": "melt",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1322,
+    "phrase": "cash",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1346,
+    "phrase": "rip-off",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1012,
+    "phrase": "line",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1017,
+    "phrase": "take off",
+    "topic": "Transportation",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1120,
+    "phrase": "ride a bike",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1262,
+    "phrase": "driver",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1266,
+    "phrase": "seat",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1204,
+    "phrase": "map",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1273,
+    "phrase": "return ticket",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1272,
+    "phrase": "get lost",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1337,
+    "phrase": "book in advance",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1217,
+    "phrase": "delayed",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1279,
+    "phrase": "direct flight",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1209,
+    "phrase": "fly",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1261,
+    "phrase": "boat",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1206,
+    "phrase": "airport",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1264,
+    "phrase": "flight",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1265,
+    "phrase": "passenger",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1214,
+    "phrase": "boarding pass",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1321,
+    "phrase": "miss a flight",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1412,
+    "phrase": "fine",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1244,
+    "phrase": "hit the road",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1052,
+    "phrase": "walk",
+    "topic": "Health & Fitness",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1212,
+    "phrase": "trip",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1320,
+    "phrase": "sign",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1213,
+    "phrase": "check in",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1277,
+    "phrase": "destination",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1315,
+    "phrase": "terminal",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1233,
+    "phrase": "get around",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1425,
+    "phrase": "cool down",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1467,
+    "phrase": "temperature",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1303,
+    "phrase": "rest",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1472,
+    "phrase": "catch a cold",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1436,
+    "phrase": "sweat",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1497,
+    "phrase": "under the weather",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1302,
+    "phrase": "swim",
+    "topic": "Travel",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 1476,
+    "phrase": "sunglasses",
+    "topic": "Weather",
+    "reason": "exact_duplicate_phrase"
+  },
+  {
+    "id": 43,
+    "phrase": "catch up on sleep",
+    "topic": "Daily Life",
+    "reason": "template_cluster"
+  },
+  {
+    "id": 88,
+    "phrase": "plan the week",
+    "topic": "Daily Life",
+    "reason": "template_cluster"
+  },
+  {
+    "id": 856,
+    "phrase": "manager",
+    "topic": "Shopping",
+    "reason": "template_cluster"
+  },
+  {
+    "id": 499,
+    "phrase": "take your time",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 500,
+    "phrase": "time-consuming",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 528,
+    "phrase": "in time",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 533,
+    "phrase": "run late",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 534,
+    "phrase": "time off",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 551,
+    "phrase": "day",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 566,
+    "phrase": "have time",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 572,
+    "phrase": "time to go",
+    "topic": "Time & Schedules",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 792,
+    "phrase": "track a package",
+    "topic": "Shopping",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 879,
+    "phrase": "run out of",
+    "topic": "Shopping",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 988,
+    "phrase": "run out of gas",
+    "topic": "Transportation",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 1024,
+    "phrase": "turn around",
+    "topic": "Transportation",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 1048,
+    "phrase": "run a red light",
+    "topic": "Transportation",
+    "reason": "weak_near_duplicate"
+  },
+  {
+    "id": 1241,
+    "phrase": "off the beaten track",
+    "topic": "Travel",
+    "reason": "weak_near_duplicate"
+  }
+]

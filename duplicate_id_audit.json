@@ -1,0 +1,902 @@
+[
+  {
+    "id": 451,
+    "kept_phrase": "at the moment",
+    "removed_phrases": [
+      "at the moment"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 452,
+    "kept_phrase": "every day",
+    "removed_phrases": [
+      "every day"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 453,
+    "kept_phrase": "in the afternoon",
+    "removed_phrases": [
+      "in the afternoon"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 454,
+    "kept_phrase": "next week",
+    "removed_phrases": [
+      "next week"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 455,
+    "kept_phrase": "beat the clock",
+    "removed_phrases": [
+      "beat the clock"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 456,
+    "kept_phrase": "quarter past",
+    "removed_phrases": [
+      "quarter past"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 457,
+    "kept_phrase": "soon",
+    "removed_phrases": [
+      "soon"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 458,
+    "kept_phrase": "today",
+    "removed_phrases": [
+      "today"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 459,
+    "kept_phrase": "tomorrow",
+    "removed_phrases": [
+      "tomorrow"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 460,
+    "kept_phrase": "tonight",
+    "removed_phrases": [
+      "tonight"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 461,
+    "kept_phrase": "weekend",
+    "removed_phrases": [
+      "weekend"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 462,
+    "kept_phrase": "what time",
+    "removed_phrases": [
+      "what time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 463,
+    "kept_phrase": "after that",
+    "removed_phrases": [
+      "after that"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 464,
+    "kept_phrase": "all day",
+    "removed_phrases": [
+      "all day"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 465,
+    "kept_phrase": "as soon as possible",
+    "removed_phrases": [
+      "as soon as possible"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 466,
+    "kept_phrase": "be late",
+    "removed_phrases": [
+      "be late"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 467,
+    "kept_phrase": "book an appointment",
+    "removed_phrases": [
+      "book an appointment"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 468,
+    "kept_phrase": "check the calendar",
+    "removed_phrases": [
+      "check the calendar"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 469,
+    "kept_phrase": "early morning",
+    "removed_phrases": [
+      "early morning"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 470,
+    "kept_phrase": "for a long time",
+    "removed_phrases": [
+      "for a long time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 471,
+    "kept_phrase": "half an hour",
+    "removed_phrases": [
+      "half an hour"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 472,
+    "kept_phrase": "have a break",
+    "removed_phrases": [
+      "have a break"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 473,
+    "kept_phrase": "in the future",
+    "removed_phrases": [
+      "in the future"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 474,
+    "kept_phrase": "last minute",
+    "removed_phrases": [
+      "last minute"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 475,
+    "kept_phrase": "spare time",
+    "removed_phrases": [
+      "spare time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 476,
+    "kept_phrase": "twice a week",
+    "removed_phrases": [
+      "twice a week"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 477,
+    "kept_phrase": "ahead of schedule",
+    "removed_phrases": [
+      "ahead of schedule"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 478,
+    "kept_phrase": "available",
+    "removed_phrases": [
+      "available"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 479,
+    "kept_phrase": "be in a hurry",
+    "removed_phrases": [
+      "be in a hurry"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 480,
+    "kept_phrase": "cancel an appointment",
+    "removed_phrases": [
+      "cancel an appointment"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 481,
+    "kept_phrase": "confirm the time",
+    "removed_phrases": [
+      "confirm the time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 482,
+    "kept_phrase": "deadline",
+    "removed_phrases": [
+      "deadline"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 483,
+    "kept_phrase": "fully booked",
+    "removed_phrases": [
+      "fully booked"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 484,
+    "kept_phrase": "make it",
+    "removed_phrases": [
+      "make it"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 485,
+    "kept_phrase": "on a regular basis",
+    "removed_phrases": [
+      "on a regular basis"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 486,
+    "kept_phrase": "postpone",
+    "removed_phrases": [
+      "postpone"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 487,
+    "kept_phrase": "run out of time",
+    "removed_phrases": [
+      "run out of time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 488,
+    "kept_phrase": "rearrange",
+    "removed_phrases": [
+      "rearrange"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 489,
+    "kept_phrase": "take a while",
+    "removed_phrases": [
+      "take a while"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 490,
+    "kept_phrase": "waste time",
+    "removed_phrases": [
+      "waste time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 491,
+    "kept_phrase": "at your earliest convenience",
+    "removed_phrases": [
+      "at your earliest convenience"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 492,
+    "kept_phrase": "behind schedule",
+    "removed_phrases": [
+      "behind schedule"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 493,
+    "kept_phrase": "fit someone in",
+    "removed_phrases": [
+      "fit someone in"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 494,
+    "kept_phrase": "for the time being",
+    "removed_phrases": [
+      "for the time being"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 495,
+    "kept_phrase": "in the long run",
+    "removed_phrases": [
+      "in the long run"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 496,
+    "kept_phrase": "kill time",
+    "removed_phrases": [
+      "kill time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 497,
+    "kept_phrase": "punctual",
+    "removed_phrases": [
+      "punctual"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 498,
+    "kept_phrase": "squeeze something in",
+    "removed_phrases": [
+      "squeeze something in"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 499,
+    "kept_phrase": "take your time",
+    "removed_phrases": [
+      "take your time"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 500,
+    "kept_phrase": "at the last minute",
+    "removed_phrases": [
+      "at the last minute"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1451,
+    "kept_phrase": "sunny",
+    "removed_phrases": [
+      "sunny"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1452,
+    "kept_phrase": "clear",
+    "removed_phrases": [
+      "clear"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1453,
+    "kept_phrase": "rainbow",
+    "removed_phrases": [
+      "rainbow"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1454,
+    "kept_phrase": "bad weather",
+    "removed_phrases": [
+      "bad weather"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1455,
+    "kept_phrase": "good weather",
+    "removed_phrases": [
+      "good weather"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1456,
+    "kept_phrase": "cold day",
+    "removed_phrases": [
+      "cold day"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1457,
+    "kept_phrase": "hot day",
+    "removed_phrases": [
+      "hot day"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1458,
+    "kept_phrase": "season",
+    "removed_phrases": [
+      "season"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1459,
+    "kept_phrase": "outside",
+    "removed_phrases": [
+      "outside"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1460,
+    "kept_phrase": "inside",
+    "removed_phrases": [
+      "inside"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1461,
+    "kept_phrase": "hat",
+    "removed_phrases": [
+      "hat"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1462,
+    "kept_phrase": "coat",
+    "removed_phrases": [
+      "coat"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1463,
+    "kept_phrase": "sunlight",
+    "removed_phrases": [
+      "sunlight"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1464,
+    "kept_phrase": "raindrop",
+    "removed_phrases": [
+      "raindrop"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1465,
+    "kept_phrase": "stormy",
+    "removed_phrases": [
+      "stormy"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1466,
+    "kept_phrase": "freezing cold",
+    "removed_phrases": [
+      "freezing cold"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1467,
+    "kept_phrase": "boiling hot",
+    "removed_phrases": [
+      "boiling hot"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1468,
+    "kept_phrase": "snowman",
+    "removed_phrases": [
+      "snowman"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1469,
+    "kept_phrase": "get cold",
+    "removed_phrases": [
+      "get cold"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1470,
+    "kept_phrase": "get dark",
+    "removed_phrases": [
+      "get dark"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1471,
+    "kept_phrase": "weather report",
+    "removed_phrases": [
+      "weather report"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1472,
+    "kept_phrase": "severe storm",
+    "removed_phrases": [
+      "severe storm"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1473,
+    "kept_phrase": "heavy coat",
+    "removed_phrases": [
+      "heavy coat"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1474,
+    "kept_phrase": "warm clothes",
+    "removed_phrases": [
+      "warm clothes"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1475,
+    "kept_phrase": "blow away",
+    "removed_phrases": [
+      "blow away"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1476,
+    "kept_phrase": "climate change",
+    "removed_phrases": [
+      "climate change"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1477,
+    "kept_phrase": "breezy",
+    "removed_phrases": [
+      "breezy"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1478,
+    "kept_phrase": "hail",
+    "removed_phrases": [
+      "hail"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1479,
+    "kept_phrase": "blizzard",
+    "removed_phrases": [
+      "blizzard"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1480,
+    "kept_phrase": "drought",
+    "removed_phrases": [
+      "drought"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1481,
+    "kept_phrase": "smog",
+    "removed_phrases": [
+      "smog"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1482,
+    "kept_phrase": "frosty",
+    "removed_phrases": [
+      "frosty"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1483,
+    "kept_phrase": "rise in temperature",
+    "removed_phrases": [
+      "rise in temperature"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1484,
+    "kept_phrase": "dress warmly",
+    "removed_phrases": [
+      "dress warmly"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1485,
+    "kept_phrase": "clear the snow",
+    "removed_phrases": [
+      "clear the snow"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1486,
+    "kept_phrase": "sudden rain",
+    "removed_phrases": [
+      "sudden rain"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1487,
+    "kept_phrase": "freeze over",
+    "removed_phrases": [
+      "freeze over"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1488,
+    "kept_phrase": "extreme weather",
+    "removed_phrases": [
+      "extreme weather"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1489,
+    "kept_phrase": "natural disaster",
+    "removed_phrases": [
+      "natural disaster"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1490,
+    "kept_phrase": "cool breeze",
+    "removed_phrases": [
+      "cool breeze"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1491,
+    "kept_phrase": "gale",
+    "removed_phrases": [
+      "gale"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1492,
+    "kept_phrase": "sleet",
+    "removed_phrases": [
+      "sleet"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1493,
+    "kept_phrase": "slush",
+    "removed_phrases": [
+      "slush"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1494,
+    "kept_phrase": "stifling",
+    "removed_phrases": [
+      "stifling"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1495,
+    "kept_phrase": "bone-chilling",
+    "removed_phrases": [
+      "bone-chilling"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1496,
+    "kept_phrase": "not a cloud in the sky",
+    "removed_phrases": [
+      "not a cloud in the sky"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1497,
+    "kept_phrase": "get soaked",
+    "removed_phrases": [
+      "get soaked"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1498,
+    "kept_phrase": "heatwave",
+    "removed_phrases": [
+      "heatwave"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1499,
+    "kept_phrase": "cold spell",
+    "removed_phrases": [
+      "cold spell"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  },
+  {
+    "id": 1500,
+    "kept_phrase": "brave the elements",
+    "removed_phrases": [
+      "brave the elements"
+    ],
+    "reason_for_keep": "All conflicting objects for this ID were identical in phrase, examples, explanations, topic, and other fields; kept the first occurrence and removed redundant duplicate copies.",
+    "reason_for_remove": "Removed because this object was an exact duplicate of the kept entry and added no distinct learning value."
+  }
+]

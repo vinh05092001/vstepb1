@@ -1,0 +1,694 @@
+TOPIC: Daily Life
+MUST_DELETE:
+- ID 95 — exact duplicate phrase of ID 88 ("call it a day")
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[95]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Home & Household
+MUST_DELETE:
+- ID 180 — exact duplicate phrase of ID 127 ("fold the laundry")
+- ID 246 — exact duplicate phrase of ID 164 ("load the washing machine")
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[180, 246]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Personal Habits
+MUST_DELETE:
+- ID 315 — exact duplicate phrase of ID 307 ("skip breakfast")
+- ID 374 — exact duplicate phrase of ID 355 ("bite your lip")
+- ID 415 — exact duplicate phrase of ID 352 ("pick your nose")
+
+REVIEW_FIRST:
+- ID 304 — near-duplicate of ID 52 ("wash hands")
+- ID 313 — near-duplicate of ID 301 ("bite nails")
+- ID 436 — near-duplicate of ID 302 ("crack knuckles")
+
+FINAL_MUST_DELETE_IDS:
+[315, 374, 415]
+
+FINAL_REVIEW_IDS:
+[304, 313, 436]
+
+TOPIC: Time & Schedules
+MUST_DELETE:
+- ID 489 — exact duplicate phrase of ID 487 ("run out of time")
+- ID 500 — exact duplicate phrase of ID 496 ("kill time")
+- ID 451 — duplicate ID
+- ID 452 — duplicate ID
+- ID 453 — duplicate ID
+- ID 454 — duplicate ID
+- ID 455 — duplicate ID
+- ID 456 — duplicate ID
+- ID 457 — duplicate ID
+- ID 458 — duplicate ID
+- ID 459 — duplicate ID
+- ID 460 — duplicate ID
+- ID 461 — duplicate ID
+- ID 462 — duplicate ID
+- ID 463 — duplicate ID
+- ID 464 — duplicate ID
+- ID 465 — duplicate ID
+- ID 466 — duplicate ID
+- ID 467 — duplicate ID
+- ID 468 — duplicate ID
+- ID 469 — duplicate ID
+- ID 470 — duplicate ID
+- ID 471 — duplicate ID
+- ID 472 — duplicate ID
+- ID 473 — duplicate ID
+- ID 474 — duplicate ID
+- ID 475 — duplicate ID
+- ID 476 — duplicate ID
+- ID 477 — duplicate ID
+- ID 478 — duplicate ID
+- ID 479 — duplicate ID
+- ID 480 — duplicate ID
+- ID 481 — duplicate ID
+- ID 482 — duplicate ID
+- ID 483 — duplicate ID
+- ID 484 — duplicate ID
+- ID 485 — duplicate ID
+- ID 486 — duplicate ID
+- ID 487 — duplicate ID
+- ID 488 — duplicate ID
+- ID 490 — duplicate ID
+- ID 491 — duplicate ID
+- ID 492 — duplicate ID
+- ID 493 — duplicate ID
+- ID 494 — duplicate ID
+- ID 495 — duplicate ID
+- ID 496 — duplicate ID
+- ID 497 — duplicate ID
+- ID 498 — duplicate ID
+- ID 499 — duplicate ID
+- ID 525 — exact duplicate phrase of ID 490 ("waste time")
+- ID 550 — exact duplicate phrase of ID 455 ("beat the clock")
+- ID 584 — exact duplicate phrase of ID 509 ("save time")
+- ID 589 — exact duplicate phrase of ID 534 ("time flies")
+- ID 590 — exact duplicate phrase of ID 558 ("meet a deadline")
+- ID 591 — exact duplicate phrase of ID 528 ("pressed for time")
+- ID 592 — exact duplicate phrase of ID 503 ("in the nick of time")
+
+REVIEW_FIRST:
+- ID 507 — weak example ("Wait a second!")
+
+FINAL_MUST_DELETE_IDS:
+[451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 525, 550, 584, 589, 590, 591, 592]
+
+FINAL_REVIEW_IDS:
+[507]
+
+TOPIC: Food & Cooking
+MUST_DELETE:
+- ID 659 — exact duplicate phrase of ID 135 ("grab a coffee")
+- ID 663 — exact duplicate phrase of ID 619 ("follow a recipe")
+- ID 667 — exact duplicate phrase of ID 603 ("have a sweet tooth")
+- ID 669 — exact duplicate phrase of ID 36 ("grab a bite")
+- ID 670 — exact duplicate phrase of ID 419 ("eat out")
+- ID 673 — exact duplicate phrase of ID 654 ("leave a tip")
+- ID 688 — exact duplicate phrase of ID 649 ("home-cooked meal")
+- ID 690 — exact duplicate phrase of ID 364 ("junk food")
+- ID 695 — exact duplicate phrase of ID 613 ("fresh vegetables")
+- ID 728 — exact duplicate phrase of ID 679 ("go on a diet")
+- ID 738 — exact duplicate phrase of ID 686 ("organic food")
+
+REVIEW_FIRST:
+- ID 681 — near-duplicate of ID 637 ("a balanced diet")
+
+FINAL_MUST_DELETE_IDS:
+[659, 663, 667, 669, 670, 673, 688, 690, 695, 728, 738]
+
+FINAL_REVIEW_IDS:
+[681]
+
+TOPIC: Shopping
+MUST_DELETE:
+(none)
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Transportation
+MUST_DELETE:
+(none)
+
+REVIEW_FIRST:
+- ID 929 — near-duplicate of ID 86 ("catch a bus")
+- ID 935 — near-duplicate of ID 34 ("pick someone up")
+- ID 950 — near-duplicate of ID 33 ("drop someone off")
+
+FINAL_MUST_DELETE_IDS:
+[]
+
+FINAL_REVIEW_IDS:
+[929, 935, 950]
+
+TOPIC: Health & Fitness
+MUST_DELETE:
+- ID 1068 — exact duplicate phrase of ID 683 ("lose weight")
+- ID 1176 — exact duplicate phrase of ID 682 ("gain weight")
+- ID 1185 — exact duplicate phrase of ID 668 ("skip a meal")
+- ID 1194 — exact duplicate phrase of ID 687 ("processed food")
+
+REVIEW_FIRST:
+- ID 1169 — near-duplicate of ID 4 ("brush your teeth")
+
+FINAL_MUST_DELETE_IDS:
+[1068, 1176, 1185, 1194]
+
+FINAL_REVIEW_IDS:
+[1169]
+
+TOPIC: Travel
+MUST_DELETE:
+- ID 1315 — exact duplicate phrase of ID 1290 ("guided tour")
+- ID 1341 — exact duplicate phrase of ID 1048 ("catch a flight")
+- ID 1345 — exact duplicate phrase of ID 1322 ("scenic route")
+- ID 1346 — exact duplicate phrase of ID 1224 ("travel abroad")
+
+REVIEW_FIRST:
+- ID 1277 — single-word exact duplicate of ID 1029 ("destination")
+
+FINAL_MUST_DELETE_IDS:
+[1315, 1341, 1345, 1346]
+
+FINAL_REVIEW_IDS:
+[1277]
+
+TOPIC: Weather
+MUST_DELETE:
+- ID 1451 — duplicate ID
+- ID 1452 — duplicate ID
+- ID 1453 — duplicate ID
+- ID 1454 — duplicate ID
+- ID 1455 — duplicate ID
+- ID 1456 — duplicate ID
+- ID 1457 — duplicate ID
+- ID 1458 — duplicate ID
+- ID 1459 — duplicate ID
+- ID 1460 — duplicate ID
+- ID 1461 — duplicate ID
+- ID 1462 — duplicate ID
+- ID 1463 — duplicate ID
+- ID 1464 — duplicate ID
+- ID 1465 — duplicate ID
+- ID 1466 — duplicate ID
+- ID 1467 — duplicate ID
+- ID 1468 — duplicate ID
+- ID 1469 — duplicate ID
+- ID 1470 — duplicate ID
+- ID 1471 — duplicate ID
+- ID 1472 — duplicate ID
+- ID 1473 — duplicate ID
+- ID 1474 — duplicate ID
+- ID 1475 — duplicate ID
+- ID 1476 — duplicate ID
+- ID 1477 — duplicate ID
+- ID 1478 — duplicate ID
+- ID 1479 — duplicate ID
+- ID 1480 — duplicate ID
+- ID 1481 — duplicate ID
+- ID 1482 — duplicate ID
+- ID 1483 — duplicate ID
+- ID 1484 — duplicate ID
+- ID 1485 — duplicate ID
+- ID 1486 — duplicate ID
+- ID 1487 — duplicate ID
+- ID 1488 — duplicate ID
+- ID 1489 — duplicate ID
+- ID 1490 — duplicate ID
+- ID 1491 — duplicate ID
+- ID 1492 — duplicate ID
+- ID 1493 — duplicate ID
+- ID 1494 — duplicate ID
+- ID 1495 — duplicate ID
+- ID 1496 — duplicate ID
+- ID 1497 — duplicate ID
+- ID 1498 — duplicate ID
+- ID 1499 — duplicate ID
+- ID 1500 — duplicate ID
+
+REVIEW_FIRST:
+(none)
+
+FINAL_MUST_DELETE_IDS:
+[1451, 1452, 1453, 1454, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1469, 1470, 1471, 1472, 1473, 1474, 1475, 1476, 1477, 1478, 1479, 1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500]
+
+FINAL_REVIEW_IDS:
+[]
+
+TOPIC: Family & Relationships
+MUST_DELETE:
+- ID 1567 — exact duplicate phrase of ID 1170 ("take care of")
+- ID 1568 — exact duplicate phrase of ID 1517 ("grow up")
+- ID 1572 — exact duplicate phrase of ID 1508 ("only child")
+- ID 1578 — exact duplicate phrase of ID 1543 ("bring up")
+- ID 1590 — exact duplicate phrase of ID 73 ("take a break")
+- ID 1623 — exact duplicate phrase of ID 40 ("do chores")
+- ID 1624 — exact duplicate phrase of ID 15 ("take out the trash")
+
+REVIEW_FIRST:
+- ID 1560 — single-word exact duplicate of ID 1506 ("grandfather")
+
+FINAL_MUST_DELETE_IDS:
+[1567, 1568, 1572, 1578, 1590, 1623, 1624]
+
+FINAL_REVIEW_IDS:
+[1560]
+
+TOPIC: Friends & Social Life
+MUST_DELETE:
+- ID 1663 — exact duplicate phrase of ID 39 ("hang out")
+- ID 1665 — exact duplicate phrase of ID 1613 ("get together")
+- ID 1666 — exact duplicate phrase of ID 135 ("grab a coffee")
+- ID 1671 — exact duplicate phrase of ID 57 ("go out")
+- ID 1677 — exact duplicate phrase of ID 587 ("catch up")
+- ID 1691 — exact duplicate phrase of ID 1583 ("lose touch")
+- ID 1698 — exact duplicate phrase of ID 1535 ("drift apart")
+- ID 1717 — obvious machine-generated template ("plan")
+- ID 1740 — exact duplicate phrase of ID 1639 ("rely on")
+- ID 1767 — exact duplicate phrase of ID 540 ("spend time")
+- ID 1772 — exact duplicate phrase of ID 24 ("go for a walk")
+- ID 1780 — exact duplicate phrase of ID 484 ("make it")
+- ID 1786 — exact duplicate phrase of ID 332 ("put off")
+- ID 1788 — exact duplicate phrase of ID 1582 ("keep a secret")
+
+REVIEW_FIRST:
+- ID 1657 — single-word exact duplicate of ID 1306 ("visit")
+- ID 1661 — single-word exact duplicate of ID 524 ("free")
+- ID 1662 — single-word exact duplicate of ID 1210 ("stay")
+- ID 1672 — single-word exact duplicate of ID 358 ("busy")
+- ID 1688 — single-word exact duplicate of ID 486 ("postpone")
+- ID 1708 — single-word exact duplicate of ID 811 ("gift")
+- ID 1710 — single-word exact duplicate of ID 1609 ("hug")
+- ID 1711 — single-word exact duplicate of ID 858 ("help")
+- ID 1713 — single-word exact duplicate of ID 461 ("weekend")
+- ID 1715 — single-word exact duplicate of ID 1318 ("guest")
+- ID 1723 — single-word exact duplicate of ID 517 ("ready")
+- ID 1756 — single-word exact duplicate of ID 1366 ("cool")
+- ID 1757 — single-word exact duplicate of ID 1257 ("photo")
+
+FINAL_MUST_DELETE_IDS:
+[1663, 1665, 1666, 1671, 1677, 1691, 1698, 1717, 1740, 1767, 1772, 1780, 1786, 1788]
+
+FINAL_REVIEW_IDS:
+[1657, 1661, 1662, 1672, 1688, 1708, 1710, 1711, 1713, 1715, 1723, 1756, 1757]
+
+TOPIC: Emotions & Feelings
+MUST_DELETE:
+- ID 1819 — exact duplicate phrase of ID 1622 ("proud of")
+- ID 1866 — exact duplicate phrase of ID 1738 ("look forward to")
+- ID 1919 — exact duplicate phrase of ID 1778 ("chill out")
+
+REVIEW_FIRST:
+- ID 1804 — single-word exact duplicate of ID 1705 ("smile")
+- ID 1807 — single-word exact duplicate of ID 362 ("tired")
+- ID 1809 — single-word exact duplicate of ID 1704 ("laugh")
+- ID 1815 — single-word exact duplicate of ID 1762 ("glad")
+- ID 1851 — single-word exact duplicate of ID 983 ("fine")
+- ID 1854 — single-word exact duplicate of ID 1510 ("love")
+- ID 1858 — single-word exact duplicate of ID 1158 ("hurt")
+- ID 1862 — single-word exact duplicate of ID 1761 ("great")
+- ID 1868 — single-word exact duplicate of ID 321 ("complain")
+- ID 1901 — single-word exact duplicate of ID 1656 ("fun")
+- ID 1910 — single-word exact duplicate of ID 1059 ("pain")
+- ID 1911 — single-word exact duplicate of ID 1360 ("warm")
+- ID 1912 — single-word exact duplicate of ID 1323 ("safe")
+- ID 1933 — single-word exact duplicate of ID 635 ("bitter")
+
+FINAL_MUST_DELETE_IDS:
+[1819, 1866, 1919]
+
+FINAL_REVIEW_IDS:
+[1804, 1807, 1809, 1815, 1851, 1854, 1858, 1862, 1868, 1901, 1910, 1911, 1912, 1933]
+
+TOPIC: Communication
+MUST_DELETE:
+- ID 1967 — obvious machine-generated template ("talk about")
+- ID 1972 — exact duplicate phrase of ID 1684 ("let me know")
+- ID 1981 — exact duplicate phrase of ID 1678 ("keep in touch")
+- ID 1982 — exact duplicate phrase of ID 1543 ("bring up")
+- ID 1991 — exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2000 — exact duplicate phrase of ID 1699 ("touch base")
+- ID 2020 — exact duplicate phrase of ID 1674 ("sound good")
+- ID 2041 — exact duplicate phrase of ID 544 ("wrap up")
+- ID 2049 — exact duplicate phrase of ID 1380 ("clear up")
+- ID 2067 — exact duplicate phrase of ID 1820 ("calm down")
+- ID 2084 — exact duplicate phrase of ID 1582 ("keep a secret")
+
+REVIEW_FIRST:
+- ID 1970 — single-word exact duplicate of ID 1655 ("chat")
+- ID 1975 — single-word exact duplicate of ID 1673 ("message")
+- ID 2004 — single-word exact duplicate of ID 1706 ("hello")
+- ID 2006 — single-word exact duplicate of ID 983 ("fine")
+- ID 2008 — single-word exact duplicate of ID 858 ("help")
+- ID 2013 — single-word exact duplicate of ID 1719 ("text")
+- ID 2052 — single-word exact duplicate of ID 1722 ("welcome")
+
+FINAL_MUST_DELETE_IDS:
+[1967, 1972, 1981, 1982, 1991, 2000, 2020, 2041, 2049, 2067, 2084]
+
+FINAL_REVIEW_IDS:
+[1970, 1975, 2004, 2006, 2008, 2013, 2052]
+
+TOPIC: Entertainment
+MUST_DELETE:
+- ID 2104 — exact duplicate phrase of ID 10 ("watch TV")
+- ID 2110 — exact duplicate phrase of ID 58 ("read a book")
+- ID 2120 — exact duplicate phrase of ID 59 ("listen to music")
+- ID 2135 — exact duplicate phrase of ID 780 ("sold out")
+- ID 2166 — exact duplicate phrase of ID 57 ("go out")
+- ID 2180 — exact duplicate phrase of ID 475 ("spare time")
+- ID 2185 — exact duplicate phrase of ID 39 ("hang out")
+- ID 2189 — exact duplicate phrase of ID 933 ("book in advance")
+- ID 2198 — exact duplicate phrase of ID 1778 ("chill out")
+- ID 2233 — exact duplicate phrase of ID 1669 ("have a good time")
+
+REVIEW_FIRST:
+- ID 2101 — single-word exact duplicate of ID 1703 ("game")
+- ID 2102 — single-word exact duplicate of ID 1656 ("fun")
+- ID 2107 — single-word exact duplicate of ID 1653 ("party")
+- ID 2113 — single-word exact duplicate of ID 1202 ("ticket")
+- ID 2121 — single-word exact duplicate of ID 1863 ("bored")
+- ID 2142 — single-word exact duplicate of ID 448 ("binge-watch")
+- ID 2153 — single-word exact duplicate of ID 810 ("toy")
+- ID 2154 — single-word exact duplicate of ID 1011 ("park")
+- ID 2155 — single-word exact duplicate of ID 1702 ("play")
+- ID 2157 — single-word exact duplicate of ID 1257 ("photo")
+- ID 2158 — single-word exact duplicate of ID 1704 ("laugh")
+- ID 2159 — single-word exact duplicate of ID 1759 ("club")
+- ID 2161 — single-word exact duplicate of ID 220 ("fan")
+- ID 2162 — single-word exact duplicate of ID 1275 ("camp")
+- ID 2167 — single-word exact duplicate of ID 1274 ("museum")
+- ID 2169 — single-word exact duplicate of ID 1753 ("join")
+- ID 2174 — single-word exact duplicate of ID 832 ("match")
+- ID 2176 — single-word exact duplicate of ID 25 ("relax")
+- ID 2184 — single-word exact duplicate of ID 1923 ("brilliant")
+- ID 2199 — single-word exact duplicate of ID 44 ("unwind")
+- ID 2206 — single-word exact duplicate of ID 1760 ("team")
+- ID 2208 — single-word exact duplicate of ID 1159 ("swim")
+
+FINAL_MUST_DELETE_IDS:
+[2104, 2110, 2120, 2135, 2166, 2180, 2185, 2189, 2198, 2233]
+
+FINAL_REVIEW_IDS:
+[2101, 2102, 2107, 2113, 2121, 2142, 2153, 2154, 2155, 2157, 2158, 2159, 2161, 2162, 2167, 2169, 2174, 2176, 2184, 2199, 2206, 2208]
+
+TOPIC: Education
+MUST_DELETE:
+- ID 2281 — exact duplicate phrase of ID 587 ("catch up")
+- ID 2290 — exact duplicate phrase of ID 2035 ("figure out")
+- ID 2304 — exact duplicate phrase of ID 2066 ("be quiet")
+- ID 2306 — exact duplicate phrase of ID 108 ("sit down")
+- ID 2341 — exact duplicate phrase of ID 34 ("pick up")
+- ID 2365 — exact duplicate phrase of ID 370 ("do homework")
+- ID 2369 — exact duplicate phrase of ID 1071 ("join a club")
+
+REVIEW_FIRST:
+- ID 2259 — single-word exact duplicate of ID 1974 ("spell")
+- ID 2279 — single-word exact duplicate of ID 482 ("deadline")
+- ID 2285 — near-duplicate of ID 1540 ("look up")
+- ID 2301 — single-word exact duplicate of ID 1327 ("board")
+- ID 2305 — near-duplicate of ID 1693 ("stand up")
+- ID 2308 — single-word exact duplicate of ID 2156 ("art")
+- ID 2311 — single-word exact duplicate of ID 1958 ("answer")
+- ID 2316 — single-word exact duplicate of ID 1763 ("classmate")
+- ID 2332 — single-word exact duplicate of ID 2140 ("review")
+- ID 2334 — single-word exact duplicate of ID 1589 ("strict")
+- ID 2355 — single-word exact duplicate of ID 2010 ("read")
+- ID 2356 — single-word exact duplicate of ID 2011 ("write")
+- ID 2359 — single-word exact duplicate of ID 2103 ("music")
+- ID 2361 — single-word exact duplicate of ID 2160 ("draw")
+- ID 2363 — single-word exact duplicate of ID 516 ("schedule")
+- ID 2370 — single-word exact duplicate of ID 1062 ("gym")
+- ID 2391 — possible template issue ("keep up with")
+- ID 2392 — single-word exact duplicate of ID 331 ("procrastinate")
+
+FINAL_MUST_DELETE_IDS:
+[2281, 2290, 2304, 2306, 2341, 2365, 2369]
+
+FINAL_REVIEW_IDS:
+[2259, 2279, 2285, 2301, 2305, 2308, 2311, 2316, 2332, 2334, 2355, 2356, 2359, 2361, 2363, 2370, 2391, 2392]
+
+TOPIC: Technology (basic)
+MUST_DELETE:
+- ID 2403 — exact duplicate phrase of ID 276 ("turn on")
+- ID 2429 — exact duplicate phrase of ID 280 ("plug in")
+- ID 2490 — exact duplicate phrase of ID 1689 ("turn up")
+- ID 2530 — exact duplicate phrase of ID 232 ("empty the trash")
+- ID 2536 — exact duplicate phrase of ID 381 ("set an alarm")
+
+REVIEW_FIRST:
+- ID 2414 — near-duplicate of ID 83 ("charge my phone")
+- ID 2454 — single-word exact duplicate of ID 1719 ("text")
+- ID 2455 — single-word exact duplicate of ID 1701 ("call")
+- ID 2456 — single-word exact duplicate of ID 1304 ("camera")
+- ID 2459 — single-word exact duplicate of ID 2056 ("email")
+- ID 2498 — single-word exact duplicate of ID 990 ("shortcut")
+- ID 2503 — single-word exact duplicate of ID 1703 ("game")
+- ID 2504 — single-word exact duplicate of ID 1673 ("message")
+- ID 2505 — single-word exact duplicate of ID 1758 ("send")
+- ID 2507 — single-word exact duplicate of ID 1702 ("play")
+- ID 2508 — single-word exact duplicate of ID 955 ("stop")
+- ID 2520 — single-word exact duplicate of ID 1718 ("reply")
+- ID 2521 — single-word exact duplicate of ID 1709 ("share")
+
+FINAL_MUST_DELETE_IDS:
+[2403, 2429, 2490, 2530, 2536]
+
+FINAL_REVIEW_IDS:
+[2414, 2454, 2455, 2456, 2459, 2498, 2503, 2504, 2505, 2507, 2508, 2520, 2521]
+
+TOPIC: Media & Internet
+MUST_DELETE:
+- ID 2564 — exact duplicate phrase of ID 23 ("chat with friends")
+- ID 2567 — exact duplicate phrase of ID 76 ("read the news")
+- ID 2570 — exact duplicate phrase of ID 2413 ("download an app")
+- ID 2574 — exact duplicate phrase of ID 2469 ("profile picture")
+- ID 2575 — exact duplicate phrase of ID 2415 ("log in")
+- ID 2577 — exact duplicate phrase of ID 2467 ("scroll down")
+- ID 2614 — exact duplicate phrase of ID 2480 ("group chat")
+- ID 2666 — exact duplicate phrase of ID 2516 ("log out")
+- ID 2672 — exact duplicate phrase of ID 2477 ("scroll up")
+- ID 2683 — exact duplicate phrase of ID 1678 ("keep in touch")
+- ID 2693 — exact duplicate phrase of ID 2085 ("spread rumors")
+
+REVIEW_FIRST:
+- ID 2551 — single-word exact duplicate of ID 2474 ("online")
+- ID 2553 — single-word exact duplicate of ID 1673 ("message")
+- ID 2554 — single-word exact duplicate of ID 2457 ("video")
+- ID 2555 — single-word exact duplicate of ID 1257 ("photo")
+- ID 2556 — single-word exact duplicate of ID 2056 ("email")
+- ID 2557 — single-word exact duplicate of ID 2470 ("search")
+- ID 2558 — single-word exact duplicate of ID 2412 ("password")
+- ID 2559 — single-word exact duplicate of ID 2476 ("link")
+- ID 2561 — single-word exact duplicate of ID 2502 ("post")
+- ID 2566 — near-duplicate of ID 119 ("check emails")
+- ID 2591 — single-word exact duplicate of ID 448 ("binge-watch")
+- ID 2601 — single-word exact duplicate of ID 2533 ("account")
+- ID 2686 — near-duplicate of ID 1980 ("mention someone")
+
+FINAL_MUST_DELETE_IDS:
+[2564, 2567, 2570, 2574, 2575, 2577, 2614, 2666, 2672, 2683, 2693]
+
+FINAL_REVIEW_IDS:
+[2551, 2553, 2554, 2555, 2556, 2557, 2558, 2559, 2561, 2566, 2591, 2601, 2686]
+
+TOPIC: Work & Career
+MUST_DELETE:
+- ID 2720 — exact duplicate phrase of ID 73 ("take a break")
+- ID 2734 — exact duplicate phrase of ID 536 ("day off")
+- ID 2743 — exact duplicate phrase of ID 88 ("call it a day")
+- ID 2746 — exact duplicate phrase of ID 572 ("clock in")
+- ID 2756 — obvious machine-generated template ("plan")
+- ID 2792 — exact duplicate phrase of ID 1699 ("touch base")
+- ID 2798 — exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2818 — exact duplicate phrase of ID 863 ("customer service")
+- ID 2820 — exact duplicate phrase of ID 323 ("on time")
+
+REVIEW_FIRST:
+- ID 2705 — single-word exact duplicate of ID 2302 ("desk")
+- ID 2707 — single-word exact duplicate of ID 358 ("busy")
+- ID 2708 — single-word exact duplicate of ID 1730 ("company")
+- ID 2710 — single-word exact duplicate of ID 757 ("pay")
+- ID 2712 — single-word exact duplicate of ID 1760 ("team")
+- ID 2713 — single-word exact duplicate of ID 1764 ("colleague")
+- ID 2717 — possible template issue ("manager")
+- ID 2732 — single-word exact duplicate of ID 482 ("deadline")
+- ID 2740 — single-word exact duplicate of ID 535 ("shift")
+- ID 2751 — single-word exact duplicate of ID 2360 ("computer")
+- ID 2752 — single-word exact duplicate of ID 2056 ("email")
+- ID 2753 — single-word exact duplicate of ID 1701 ("call")
+- ID 2755 — single-word exact duplicate of ID 1673 ("message")
+- ID 2757 — single-word exact duplicate of ID 1660 ("talk")
+- ID 2758 — single-word exact duplicate of ID 858 ("help")
+- ID 2759 — single-word exact duplicate of ID 755 ("shop")
+- ID 2762 — single-word exact duplicate of ID 1117 ("rest")
+- ID 2764 — single-word exact duplicate of ID 516 ("schedule")
+- ID 2767 — single-word exact duplicate of ID 761 ("customer")
+- ID 2769 — single-word exact duplicate of ID 1253 ("train")
+- ID 2772 — single-word exact duplicate of ID 2468 ("print")
+- ID 2774 — single-word exact duplicate of ID 2322 ("project")
+- ID 2775 — single-word exact duplicate of ID 1753 ("join")
+- ID 2776 — single-word exact duplicate of ID 310 ("late")
+- ID 2777 — possible template issue ("deal with")
+- ID 2782 — single-word exact duplicate of ID 2284 ("presentation")
+- ID 2801 — single-word exact duplicate of ID 1111 ("hospital")
+- ID 2805 — single-word exact duplicate of ID 2057 ("letter")
+- ID 2806 — single-word exact duplicate of ID 1758 ("send")
+- ID 2807 — single-word exact duplicate of ID 1958 ("answer")
+- ID 2808 — single-word exact duplicate of ID 775 ("sell")
+- ID 2809 — single-word exact duplicate of ID 910 ("driver")
+- ID 2810 — single-word exact duplicate of ID 1112 ("nurse")
+- ID 2812 — single-word exact duplicate of ID 802 ("money")
+- ID 2816 — single-word exact duplicate of ID 1013 ("sign")
+- ID 2817 — single-word exact duplicate of ID 2366 ("copy")
+- ID 2821 — single-word exact duplicate of ID 2271 ("absent")
+- ID 2837 — single-word exact duplicate of ID 28 ("commute")
+
+FINAL_MUST_DELETE_IDS:
+[2720, 2734, 2743, 2746, 2756, 2792, 2798, 2818, 2820]
+
+FINAL_REVIEW_IDS:
+[2705, 2707, 2708, 2710, 2712, 2713, 2717, 2732, 2740, 2751, 2752, 2753, 2755, 2757, 2758, 2759, 2762, 2764, 2767, 2769, 2772, 2774, 2775, 2776, 2777, 2782, 2801, 2805, 2806, 2807, 2808, 2809, 2810, 2812, 2816, 2817, 2821, 2837]
+
+TOPIC: Business Communication
+MUST_DELETE:
+- ID 2854 — exact duplicate phrase of ID 1976 ("call back")
+- ID 2863 — exact duplicate phrase of ID 1684 ("let me know")
+- ID 2882 — exact duplicate phrase of ID 1738 ("look forward to")
+- ID 2887 — exact duplicate phrase of ID 2739 ("in charge of")
+- ID 2891 — exact duplicate phrase of ID 2040 ("get back to")
+- ID 2893 — exact duplicate phrase of ID 1796 ("on the same page")
+- ID 2894 — exact duplicate phrase of ID 1699 ("touch base")
+- ID 2897 — exact duplicate phrase of ID 1543 ("bring up")
+- ID 2900 — exact duplicate phrase of ID 544 ("wrap up")
+- ID 2908 — obvious machine-generated template ("plan")
+- ID 2938 — exact duplicate phrase of ID 2035 ("figure out")
+- ID 2939 — exact duplicate phrase of ID 1983 ("point out")
+- ID 2942 — exact duplicate phrase of ID 332 ("put off")
+- ID 2949 — exact duplicate phrase of ID 2738 ("take over")
+- ID 2973 — exact duplicate phrase of ID 323 ("on time")
+- ID 2976 — exact duplicate phrase of ID 2063 ("hold on")
+- ID 2982 — exact duplicate phrase of ID 2778 ("human resources")
+- ID 2989 — exact duplicate phrase of ID 1777 ("get in touch")
+- ID 2990 — exact duplicate phrase of ID 1181 ("make an appointment")
+- ID 2991 — exact duplicate phrase of ID 1995 ("get straight to the point")
+- ID 3000 — exact duplicate phrase of ID 88 ("call it a day")
+
+REVIEW_FIRST:
+- ID 2851 — single-word exact duplicate of ID 2056 ("email")
+- ID 2852 — single-word exact duplicate of ID 2711 ("meeting")
+- ID 2853 — single-word exact duplicate of ID 1718 ("reply")
+- ID 2856 — single-word exact duplicate of ID 1758 ("send")
+- ID 2857 — single-word exact duplicate of ID 2717 ("manager")
+- ID 2858 — single-word exact duplicate of ID 2702 ("office")
+- ID 2859 — single-word exact duplicate of ID 358 ("busy")
+- ID 2860 — single-word exact duplicate of ID 2474 ("online")
+- ID 2861 — single-word exact duplicate of ID 2310 ("question")
+- ID 2862 — single-word exact duplicate of ID 1660 ("talk")
+- ID 2866 — single-word exact duplicate of ID 516 ("schedule")
+- ID 2867 — single-word exact duplicate of ID 478 ("available")
+- ID 2873 — single-word exact duplicate of ID 2773 ("note")
+- ID 2874 — single-word exact duplicate of ID 2815 ("document")
+- ID 2875 — single-word exact duplicate of ID 1962 ("agree")
+- ID 2876 — single-word exact duplicate of ID 2722 ("report")
+- ID 2878 — single-word exact duplicate of ID 482 ("deadline")
+- ID 2879 — single-word exact duplicate of ID 2833 ("agenda")
+- ID 2880 — single-word exact duplicate of ID 577 ("reschedule")
+- ID 2883 — single-word exact duplicate of ID 486 ("postpone")
+- ID 2886 — single-word exact duplicate of ID 2781 ("feedback")
+- ID 2889 — single-word exact duplicate of ID 1683 ("cancel")
+- ID 2895 — single-word exact duplicate of ID 1985 ("clarify")
+- ID 2896 — single-word exact duplicate of ID 542 ("tentative")
+- ID 2901 — single-word exact duplicate of ID 2704 ("boss")
+- ID 2902 — single-word exact duplicate of ID 1730 ("company")
+- ID 2903 — single-word exact duplicate of ID 2701 ("job")
+- ID 2904 — single-word exact duplicate of ID 2703 ("work")
+- ID 2905 — single-word exact duplicate of ID 858 ("help")
+- ID 2906 — single-word exact duplicate of ID 1760 ("team")
+- ID 2910 — single-word exact duplicate of ID 2010 ("read")
+- ID 2911 — single-word exact duplicate of ID 2011 ("write")
+- ID 2912 — single-word exact duplicate of ID 2302 ("desk")
+- ID 2914 — single-word exact duplicate of ID 1658 ("invite")
+- ID 2915 — single-word exact duplicate of ID 1753 ("join")
+- ID 2916 — single-word exact duplicate of ID 1709 ("share")
+- ID 2917 — single-word exact duplicate of ID 1957 ("ask")
+- ID 2918 — single-word exact duplicate of ID 1959 ("tell")
+- ID 2921 — single-word exact duplicate of ID 1764 ("colleague")
+- ID 2923 — single-word exact duplicate of ID 2723 ("client")
+- ID 2924 — single-word exact duplicate of ID 2754 ("staff")
+- ID 2925 — single-word exact duplicate of ID 1013 ("sign")
+- ID 2926 — single-word exact duplicate of ID 2366 ("copy")
+- ID 2927 — single-word exact duplicate of ID 2431 ("update")
+- ID 2928 — single-word exact duplicate of ID 529 ("delay")
+- ID 2929 — single-word exact duplicate of ID 2271 ("absent")
+- ID 2932 — single-word exact duplicate of ID 2387 ("draft")
+- ID 2934 — single-word exact duplicate of ID 2789 ("organize")
+- ID 2945 — single-word exact duplicate of ID 2846 ("brainstorm")
+- ID 2951 — single-word exact duplicate of ID 2771 ("file")
+- ID 2952 — single-word exact duplicate of ID 2761 ("room")
+- ID 2953 — single-word exact duplicate of ID 2706 ("break")
+- ID 2955 — single-word exact duplicate of ID 756 ("price")
+- ID 2956 — single-word exact duplicate of ID 757 ("pay")
+- ID 2957 — single-word exact duplicate of ID 751 ("buy")
+- ID 2958 — single-word exact duplicate of ID 775 ("sell")
+- ID 2959 — single-word exact duplicate of ID 814 ("cost")
+- ID 2960 — single-word exact duplicate of ID 803 ("open")
+- ID 2963 — single-word exact duplicate of ID 2322 ("project")
+- ID 2966 — single-word exact duplicate of ID 761 ("customer")
+- ID 2968 — single-word exact duplicate of ID 725 ("bill")
+- ID 2969 — single-word exact duplicate of ID 769 ("receipt")
+- ID 2970 — single-word exact duplicate of ID 2468 ("print")
+- ID 2974 — single-word exact duplicate of ID 310 ("late")
+- ID 2975 — single-word exact duplicate of ID 309 ("early")
+- ID 2978 — single-word exact duplicate of ID 2783 ("contract")
+- ID 2980 — single-word exact duplicate of ID 2284 ("presentation")
+- ID 2985 — single-word exact duplicate of ID 1285 ("budget")
+- ID 2988 — single-word exact duplicate of ID 2335 ("summarize")
+
+FINAL_MUST_DELETE_IDS:
+[2854, 2863, 2882, 2887, 2891, 2893, 2894, 2897, 2900, 2908, 2938, 2939, 2942, 2949, 2973, 2976, 2982, 2989, 2990, 2991, 3000]
+
+FINAL_REVIEW_IDS:
+[2851, 2852, 2853, 2856, 2857, 2858, 2859, 2860, 2861, 2862, 2866, 2867, 2873, 2874, 2875, 2876, 2878, 2879, 2880, 2883, 2886, 2889, 2895, 2896, 2901, 2902, 2903, 2904, 2905, 2906, 2910, 2911, 2912, 2914, 2915, 2916, 2917, 2918, 2921, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2932, 2934, 2945, 2951, 2952, 2953, 2955, 2956, 2957, 2958, 2959, 2960, 2963, 2966, 2968, 2969, 2970, 2974, 2975, 2978, 2980, 2985, 2988]
+
+GLOBAL_REGEN_PRIORITY:
+- Daily Life — Has 1 MUST_DELETE items to replace.
+- Home & Household — Has 2 MUST_DELETE items to replace.
+- Personal Habits — Has 3 MUST_DELETE items to replace.
+- Time & Schedules — Topic gen count is 200 instead of 150. Has 57 MUST_DELETE items to replace.
+- Food & Cooking — Has 11 MUST_DELETE items to replace.
+- Health & Fitness — Has 4 MUST_DELETE items to replace.
+- Travel — Has 4 MUST_DELETE items to replace.
+- Weather — Topic gen count is 200 instead of 150. Has 50 MUST_DELETE items to replace.
+- Family & Relationships — Has 7 MUST_DELETE items to replace.
+- Friends & Social Life — Has 14 MUST_DELETE items to replace.
+- Emotions & Feelings — Has 3 MUST_DELETE items to replace.
+- Communication — Has 11 MUST_DELETE items to replace.
+- Entertainment — Has 10 MUST_DELETE items to replace.
+- Education — Has 7 MUST_DELETE items to replace.
+- Technology (basic) — Has 5 MUST_DELETE items to replace.
+- Media & Internet — Has 11 MUST_DELETE items to replace.
+- Work & Career — Has 9 MUST_DELETE items to replace.
+- Business Communication — Has 21 MUST_DELETE items to replace.
+

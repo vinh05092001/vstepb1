@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "Daily Life",
+    "idStart": 1,
+    "idEnd": 150,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 151,
+    "status": "completed"
+  },
+  {
+    "topic": "Home & Household",
+    "idStart": 151,
+    "idEnd": 300,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 301,
+    "status": "completed"
+  },
+  {
+    "topic": "Personal Habits",
+    "idStart": 301,
+    "idEnd": 450,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 451,
+    "status": "completed"
+  },
+  {
+    "topic": "Time & Schedules",
+    "idStart": 451,
+    "idEnd": 600,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 601,
+    "status": "completed"
+  },
+  {
+    "topic": "Food & Cooking",
+    "idStart": 601,
+    "idEnd": 750,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 751,
+    "status": "completed"
+  },
+  {
+    "topic": "Shopping",
+    "idStart": 751,
+    "idEnd": 900,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 901,
+    "status": "completed"
+  },
+  {
+    "topic": "Transportation",
+    "idStart": 901,
+    "idEnd": 1050,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1051,
+    "status": "completed"
+  },
+  {
+    "topic": "Health & Fitness",
+    "idStart": 1051,
+    "idEnd": 1200,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1201,
+    "status": "completed"
+  },
+  {
+    "topic": "Travel",
+    "idStart": 1201,
+    "idEnd": 1350,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1351,
+    "status": "completed"
+  },
+  {
+    "topic": "Weather",
+    "idStart": 1351,
+    "idEnd": 1500,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1501,
+    "status": "completed"
+  },
+  {
+    "topic": "Family & Relationships",
+    "idStart": 1501,
+    "idEnd": 1650,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1651,
+    "status": "completed"
+  },
+  {
+    "topic": "Friends & Social Life",
+    "idStart": 1651,
+    "idEnd": 1800,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1801,
+    "status": "completed"
+  },
+  {
+    "topic": "Emotions & Feelings",
+    "idStart": 1801,
+    "idEnd": 1950,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 1951,
+    "status": "completed"
+  },
+  {
+    "topic": "Communication",
+    "idStart": 1951,
+    "idEnd": 2100,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2101,
+    "status": "completed"
+  },
+  {
+    "topic": "Entertainment",
+    "idStart": 2101,
+    "idEnd": 2250,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2251,
+    "status": "completed"
+  },
+  {
+    "topic": "Education",
+    "idStart": 2251,
+    "idEnd": 2400,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2401,
+    "status": "completed"
+  },
+  {
+    "topic": "Technology (basic)",
+    "idStart": 2401,
+    "idEnd": 2550,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2551,
+    "status": "completed"
+  },
+  {
+    "topic": "Media & Internet",
+    "idStart": 2551,
+    "idEnd": 2700,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2701,
+    "status": "completed"
+  },
+  {
+    "topic": "Work & Career",
+    "idStart": 2701,
+    "idEnd": 2850,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 2851,
+    "status": "completed"
+  },
+  {
+    "topic": "Business Communication",
+    "idStart": 2851,
+    "idEnd": 3000,
+    "targetCount": 150,
+    "currentCount": 150,
+    "nextId": 3001,
+    "status": "completed"
+  }
+]

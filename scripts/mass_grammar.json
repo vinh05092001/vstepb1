@@ -1,0 +1,250 @@
+[
+  {
+    "pattern": "Could you please + V...?",
+    "category": "Sentence Frames",
+    "category_vi": "Cấu trúc câu cố định",
+    "level": "A2",
+    "example": "Could you please open the window?",
+    "explanation_vi": "Cấu trúc dùng để yêu cầu ai đó làm gì một cách lịch sự."
+  },
+  {
+    "pattern": "I prefer + N/V-ing...",
+    "category": "Sentence Frames",
+    "category_vi": "Cấu trúc câu cố định",
+    "level": "A2",
+    "example": "I prefer reading books to watching movies.",
+    "explanation_vi": "Cấu trúc dùng để diễn tả sở thích hoặc sự ưa thích hơn giữa hai lựa chọn."
+  },
+  {
+    "pattern": "Because + clause",
+    "category": "Connectors",
+    "category_vi": "Từ nối",
+    "level": "A2",
+    "example": "I stayed at home because it was raining.",
+    "explanation_vi": "Cấu trúc dùng để giải thích lý do hoặc nguyên nhân."
+  },
+  {
+    "pattern": "So + clause",
+    "category": "Connectors",
+    "category_vi": "Từ nối",
+    "level": "A2",
+    "example": "It was very late, so I decided to go to bed.",
+    "explanation_vi": "Cấu trúc dùng để chỉ kết quả của một hành động hoặc tình huống."
+  },
+  {
+    "pattern": "Would you mind + V-ing...?",
+    "category": "Grammar Structures",
+    "category_vi": "Cấu trúc ngữ pháp cơ bản",
+    "level": "A2",
+    "example": "Would you mind opening the window?",
+    "explanation_vi": "Cấu trúc dùng để yêu cầu ai đó làm gì một cách lịch sự."
+  },
+  {
+    "pattern": "It’s + adj + to + V...",
+    "category": "Grammar Structures",
+    "category_vi": "Cấu trúc ngữ pháp cơ bản",
+    "level": "A2",
+    "example": "It’s easy to understand this chapter.",
+    "explanation_vi": "Cấu trúc dùng để diễn đạt một lời nhận xét hoặc đánh giá về một hành động nào đó."
+  },
+  {
+    "pattern": "There are + [a few / many / some] + plural noun.",
+    "category": "Quantifiers",
+    "category_vi": "Lượng từ",
+    "level": "A2",
+    "example": "There are a few apples left in the basket.",
+    "explanation_vi": "Cấu trúc dùng để mô tả số lượng ít, nhiều hoặc một vài của danh từ số nhiều."
+  },
+  {
+    "pattern": "There is + [a little / much / some] + uncountable noun.",
+    "category": "Quantifiers",
+    "category_vi": "Lượng từ",
+    "level": "A2",
+    "example": "There is some water in the glass.",
+    "explanation_vi": "Cấu trúc dùng để mô tả số lượng ít, nhiều hoặc một ít của danh từ không đếm được."
+  },
+  {
+    "pattern": "A is + adjective-er + than B.",
+    "category": "Comparatives",
+    "category_vi": "So sánh hơn / nhất",
+    "level": "A2",
+    "example": "This book is cheaper than that one.",
+    "explanation_vi": "Cấu trúc sử dụng để so sánh hơn giữa hai đối tượng, thêm '-er' vào sau tính từ ngắn và dùng 'than' để nối."
+  },
+  {
+    "pattern": "A is the + adjective-est.",
+    "category": "Comparatives",
+    "category_vi": "So sánh hơn / nhất",
+    "level": "A2",
+    "example": "She is the fastest runner in our class.",
+    "explanation_vi": "Cấu trúc sử dụng để so sánh nhất, thêm '-est' vào sau tính từ ngắn để diễn tả đối tượng ở mức độ cao nhất."
+  },
+  {
+    "pattern": "This is the + noun + that/who/which + verb...",
+    "category": "Relative Clauses",
+    "category_vi": "Mệnh đề quan hệ",
+    "level": "A2",
+    "example": "This is the book that I borrowed from the library.",
+    "explanation_vi": "Cấu trúc dùng để giới thiệu hoặc mô tả một danh từ bằng cách thêm thông tin về nó."
+  },
+  {
+    "pattern": "The + noun + who/that + verb...",
+    "category": "Relative Clauses",
+    "category_vi": "Mệnh đề quan hệ",
+    "level": "A2",
+    "example": "The teacher who taught me English is very kind.",
+    "explanation_vi": "Cấu trúc sử dụng 'who' hoặc 'that' để bổ sung thông tin về một người hoặc vật được nhắc đến trước đó."
+  },
+  {
+    "pattern": "If + subject + present simple, subject + will + base verb.",
+    "category": "Conditionals",
+    "category_vi": "Câu điều kiện",
+    "level": "A2",
+    "example": "If it rains, we will stay at home.",
+    "explanation_vi": "Cấu trúc câu điều kiện loại 1 được sử dụng để nói về những tình huống có thể xảy ra ở hiện tại hoặc tương lai."
+  },
+  {
+    "pattern": "If + subject + past simple, subject + would + base verb.",
+    "category": "Conditionals",
+    "category_vi": "Câu điều kiện",
+    "level": "A2",
+    "example": "If I had a car, I would drive to work.",
+    "explanation_vi": "Cấu trúc câu điều kiện loại 2 được sử dụng để nói về những tình huống không có thật hoặc khó xảy ra ở hiện tại."
+  },
+  {
+    "pattern": "S + to be + V3/ed + (by O)",
+    "category": "Passive Voice",
+    "category_vi": "Câu bị động",
+    "level": "A2",
+    "example": "The homework is done by the students.",
+    "explanation_vi": "Cấu trúc dùng để diễn tả hành động được thực hiện bởi một chủ thể khác."
+  },
+  {
+    "pattern": "Modal verb + be + V3/ed",
+    "category": "Passive Voice",
+    "category_vi": "Câu bị động",
+    "level": "A2",
+    "example": "The room must be cleaned before 5 PM.",
+    "explanation_vi": "Cấu trúc dùng để diễn tả hành động bị động với động từ khuyết thiếu."
+  },
+  {
+    "pattern": "Can you + base verb...?",
+    "category": "Modal Verbs",
+    "category_vi": "Động từ khuyết thiếu",
+    "level": "B1-core",
+    "example": "Can you explain this question to me?",
+    "explanation_vi": "Cấu trúc dùng để yêu cầu hoặc nhờ ai đó làm gì một cách lịch sự."
+  },
+  {
+    "pattern": "Should we + base verb...?",
+    "category": "Modal Verbs",
+    "category_vi": "Động từ khuyết thiếu",
+    "level": "B1-core",
+    "example": "Should we call her to confirm the meeting?",
+    "explanation_vi": "Cấu trúc dùng để đưa ra hoặc hỏi ý kiến về một lời đề xuất hoặc ý tưởng."
+  },
+  {
+    "pattern": "You must + base verb...",
+    "category": "Modal Verbs",
+    "category_vi": "Động từ khuyết thiếu",
+    "level": "B1-core",
+    "example": "You must finish your assignment before the deadline.",
+    "explanation_vi": "Cấu trúc dùng để diễn đạt sự bắt buộc hoặc yêu cầu mạnh mẽ."
+  },
+  {
+    "pattern": "He said (that) + subject + verb (in past tense)...",
+    "category": "Reported Speech",
+    "category_vi": "Câu tường thuật",
+    "level": "B1-core",
+    "example": "He said that he was feeling tired.",
+    "explanation_vi": "Cấu trúc dùng để tường thuật lại một câu nói ở thì quá khứ, giữ nguyên ý nhưng thay đổi thì của động từ."
+  },
+  {
+    "pattern": "She asked + if/whether + subject + verb...",
+    "category": "Reported Speech",
+    "category_vi": "Câu tường thuật",
+    "level": "B1-core",
+    "example": "She asked if I wanted to join the meeting.",
+    "explanation_vi": "Cấu trúc dùng để tường thuật lại một câu hỏi Yes/No, sử dụng 'if' hoặc 'whether' để nối."
+  },
+  {
+    "pattern": "They told + object + to + base verb...",
+    "category": "Reported Speech",
+    "category_vi": "Câu tường thuật",
+    "level": "B1-core",
+    "example": "They told me to finish the project by Friday.",
+    "explanation_vi": "Cấu trúc dùng để tường thuật lại một mệnh lệnh hoặc yêu cầu của ai đó."
+  },
+  {
+    "pattern": "It's high time + subject + past tense verb...",
+    "category": "Sentence Frames",
+    "category_vi": "Cấu trúc câu cố định",
+    "level": "B1-advanced",
+    "example": "It's high time we started preparing for the exam.",
+    "explanation_vi": "Cấu trúc này được dùng để diễn tả rằng đã đến lúc ai đó phải làm gì."
+  },
+  {
+    "pattern": "Not only ... but also ...",
+    "category": "Connectors",
+    "category_vi": "Từ nối",
+    "level": "B1-advanced",
+    "example": "Not only did she finish the project on time, but she also exceeded our expectations.",
+    "explanation_vi": "Cấu trúc dùng để nhấn mạnh hai ý quan trọng, cả hai đều đúng hoặc quan trọng như nhau."
+  },
+  {
+    "pattern": "It's (high) time + subject + past verb...",
+    "category": "Grammar Structures",
+    "category_vi": "Cấu trúc ngữ pháp cơ bản",
+    "level": "B1-advanced",
+    "example": "It's high time we started preparing for the presentation.",
+    "explanation_vi": "Cấu trúc dùng để nói rằng đã đến lúc làm điều gì đó, thường mang ý nghĩa rằng việc này đã bị trì hoãn."
+  },
+  {
+    "pattern": "Not as many/much + noun + as...",
+    "category": "Quantifiers",
+    "category_vi": "Lượng từ",
+    "level": "B1-advanced",
+    "example": "There are not as many participants as we expected.",
+    "explanation_vi": "Cấu trúc dùng để so sánh số lượng hoặc mức độ của sự vật, hiện tượng ít hơn so với mong đợi."
+  },
+  {
+    "pattern": "The more + S + V, the more + S + V",
+    "category": "Comparatives",
+    "category_vi": "So sánh hơn / nhất",
+    "level": "B1-advanced",
+    "example": "The more you practice speaking, the more confident you will become.",
+    "explanation_vi": "Cấu trúc dùng để diễn đạt mối quan hệ tỷ lệ thuận giữa hai hành động hoặc trạng thái."
+  },
+  {
+    "pattern": "The person who/that + V... is...",
+    "category": "Relative Clauses",
+    "category_vi": "Mệnh đề quan hệ",
+    "level": "B1-advanced",
+    "example": "The person who helped me yesterday is my neighbor.",
+    "explanation_vi": "Cấu trúc này dùng để mô tả hoặc xác định người cụ thể dựa trên hành động mà họ thực hiện."
+  },
+  {
+    "pattern": "It is said that + S + V...",
+    "category": "Passive Voice",
+    "category_vi": "Câu bị động",
+    "level": "B2",
+    "example": "It is said that she speaks five languages fluently.",
+    "explanation_vi": "Cấu trúc bị động dùng để diễn tả thông tin được cho là đúng hoặc phổ biến, thường được dùng trong nói và viết học thuật."
+  },
+  {
+    "pattern": "It might be + adjective + to + V...",
+    "category": "Modal Verbs",
+    "category_vi": "Động từ khuyết thiếu",
+    "level": "B2",
+    "example": "It might be helpful to review the guidelines before starting the project.",
+    "explanation_vi": "Cấu trúc dùng để diễn đạt khả năng hoặc sự cần thiết một cách lịch sự và mang tính suy đoán."
+  },
+  {
+    "pattern": "Subject + said (that) + S + V (in the past tense)",
+    "category": "Reported Speech",
+    "category_vi": "Câu tường thuật",
+    "level": "B2",
+    "example": "She said that she had completed the project.",
+    "explanation_vi": "Cấu trúc dùng để thuật lại lời nói của ai đó, động từ trong mệnh đề được lùi thì."
+  }
+]

@@ -1,0 +1,25 @@
+{"batchId":"batch-1773282335926","topic":"Daily Life","requested":20,"accepted":20,"rejected":1,"idRange":{"start":1,"end":20},"timestamp":"2026-03-12T02:25:35.926Z","status":"committed"}
+{"batchId":"batch-1773282355416","topic":"Daily Life","requested":130,"accepted":130,"rejected":1,"idRange":{"start":21,"end":150},"timestamp":"2026-03-12T02:25:55.416Z","status":"committed"}
+{"batchId":"batch-1773282355435","topic":"Home & Household","requested":150,"accepted":150,"rejected":1,"idRange":{"start":151,"end":300},"timestamp":"2026-03-12T02:25:55.435Z","status":"committed"}
+{"batchId":"batch-1773282355467","topic":"Personal Habits","requested":150,"accepted":150,"rejected":4,"idRange":{"start":301,"end":450},"timestamp":"2026-03-12T02:25:55.467Z","status":"committed"}
+{"batchId":"batch-1773282355500","topic":"Time & Schedules","requested":150,"accepted":150,"rejected":1,"idRange":{"start":451,"end":600},"timestamp":"2026-03-12T02:25:55.500Z","status":"committed"}
+{"batchId":"batch-1773282355539","topic":"Food & Cooking","requested":150,"accepted":150,"rejected":3,"idRange":{"start":601,"end":750},"timestamp":"2026-03-12T02:25:55.539Z","status":"committed"}
+{"batchId":"batch-1773282355584","topic":"Shopping","requested":150,"accepted":150,"rejected":2,"idRange":{"start":751,"end":900},"timestamp":"2026-03-12T02:25:55.584Z","status":"committed"}
+{"batchId":"batch-1773282355637","topic":"Transportation","requested":150,"accepted":150,"rejected":2,"idRange":{"start":901,"end":1050},"timestamp":"2026-03-12T02:25:55.637Z","status":"committed"}
+{"batchId":"batch-1773282355703","topic":"Health & Fitness","requested":150,"accepted":150,"rejected":0,"idRange":{"start":1051,"end":1200},"timestamp":"2026-03-12T02:25:55.703Z","status":"committed"}
+{"batchId":"batch-1773282355771","topic":"Travel","requested":150,"accepted":150,"rejected":2,"idRange":{"start":1201,"end":1350},"timestamp":"2026-03-12T02:25:55.771Z","status":"committed"}
+{"batchId":"batch-1773282355846","topic":"Weather","requested":150,"accepted":141,"rejected":3,"idRange":{"start":1351,"end":1491},"timestamp":"2026-03-12T02:25:55.846Z","status":"committed"}
+{"batchId":"failed-1773282355870","topic":"Weather","requested":9,"accepted":0,"rejected":3,"timestamp":"2026-03-12T02:25:55.870Z","status":"failed"}
+{"batchId":"batch-1773282419241","topic":"Weather","requested":9,"accepted":9,"rejected":0,"idRange":{"start":1492,"end":1500},"timestamp":"2026-03-12T02:26:59.241Z","status":"committed"}
+{"batchId":"batch-1773282432939","topic":"Family & Relationships","requested":150,"accepted":150,"rejected":0,"idRange":{"start":1501,"end":1650},"timestamp":"2026-03-12T02:27:12.939Z","status":"committed"}
+{"batchId":"batch-1773282433037","topic":"Friends & Social Life","requested":150,"accepted":150,"rejected":0,"idRange":{"start":1651,"end":1800},"timestamp":"2026-03-12T02:27:13.037Z","status":"committed"}
+{"batchId":"batch-1773282433136","topic":"Emotions & Feelings","requested":150,"accepted":150,"rejected":0,"idRange":{"start":1801,"end":1950},"timestamp":"2026-03-12T02:27:13.136Z","status":"committed"}
+{"batchId":"batch-1773282433248","topic":"Communication","requested":150,"accepted":150,"rejected":0,"idRange":{"start":1951,"end":2100},"timestamp":"2026-03-12T02:27:13.248Z","status":"committed"}
+{"batchId":"batch-1773282433373","topic":"Entertainment","requested":150,"accepted":150,"rejected":0,"idRange":{"start":2101,"end":2250},"timestamp":"2026-03-12T02:27:13.373Z","status":"committed"}
+{"batchId":"batch-1773282433494","topic":"Education","requested":150,"accepted":141,"rejected":0,"idRange":{"start":2251,"end":2391},"timestamp":"2026-03-12T02:27:13.494Z","status":"committed"}
+{"batchId":"failed-1773282433527","topic":"Education","requested":9,"accepted":0,"rejected":0,"timestamp":"2026-03-12T02:27:13.527Z","status":"failed"}
+{"batchId":"batch-1773282488054","topic":"Education","requested":9,"accepted":9,"rejected":0,"idRange":{"start":2392,"end":2400},"timestamp":"2026-03-12T02:28:08.054Z","status":"committed"}
+{"batchId":"batch-1773282489083","topic":"Technology (basic)","requested":150,"accepted":150,"rejected":0,"idRange":{"start":2401,"end":2550},"timestamp":"2026-03-12T02:28:09.083Z","status":"committed"}
+{"batchId":"batch-1773282489232","topic":"Media & Internet","requested":150,"accepted":150,"rejected":0,"idRange":{"start":2551,"end":2700},"timestamp":"2026-03-12T02:28:09.232Z","status":"committed"}
+{"batchId":"batch-1773282489390","topic":"Work & Career","requested":150,"accepted":150,"rejected":0,"idRange":{"start":2701,"end":2850},"timestamp":"2026-03-12T02:28:09.390Z","status":"committed"}
+{"batchId":"batch-1773282489563","topic":"Business Communication","requested":150,"accepted":150,"rejected":0,"idRange":{"start":2851,"end":3000},"timestamp":"2026-03-12T02:28:09.563Z","status":"committed"}

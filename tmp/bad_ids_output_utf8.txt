@@ -1,0 +1,72 @@
+﻿A. BAD_IDS_BY_CATEGORY
+
+STRUCTURE_ERROR:
+- Index 100 ΓÇö missing ID
+- Index 101 ΓÇö missing ID
+- Index 102 ΓÇö missing ID
+- Index 103 ΓÇö missing ID
+- Index 104 ΓÇö missing ID
+- Index 105 ΓÇö missing ID
+- Index 106 ΓÇö missing ID
+- Index 107 ΓÇö missing ID
+- Index 108 ΓÇö missing ID
+- Index 109 ΓÇö missing ID
+- Index 110 ΓÇö missing ID
+- Index 111 ΓÇö missing ID
+- Index 112 ΓÇö missing ID
+- Index 113 ΓÇö missing ID
+- Index 114 ΓÇö missing ID
+- Index 115 ΓÇö missing ID
+- Index 116 ΓÇö missing ID
+- Index 117 ΓÇö missing ID
+- Index 118 ΓÇö missing ID
+- Index 119 ΓÇö missing ID
+- Index 120 ΓÇö missing ID
+- Index 121 ΓÇö missing ID
+- Index 122 ΓÇö missing ID
+- Index 123 ΓÇö missing ID
+- Index 124 ΓÇö missing ID
+- Index 125 ΓÇö missing ID
+- Index 126 ΓÇö missing ID
+- Index 127 ΓÇö missing ID
+- Index 128 ΓÇö missing ID
+- Index 129 ΓÇö missing ID
+- Index 130 ΓÇö missing ID
+- Index 131 ΓÇö missing ID
+- Index 132 ΓÇö missing ID
+- Index 133 ΓÇö missing ID
+- Index 134 ΓÇö missing ID
+- Index 135 ΓÇö missing ID
+- Index 136 ΓÇö missing ID
+- Index 137 ΓÇö missing ID
+- Index 138 ΓÇö missing ID
+- Index 139 ΓÇö missing ID
+- Index 140 ΓÇö missing ID
+- Index 141 ΓÇö missing ID
+- Index 142 ΓÇö missing ID
+
+ID_ERROR:
+
+TOPIC_ERROR:
+
+LEVEL_ERROR:
+
+EXACT_DUPLICATE:
+- ID 95 ΓÇö duplicate of ID 88 ("call it a day")
+
+NEAR_DUPLICATE:
+
+TEMPLATE_ERROR:
+
+PHRASE_QUALITY_ERROR:
+
+EXAMPLE_ERROR:
+
+VIETNAMESE_ERROR:
+
+IPA_ERROR:
+
+B. DELETE_AND_REGEN_IDS
+
+DELETE_AND_REGEN_IDS:
+[95]
